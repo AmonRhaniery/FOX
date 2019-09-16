@@ -1,27 +1,20 @@
 package org.aksw.fox;
 
+import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.tools.ner.ToolsGenerator;
+import org.aksw.fox.data.FoxParameter;
+import org.aksw.fox.tools.ToolsGenerator;
 import org.aksw.fox.tools.ner.en.StanfordEN;
-import org.aksw.fox.utils.FoxCfg;
-import org.aksw.fox.utils.FoxConst;
-import org.aksw.fox.web.Server;
+import org.aksw.simba.knowledgeextraction.commons.io.Requests;
 import org.apache.http.entity.ContentType;
 import org.apache.jena.riot.Lang;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.json.JSONObject;
 
-import de.renespeck.swissknife.http.Requests;
-
 public class Example {
-  static {
-    PropertyConfigurator.configure(FoxCfg.LOG_FILE);
-  }
 
   public final static Logger LOG = LogManager.getLogger(Example.class);
 
@@ -34,10 +27,10 @@ public class Example {
   /**
    * Example programmatic use of FOX.
    */
-  public static void programmatic() {
+  protected static void programmatic() {
     LOG.info("programmatic ...");
 
-    final String lang = Fox.Langs.EN.toString();
+    final String lang = FoxParameter.Langs.EN.toString();
     LOG.info(lang);
     LOG.info(ToolsGenerator.usedLang);
     if (!ToolsGenerator.usedLang.contains(lang)) {
@@ -45,22 +38,22 @@ public class Example {
     } else {
       final Fox fox = new Fox(lang);
 
-      final Map<String, String> defaults = fox.getDefaultParameter();
+      final Map<String, String> defaults = FoxParameter.getDefaultParameter();
 
-      defaults.put(Fox.Parameter.TYPE.toString(), Fox.Type.TEXT.toString());
-      defaults.put(Fox.Parameter.TASK.toString(), Fox.Task.NER.toString());
-      defaults.put(Fox.Parameter.OUTPUT.toString(), Lang.TURTLE.getName());
-      defaults.put(Fox.Parameter.INPUT.toString(), FoxConst.NER_EN_EXAMPLE_1);
+      defaults.put(FoxParameter.Parameter.TYPE.toString(), FoxParameter.Type.TEXT.toString());
+      defaults.put(FoxParameter.Parameter.TASK.toString(), FoxParameter.Task.NER.toString());
+      defaults.put(FoxParameter.Parameter.OUTPUT.toString(), Lang.TURTLE.getName());
+      defaults.put(FoxParameter.Parameter.INPUT.toString(), "Obama was born in Hawaii.");
       fox.setParameter(defaults);
 
       // fox light version
       final String tool = StanfordEN.class.getName();
-      Set<Entity> e;
+      List<Entity> e;
       if (!ToolsGenerator.nerTools.get(lang).contains(tool)) {
         LOG.warn("can't find the given tool " + tool);
       }
-      e = fox.doNERLight(tool);
-      // e = fox.doNER();
+      // e = fox.doNERLight(tool);
+      e = fox.doNER();
 
       // linking
       fox.setURIs(e);
@@ -68,25 +61,26 @@ public class Example {
       // output
       fox.setOutput(e, null);
 
-      LOG.info(fox.getResults());
+      LOG.info(fox.getResultsAndClean());
     }
   }
 
   /**
    * Example web api use of FOX.
    */
-  private static void _webAPI(final String url) {
+  protected static void _webAPI(final String url) {
     LOG.info("webAPI ...");
 
     try {
       final String r = Requests.postJson(url.concat("/call/ner/entities"),
-          new JSONObject().put(Fox.Parameter.TYPE.toString(), Fox.Type.TEXT.toString())
+          new JSONObject()
+              .put(FoxParameter.Parameter.TYPE.toString(), FoxParameter.Type.TEXT.toString())
               /*
-               * .put(Fox.Parameter.LANG.toString(), Fox.Langs.EN.toString())
+               * .put(FoxParameter.Parameter.LANG.toString(), FoxParameter.Langs.EN.toString())
                */
-              .put(Fox.Parameter.TASK.toString(), Fox.Task.NER.toString())
-              .put(Fox.Parameter.OUTPUT.toString(), Lang.TURTLE.getName())
-              .put(Fox.Parameter.INPUT.toString(), FoxConst.NER_EN_EXAMPLE_1),
+              .put(FoxParameter.Parameter.TASK.toString(), FoxParameter.Task.NER.toString())
+              .put(FoxParameter.Parameter.OUTPUT.toString(), Lang.TURTLE.getName())
+              .put(FoxParameter.Parameter.INPUT.toString(), "Obama was born in Hawaii."),
           ContentType.APPLICATION_JSON);
       LOG.info(r);
 

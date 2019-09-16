@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.data.EntityClassMap;
+import org.aksw.fox.data.EntityTypes;
+import org.aksw.fox.data.encode.BILOUEncoding;
 import org.aksw.fox.tools.ner.AbstractNER;
-import org.aksw.fox.utils.FoxCfg;
 
 import ca.uottawa.balie.Balie;
 import ca.uottawa.balie.DisambiguationRulesNerf;
@@ -33,30 +33,30 @@ public abstract class BalieCommon extends AbstractNER {
   public BalieCommon(final String lang) {
     this.lang = lang;
 
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.organization.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.location.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.person.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.airport.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.celebrity.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.character.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.continent.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.company.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.conference.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.country.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.county.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.company_designator.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.castle.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.cathedral.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.city.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.food_brand.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.first_name.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.facility.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.geological.name(), EntityClassMap.L);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.geo_political.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.hospital.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.hotel.name(), EntityClassMap.O);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.last_name.name(), EntityClassMap.P);
-    entityClasses.put(NamedEntityTypeEnumMappingNerf.NOTHING.name(), EntityClassMap.N);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.organization.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.location.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.person.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.airport.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.celebrity.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.character.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.continent.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.company.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.conference.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.country.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.county.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.company_designator.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.castle.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.cathedral.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.city.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.food_brand.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.first_name.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.facility.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.geological.name(), EntityTypes.L);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.geo_political.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.hospital.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.hotel.name(), EntityTypes.O);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.last_name.name(), EntityTypes.P);
+    entityClasses.put(NamedEntityTypeEnumMappingNerf.NOTHING.name(), BILOUEncoding.O);
   }
 
   public void setLang(final String lang) {
@@ -65,7 +65,6 @@ public abstract class BalieCommon extends AbstractNER {
 
   @Override
   public List<Entity> retrieve(final String input) {
-    LOG.info("retrieve ...");
 
     final Tokenizer tokenizer = new Tokenizer(lang, true);
     tokenizer.Reset(); // ?
@@ -83,29 +82,30 @@ public abstract class BalieCommon extends AbstractNER {
     String lastType = null;
     for (int i = 0; i < tokenList.Size(); i++) {
 
-      float re = Entity.DEFAULT_RELEVANCE;
-      if ((FoxCfg.get("balieDefaultRelevance") != null)
-          && !Boolean.valueOf(FoxCfg.get("balieDefaultRelevance"))) {
-        final Double like = ner.map.get(i);
-        if (like != null) {
-          re = like.floatValue();
-        }
-      }
+      final float re = Entity.DEFAULT_RELEVANCE;
+      // if ((FoxCfg.get("balieDefaultRelevance") != null)
+      // && !Boolean.valueOf(FoxCfg.get("balieDefaultRelevance"))) {
+      // final Double like = ner.map.get(i);
+      // if (like != null) {
+      // re = like.floatValue();
+      // }
+      // }
       final Token token = tokenList.Get(i);
       String type = token.EntityType().GetLabel(NamedEntityTypeEnumMappingNerf.values());
-      if ((type != null) && !type.equals("nothing")) {
+      if (type != null && !type.equals("nothing")) {
         type = type.toLowerCase();
         LOG.debug(token + ":" + type);
       }
 
-      if ((type != null) && (mapTypeToSupportedType(type) != EntityClassMap.getNullCategory())
-          && type.equals(lastType) && (list.size() > 0)) {
+      if (type != null && mapTypeToSupportedType(type) != BILOUEncoding.O && type.equals(lastType)
+          && list.size() > 0) {
 
         list.get(list.size() - 1).addText(token.Raw());
 
       } else {
-        if (mapTypeToSupportedType(type) != EntityClassMap.getNullCategory()) {
-          list.add(getEntity(token.Raw(), mapTypeToSupportedType(type), re, getToolName()));
+        if (mapTypeToSupportedType(type) != BILOUEncoding.O) {
+          list.add(new Entity(token.Raw(), mapTypeToSupportedType(type), re, getToolName(),
+              token.StartPos()));
         }
         lastType = type;
       }

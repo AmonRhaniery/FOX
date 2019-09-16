@@ -1,21 +1,23 @@
 package org.aksw.fox.nerlearner.reader;
 
 import java.io.IOException;
+import java.util.List;
 import java.util.Map;
 
-import org.aksw.fox.utils.FoxCfg;
+import org.aksw.fox.data.Entity;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
 public interface INERReader {
 
-    public static final String CFG_KEY_MAX_SENTENCES = INERReader.class.getName().concat(".maxSentences");
-    public static final Logger LOG                   = LogManager.getLogger(INERReader.class);
-    public static final int    maxSentences          = Integer.valueOf(FoxCfg.get(CFG_KEY_MAX_SENTENCES));
+  Logger LOG = LogManager.getLogger(INERReader.class);
 
-    public void initFiles(String[] initFiles) throws IOException;
+  void initFiles(String[] initFiles) throws IOException;
 
-    public String getInput();
+  String input();
 
-    public Map<String, String> getEntities();
+  @Deprecated
+  Map<String, String> getEntities();
+
+  List<Entity> entities();
 }

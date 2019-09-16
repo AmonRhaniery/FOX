@@ -11,18 +11,18 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+import org.aksw.fox.Fox;
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.data.EntityClassMap;
+import org.aksw.fox.data.EntityTypes;
 import org.aksw.fox.tools.ner.AbstractNER;
-import org.aksw.fox.utils.CfgManager;
+import org.aksw.simba.knowledgeextraction.commons.config.CfgManager;
+import org.aksw.simba.knowledgeextraction.commons.io.Requests;
 import org.apache.commons.configuration.XMLConfiguration;
 import org.apache.http.client.fluent.Form;
 import org.apache.http.entity.ContentType;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import de.renespeck.swissknife.http.Requests;
 
 public abstract class AlchemyCommon extends AbstractNER {
   /**
@@ -35,7 +35,8 @@ public abstract class AlchemyCommon extends AbstractNER {
    * 2: Posted text documents can be a maximum of 50 kilobytes. Larger documents will result in a
    * "content-exceeds-size-limit" error response.<br>
    */
-  public static final XMLConfiguration CFG = CfgManager.getCfg(AlchemyCommon.class);
+  public static final XMLConfiguration CFG =
+      new CfgManager(Fox.cfgFolder).getCfg(AlchemyCommon.class);
 
   private final String api_key = CFG.getString("apikey");
   private final String url = CFG.getString("url");
@@ -87,14 +88,13 @@ public abstract class AlchemyCommon extends AbstractNER {
     for (final String sen : _sentences) {
       JSONObject o = null;
       try {
-        final String response = Requests.postForm(url,
-            Form.form()//
-                .add("apikey", api_key)//
-                .add("text", sen) //
-                .add("outputMode", outputMode)//
-                .add("maxRetrieve", max) //
-                .add("coreference", "0")//
-                .add("linkedData", "0"), //
+        final String response = Requests.postForm(url, Form.form()//
+            .add("apikey", api_key)//
+            .add("text", sen) //
+            .add("outputMode", outputMode)//
+            .add("maxRetrieve", max) //
+            .add("coreference", "0")//
+            .add("linkedData", "0"), //
             ContentType.APPLICATION_JSON);
         o = new JSONObject(response);
       } catch (JSONException | IOException e) {
@@ -109,7 +109,7 @@ public abstract class AlchemyCommon extends AbstractNER {
 
   protected List<Entity> alchemyNERResponseParser(final JSONObject o) {
     final List<Entity> list = new ArrayList<>();
-    if ((o == null) || (!o.has("entities"))) {
+    if (o == null || !o.has("entities")) {
       return list;
     } else {
       final JSONArray entities = o.getJSONArray("entities");
@@ -117,7 +117,7 @@ public abstract class AlchemyCommon extends AbstractNER {
         final JSONObject entity = entities.getJSONObject(i);
         final String type = entityClasses.get(entity.getString("type"));
         if (type != null) {
-          list.add(new Entity(entity.getString("text"), type));
+          list.add(new Entity(entity.getString("text"), type, TagMeCall.class.getName()));
         }
       }
     }
@@ -125,17 +125,17 @@ public abstract class AlchemyCommon extends AbstractNER {
   }
 
   protected void setTypes() {
-    entityClasses.put("Organization", EntityClassMap.O);
-    entityClasses.put("City", EntityClassMap.L);
-    entityClasses.put("Company", EntityClassMap.O);
-    entityClasses.put("Continent", EntityClassMap.L);
-    entityClasses.put("Country", EntityClassMap.L);
-    entityClasses.put("Facility", EntityClassMap.L);
-    entityClasses.put("Person", EntityClassMap.P);
-    entityClasses.put("StateOrCounty", EntityClassMap.L);
-    entityClasses.put("Region", EntityClassMap.L);
-    entityClasses.put("MusicGroup", EntityClassMap.O);
-    entityClasses.put("GeographicFeature", EntityClassMap.L);
+    entityClasses.put("Organization", EntityTypes.O);
+    entityClasses.put("City", EntityTypes.L);
+    entityClasses.put("Company", EntityTypes.O);
+    entityClasses.put("Continent", EntityTypes.L);
+    entityClasses.put("Country", EntityTypes.L);
+    entityClasses.put("Facility", EntityTypes.L);
+    entityClasses.put("Person", EntityTypes.P);
+    entityClasses.put("StateOrCounty", EntityTypes.L);
+    entityClasses.put("Region", EntityTypes.L);
+    entityClasses.put("MusicGroup", EntityTypes.O);
+    entityClasses.put("GeographicFeature", EntityTypes.L);
 
     /**
      * <code>

@@ -3,64 +3,82 @@ package org.aksw.fox.data;
 import java.net.URI;
 import java.util.List;
 
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+/**
+ *
+ * @author Ren&eacute; Speck <speck@informatik.uni-leipzig.de>
+ *
+ */
+public class Relation implements IData {
 
-public class Relation {
-    public static Logger      LOG               = LogManager.getLogger(Relation.class);
-    public static final float DEFAULT_RELEVANCE = -1;
+  public static final float DEFAULT_RELEVANCE = -1;
 
-    protected Entity          subjectEntity     = null;
-    protected String          relationLabel     = null;
-    protected String          relationByTool    = null;
+  protected Entity subjectEntity = null;
+  protected String relationLabel = null;
+  protected String relationByTool = null;
 
-    protected Entity          objectEntity      = null;
-    protected List<URI>       relation          = null;
-    protected String          tool              = null;
-    protected float           relevance         = DEFAULT_RELEVANCE;
+  protected Entity objectEntity = null;
+  protected List<URI> relation = null;
+  protected String tool = null;
+  protected float relevance = DEFAULT_RELEVANCE;
 
-    public Relation(Entity subjectEntity, String relationLabel, String relationByTool, Entity objectEntity, List<URI> relation, String tool, float relevance) {
-        this.subjectEntity = subjectEntity;
-        this.relationLabel = relationLabel;
-        this.relationByTool = relationByTool;
-        this.objectEntity = objectEntity;
-        this.relation = relation;
-        this.tool = tool;
-        this.relevance = relevance;
-    }
+  /***
+   *
+   * Constructor.
+   *
+   * @param subjectEntity
+   * @param relationLabel
+   * @param relationByTool
+   * @param objectEntity
+   * @param relation
+   * @param tool
+   * @param relevance
+   */
+  public Relation(final Entity subjectEntity, final String relationLabel,
+      final String relationByTool, final Entity objectEntity, final List<URI> relation,
+      final String tool, final float relevance) {
 
-    public Entity getSubjectEntity() {
-        return subjectEntity;
-    }
+    this.subjectEntity = subjectEntity;
+    this.relationLabel = relationLabel;
+    this.relationByTool = relationByTool;
+    this.objectEntity = objectEntity;
+    this.relation = relation;
+    this.tool = tool;
+    this.relevance = relevance;
+  }
 
-    public String getRelationLabel() {
-        return relationLabel;
-    }
+  public Entity getSubjectEntity() {
+    return subjectEntity;
+  }
 
-    public Entity getObjectEntity() {
-        return objectEntity;
-    }
+  public String getRelationLabel() {
+    return relationLabel;
+  }
 
-    public List<URI> getRelation() {
-        return relation;
-    }
+  public Entity getObjectEntity() {
+    return objectEntity;
+  }
 
-    public String getRelationByTool() {
-        return relationByTool;
-    }
+  public List<URI> getRelation() {
+    return relation;
+  }
 
-    public String getTool() {
-        return tool;
-    }
+  public String getRelationByTool() {
+    return relationByTool;
+  }
 
-    public float getRelevance() {
-        return relevance;
-    }
+  @Override
+  public String getToolName() {
+    return tool;
+  }
 
-    @Override
-    public String toString() {
-        return "Relation [subjectEntity=" + subjectEntity + ","
-                + " relationLabel=" + relationLabel + ", objectEntity=" + objectEntity + ","
-                + " relation=" + relation + ", tool=" + tool + ", relevance=" + relevance + "]";
-    }
+  public float getRelevance() {
+    return relevance;
+  }
+
+  @Override
+  public String toString() {
+    return "Relation [subjectEntity=" + subjectEntity + "," + " relationLabel=" + relationLabel
+        + ", objectEntity=" + objectEntity + "," + " relation=" + relation + ", tool=" + tool
+        + ", relevance=" + relevance + "]";
+  }
 }

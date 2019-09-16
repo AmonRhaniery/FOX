@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Locale;
 
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.data.EntityClassMap;
+import org.aksw.fox.data.EntityTypes;
+import org.aksw.fox.data.encode.BILOUEncoding;
 import org.aksw.fox.tools.ner.AbstractNER;
-import org.aksw.fox.utils.CfgManager;
-import org.aksw.fox.utils.FoxConst;
+import org.aksw.simba.knowledgeextraction.commons.io.Requests;
 import org.apache.commons.configuration.XMLConfiguration;
 import org.apache.http.client.fluent.Form;
 import org.apache.http.entity.ContentType;
@@ -17,8 +17,6 @@ import org.apache.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import de.renespeck.swissknife.http.Requests;
 
 public abstract class SpotlightCommon extends AbstractNER {
 
@@ -34,13 +32,19 @@ public abstract class SpotlightCommon extends AbstractNER {
   Locale lang;
 
   public SpotlightCommon(final Locale lang) {
-    CFG = CfgManager.getCfg(this.getClass());
+    CFG = cfgManager.getCfg(this.getClass());
 
-    SPOTLIGHT_URL = CFG.getString(FoxConst.CFG_KEY_SPOTLIGHT_URL);
-    SPOTLIGHT_CONFIDENCE = CFG.getString(FoxConst.CFG_KEY_SPOTLIGHT_CONFIDENCE);
-    SPOTLIGHT_SUPPORT = CFG.getString(FoxConst.CFG_KEY_SPOTLIGHT_SUPPORT);
-    SPOTLIGHT_TYPES = CFG.getString(FoxConst.CFG_KEY_SPOTLIGHT_TYPES);
-    SPOTLIGHT_SPARQL = CFG.getString(FoxConst.CFG_KEY_SPOTLIGHT_SPARQL);
+    final String CFG_KEY_SPOTLIGHT_URL = "spotlight.url";
+    final String CFG_KEY_SPOTLIGHT_CONFIDENCE = "spotlight.confidence";
+    final String CFG_KEY_SPOTLIGHT_SUPPORT = "spotlight.support";
+    final String CFG_KEY_SPOTLIGHT_TYPES = "spotlight.types";
+    final String CFG_KEY_SPOTLIGHT_SPARQL = "spotlight.sparql";
+
+    SPOTLIGHT_URL = CFG.getString(CFG_KEY_SPOTLIGHT_URL);
+    SPOTLIGHT_CONFIDENCE = CFG.getString(CFG_KEY_SPOTLIGHT_CONFIDENCE);
+    SPOTLIGHT_SUPPORT = CFG.getString(CFG_KEY_SPOTLIGHT_SUPPORT);
+    SPOTLIGHT_TYPES = CFG.getString(CFG_KEY_SPOTLIGHT_TYPES);
+    SPOTLIGHT_SPARQL = CFG.getString(CFG_KEY_SPOTLIGHT_SPARQL);
 
     this.lang = lang;
   }
@@ -57,7 +61,7 @@ public abstract class SpotlightCommon extends AbstractNER {
     entityList = new ArrayList<>();
     for (final String sentence : sentences) {
       input += sentence;
-      if ((counter % concatSentences) != 0) {
+      if (counter % concatSentences != 0) {
         counter++;
         if (!sentences.get(sentences.size() - 1).equals(sentence)) {
           continue;
@@ -69,12 +73,12 @@ public abstract class SpotlightCommon extends AbstractNER {
         LOG.info("Empty input!");
       } else {
         try {
+
           spotlightResponse = Requests.postForm(//
-              SPOTLIGHT_URL,
-              Form.form()//
+              SPOTLIGHT_URL, Form.form()//
                   .add("confidence", SPOTLIGHT_CONFIDENCE)//
                   .add("support", SPOTLIGHT_SUPPORT)//
-                  .add("types", SPOTLIGHT_TYPES)//
+                  // .add("types", SPOTLIGHT_TYPES)//
                   .add("sparql", SPOTLIGHT_SPARQL)//
                   .add("text", input)//
                   .add("types", "Person,Organisation,Location,Place"), //
@@ -105,7 +109,7 @@ public abstract class SpotlightCommon extends AbstractNER {
             final JSONObject entity = entities.getJSONObject(i);
             LOG.debug(entity.toString(2));
             final String type = spotlight(entity.getString("@types"));
-            if (!type.equals(EntityClassMap.getNullCategory())) {
+            if (!type.equals(BILOUEncoding.O)) {
               entityList.add(getEntity(entity.getString("@surfaceForm"), type,
                   Entity.DEFAULT_RELEVANCE, getToolName()));
             }
@@ -128,18 +132,31 @@ public abstract class SpotlightCommon extends AbstractNER {
    * Gets the entity class for a spotlight entity type/class.
    */
   protected String spotlight(final String spotlightTag) {
-    String t = EntityClassMap.getNullCategory();
-    if ((spotlightTag == null) || spotlightTag.trim().isEmpty()) {
+    String t = BILOUEncoding.O;
+    if (spotlightTag == null || spotlightTag.trim().isEmpty()) {
       return t;
     }
-    if (spotlightTag.toLowerCase().contains("person")) {
-      t = EntityClassMap.P;
-    } else if (spotlightTag.toLowerCase().contains("organisation")) {
-      t = EntityClassMap.O;
-    } else if (spotlightTag.toLowerCase().contains("place")) {
-      t = EntityClassMap.L;
-    } else if (spotlightTag.toLowerCase().contains("location")) {
-      t = EntityClassMap.L;
+
+    if (spotlightTag.toLowerCase().contains("dbpedia:organisation")) {
+      t = EntityTypes.O;
+    } else if (spotlightTag.toLowerCase().contains("dbpedia:person")) {
+      t = EntityTypes.P;
+    } else if (spotlightTag.toLowerCase().contains("dbpedia:place")) {
+      t = EntityTypes.L;
+    } else if (spotlightTag.toLowerCase().contains("dbpedia:location")) {
+      t = EntityTypes.L;
+    }
+
+    if (t.equals(BILOUEncoding.O)) {
+      if (spotlightTag.toLowerCase().contains("organisation")) {
+        t = EntityTypes.O;
+      } else if (spotlightTag.toLowerCase().contains("person")) {
+        t = EntityTypes.P;
+      } else if (spotlightTag.toLowerCase().contains("place")) {
+        t = EntityTypes.L;
+      } else if (spotlightTag.toLowerCase().contains("location")) {
+        t = EntityTypes.L;
+      }
     }
     return t;
   }

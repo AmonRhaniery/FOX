@@ -1,13 +1,22 @@
 language: java
+
 jdk:
   - oraclejdk8
+
 branches:
   only:
     - master
-sudo: false
-notifications:
-  email:
-    recipients:
-      - speck@informatik.uni-leipzig.de
-    on_success: change
-    on_failure: change
+
+sudo: true
+
+cache:
+  apt: true
+  directories:
+    - ~/.m2
+
+install:
+    - git clone https://github.com/renespeck/knowledgeextraction
+    - cd knowledgeextraction
+    - mvn compile install --quiet
+
+script: mvn clean compile --quiet -DskipTests=true

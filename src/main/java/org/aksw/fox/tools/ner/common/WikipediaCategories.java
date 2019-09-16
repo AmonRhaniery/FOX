@@ -8,17 +8,22 @@ import java.util.Set;
 import org.aksw.jena_sparql_api.core.QueryExecutionFactory;
 import org.aksw.jena_sparql_api.http.QueryExecutionFactoryHttp;
 import org.aksw.jena_sparql_api.pagination.core.QueryExecutionFactoryPaginated;
+import org.aksw.simba.knowledgeextraction.commons.io.SerializationUtil;
+import org.apache.jena.query.ResultSet;
+import org.apache.jena.query.ResultSetFormatter;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import com.hp.hpl.jena.query.ResultSet;
-import com.hp.hpl.jena.query.ResultSetFormatter;
-
-import de.renespeck.swissknife.io.SerializationUtil;
-
+/**
+ * Creates dbpedia types for TagMe
+ *
+ * @author Ren&eacute; Speck <speck@informatik.uni-leipzig.de>
+ *
+ */
 public class WikipediaCategories {
+
   public static final Logger LOG = LogManager.getLogger(WikipediaCategories.class);
 
   public String getQuery(final String type) {
@@ -31,7 +36,6 @@ public class WikipediaCategories {
     sb.append("?s a ").append(type).append(".");
     sb.append("?s dct:subject ?cat");
     sb.append("}");
-    // TODO: remove limits
     // sb.append("} Limit 1000");
     return sb.toString();
   }
@@ -67,6 +71,7 @@ public class WikipediaCategories {
       qef = new QueryExecutionFactoryHttp(service, graph);
       qef = new QueryExecutionFactoryPaginated(qef, 10000);
       // qef = new QueryExecutionFactoryDelay(qef, 1);
+
       final ResultSet rs = qef.createQueryExecution(query).execSelect();
       final ByteArrayOutputStream baos = new ByteArrayOutputStream();
       ResultSetFormatter.outputAsJSON(baos, rs);
@@ -75,7 +80,11 @@ public class WikipediaCategories {
       LOG.error(e.getLocalizedMessage(), e);
     }
     if (qef != null) {
-      qef.close();
+      try {
+        qef.close();
+      } catch (final Exception e) {
+        LOG.error(e.getLocalizedMessage(), e);
+      }
     }
     return new JSONObject();
   }

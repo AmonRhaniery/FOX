@@ -8,7 +8,6 @@
 
 /log
 /demo/doc
-/fox.properties
 /foxFeedback.db
 /eval
 /tmp
@@ -21,3 +20,11 @@
 /externTools/TextPro2.0/*
 !/externTools/TextPro2.0/LICENCE
 !/externTools/TextPro2.0/NOTICE
+/data/maui/*
+/data/boa/*/
+/src/main/resources/public/demo/doc/*
+/docker/en/agdistis/*
+/docker/en/spotlight/*
+/out/*
+/agdistis/*
+/spotlight/*

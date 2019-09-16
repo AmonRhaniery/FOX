@@ -3,24 +3,18 @@ package org.aksw.fox.tools.ner;
 import java.text.BreakIterator;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.Set;
-import java.util.concurrent.CountDownLatch;
 
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.data.EntityClassMap;
+import org.aksw.fox.data.EntityTypes;
+import org.aksw.fox.data.encode.BILOUEncoding;
+import org.aksw.fox.tools.ATool;
 import org.aksw.fox.utils.FoxTextUtil;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
 
-public abstract class AbstractNER implements INER {
+public abstract class AbstractNER extends ATool implements INER {
 
-  public static final Logger LOG = LogManager.getLogger(AbstractNER.class);
-
-  protected CountDownLatch cdl = null;
   protected String input = null;
 
   protected List<Entity> entityList = null;
@@ -29,23 +23,20 @@ public abstract class AbstractNER implements INER {
   @Override
   abstract public List<Entity> retrieve(String input);
 
-  public List<Entity> _retrieve(final String input) {
-    final List<Entity> list = new ArrayList<>();
-    final Set<Entity> set = new HashSet<>(retrieve(input));
-    list.addAll(set);
-    entityList = clean(list);
+  protected List<Entity> _retrieve(final String input) {
+    entityList = clean(retrieve(input));
     return entityList;
-  }
-
-  @Override
-  public String getToolName() {
-    return getClass().getSimpleName();
   }
 
   @Override
   public void run() {
     if (input != null) {
+      LOG.info(this.getClass().getSimpleName().concat(" retrieving ..."));
+
       _retrieve(input);
+
+      LOG.info("retrieve done");
+
     } else {
       LOG.error("Input not set!");
     }
@@ -59,16 +50,17 @@ public abstract class AbstractNER implements INER {
     logMsg();
   }
 
+  /**
+   * Gets {{@link #getResults()}.
+   */
   @Override
   public List<Entity> getResults() {
     return entityList;
   }
 
-  @Override
-  public void setCountDownLatch(final CountDownLatch cdl) {
-    this.cdl = cdl;
-  }
-
+  /**
+   * Sets {{@link #input}.
+   */
   @Override
   public void setInput(final String input) {
     this.input = input;
@@ -76,6 +68,7 @@ public abstract class AbstractNER implements INER {
 
   /**
    * Creates a new Entity object.
+   *
    *
    * @param text
    * @param type
@@ -110,7 +103,7 @@ public abstract class AbstractNER implements INER {
       }
       entity.setText(cleanText.toString().trim());
     }
-    list = new ArrayList<Entity>(list);
+    list = new ArrayList<>(list);
 
     LOG.info("clean entities done.");
     return list;
@@ -124,7 +117,7 @@ public abstract class AbstractNER implements INER {
     int end = sentenceIterator.next();
     while (end != BreakIterator.DONE) {
       final String sentence = input.substring(start, end);
-      if ((sentence != null) && !sentence.isEmpty()) {
+      if (sentence != null && !sentence.isEmpty()) {
         sentences.add(sentence);
       }
       start = end;
@@ -142,7 +135,7 @@ public abstract class AbstractNER implements INER {
     }
     String t = entityClasses.get(toolType);
     if (t == null) {
-      t = EntityClassMap.N;
+      t = BILOUEncoding.O;
     }
     return t;
   }
@@ -150,10 +143,10 @@ public abstract class AbstractNER implements INER {
   private void logMsg() {
     // DEBUG
     if (entityList.size() > 0) {
-      LOG.debug(entityList.size() + "(" + entityList.iterator().next().getTool() + ")");
+      LOG.debug(entityList.size() + "(" + entityList.iterator().next().getToolName() + ")");
     }
     for (final Entity entity : entityList) {
-      LOG.debug(entity.getText() + "=>" + entity.getType() + "(" + entity.getTool() + ")");
+      LOG.debug(entity.getText() + "=>" + entity.getType() + "(" + entity.getToolName() + ")");
     }
 
     // INFO
@@ -161,13 +154,13 @@ public abstract class AbstractNER implements INER {
     final List<String> list = new ArrayList<>();
     for (final Entity e : entityList) {
       if (!list.contains(e.getText())) {
-        if (e.getType().equals(EntityClassMap.L)) {
+        if (e.getType().equals(EntityTypes.L)) {
           l++;
         }
-        if (e.getType().equals(EntityClassMap.O)) {
+        if (e.getType().equals(EntityTypes.O)) {
           o++;
         }
-        if (e.getType().equals(EntityClassMap.P)) {
+        if (e.getType().equals(EntityTypes.P)) {
           p++;
         }
         list.add(e.getText());
@@ -182,13 +175,13 @@ public abstract class AbstractNER implements INER {
     o = 0;
     p = 0;
     for (final Entity e : entityList) {
-      if (e.getType().equals(EntityClassMap.L)) {
+      if (e.getType().equals(EntityTypes.L)) {
         l += e.getText().split(" ").length;
       }
-      if (e.getType().equals(EntityClassMap.O)) {
+      if (e.getType().equals(EntityTypes.O)) {
         o += e.getText().split(" ").length;
       }
-      if (e.getType().equals(EntityClassMap.P)) {
+      if (e.getType().equals(EntityTypes.P)) {
         p += e.getText().split(" ").length;
       }
     }

@@ -1,6 +1,5 @@
 package org.aksw.fox.tools.ner.en;
 
-import java.io.IOException;
 import java.io.NotSerializableException;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -9,14 +8,10 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import org.aksw.fox.data.EntityClassMap;
+import org.aksw.fox.data.EntityTypes;
 import org.aksw.fox.tools.ner.common.TagMeCommon;
 import org.aksw.fox.tools.ner.common.WikipediaCategories;
-import org.aksw.fox.utils.FoxCfg;
-import org.aksw.fox.utils.FoxConst;
-import org.apache.log4j.PropertyConfigurator;
-
-import de.renespeck.swissknife.io.SerializationUtil;
+import org.aksw.simba.knowledgeextraction.commons.io.SerializationUtil;
 
 public class TagMeEN extends TagMeCommon {
   final String file = "dataEN.bin";
@@ -25,9 +20,9 @@ public class TagMeEN extends TagMeCommon {
     super(Locale.ENGLISH, "http://dbpedia.org/sparql", "http://dbpedia.org");
 
     final Map<String, String> fileToType = new HashMap<>();
-    fileToType.put("catsOrganisationEN.bin", EntityClassMap.O);
-    fileToType.put("catsLocationEN.bin", EntityClassMap.L);
-    fileToType.put("catsPersonEN.bin", EntityClassMap.P);
+    fileToType.put("catsOrganisationEN.bin", EntityTypes.O);
+    fileToType.put("catsLocationEN.bin", EntityTypes.L);
+    fileToType.put("catsPersonEN.bin", EntityTypes.P);
 
     createEnWikipediaCategories().forEach((k, set) -> //
     set.forEach(v -> entityClasses.put(v.replace("http://dbpedia.org/resource/Category:", ""),
@@ -78,10 +73,5 @@ public class TagMeEN extends TagMeCommon {
       fileToSetClean.put(key1, value1);
     }
     return fileToSetClean;
-  }
-
-  public static void main(final String[] a) throws IOException {
-    PropertyConfigurator.configure(FoxCfg.LOG_FILE);
-    new TagMeEN().retrieve(FoxConst.NER_EN_EXAMPLE_1).forEach(LOG::info);
   }
 }

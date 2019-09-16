@@ -9,9 +9,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.Callable;
 
+import org.aksw.fox.Fox;
 import org.aksw.fox.data.Entity;
-import org.aksw.fox.utils.CfgManager;
-import org.aksw.jena_sparql_api.core.QueryExecutionFactory;
+import org.aksw.simba.knowledgeextraction.commons.config.CfgManager;
+import org.aksw.simba.knowledgeextraction.commons.io.Requests;
 import org.apache.commons.configuration.XMLConfiguration;
 import org.apache.http.client.fluent.Form;
 import org.apache.http.entity.ContentType;
@@ -20,12 +21,11 @@ import org.apache.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import de.renespeck.swissknife.http.Requests;
-
 class TagMeCall implements Callable<List<Entity>> {
   public static final Logger LOG = LogManager.getLogger(TagMeCall.class);
 
-  public static final XMLConfiguration CFG = CfgManager.getCfg(TagMeCommon.class);
+  public static final XMLConfiguration CFG =
+      new CfgManager(Fox.cfgFolder).getCfg(TagMeCommon.class);
 
   public static final String CFG_KEY_TAGME_KEY = "tagMe.key";
   public static final String CFG_KEY_SPARQL_ENDPOINT = "tagMe.sparqlEndpoint";
@@ -49,7 +49,7 @@ class TagMeCall implements Callable<List<Entity>> {
   String sentence;
   Locale lang;
 
-  QueryExecutionFactory qef;
+  // QueryExecutionFactory qef;
   Map<String, String> entityClassMap;
 
   public TagMeCall(final String sentence, final Locale lang,
@@ -69,14 +69,14 @@ class TagMeCall implements Callable<List<Entity>> {
       for (int i = 0; i < annos.length(); i++) {
         final JSONObject anno = annos.getJSONObject(i);
         if (anno.has("dbpedia_categories") && anno.has("spot") && anno.has("rho")
-            && (anno.getDouble("rho") >= MIN_RHO)) {
+            && anno.getDouble("rho") >= MIN_RHO) {
           final JSONArray ja = anno.getJSONArray("dbpedia_categories");
 
           for (int ii = 0; ii < ja.length(); ii++) {
             final String tmpType = entityClassMap.get(ja.getString(ii).replace(" ", "_"));
 
-            if ((tmpType != null)) {
-              entities.add(new Entity(anno.getString("spot"), tmpType));
+            if (tmpType != null) {
+              entities.add(new Entity(anno.getString("spot"), tmpType, TagMeCall.class.getName()));
               break;
             }
           }
@@ -95,16 +95,14 @@ class TagMeCall implements Callable<List<Entity>> {
   public JSONObject send() {
     String response = "";
     try {
-      response = Requests.postForm(ENDPOINT,
-          Form.form()//
-              .add("key", TAGME_KEY)//
-              .add("text", sentence)//
-              .add("lang", lang.getLanguage())//
-              .add("epsilon", epsilon)//
-              .add("min_comm", min_comm)//
-              .add("min_link", min_link)//
-              .add("include_categories", include_categories),
-          ContentType.APPLICATION_JSON);
+      response = Requests.postForm(ENDPOINT, Form.form()//
+          .add("key", TAGME_KEY)//
+          .add("text", sentence)//
+          .add("lang", lang.getLanguage())//
+          .add("epsilon", epsilon)//
+          .add("min_comm", min_comm)//
+          .add("min_link", min_link)//
+          .add("include_categories", include_categories), ContentType.APPLICATION_JSON);
       return new JSONObject(response);
     } catch (final IOException e) {
       LOG.error(e.getLocalizedMessage(), e);
