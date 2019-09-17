@@ -94,11 +94,11 @@
 		</dependency>
 
 		<!-- org.aksw.simba.knowledgeextraction -->
-		<dependency>
+	<!--	<dependency>
 			<groupId>org.aksw.simba.knowledgeextraction</groupId>
 			<artifactId>commons</artifactId>
 			<version>0.0.1</version>
-		</dependency>
+		</dependency> -->
 		<!-- <dependency> <groupId>org.aksw.simba.knowledgeextraction</groupId> 
 			<artifactId>ocelot</artifactId> <version>0.0.1</version> </dependency> -->
 		<!-- <dependency> <groupId>org.aksw.simba.knowledgeextraction</groupId> 
