@@ -1,7 +1,6 @@
-package org.aksw.fox.tools.ner.linking.pt;
+package org.aksw.fox.tools.linking.pt;
 
-import org.aksw.fox.tools.ner.linking.common.Agdistis;
-import org.aksw.fox.utils.CfgManager;
+import org.aksw.fox.tools.linking.common.Agdistis;
 
 /**
  * This class uses the Agdistis web service.
@@ -11,6 +10,6 @@ import org.aksw.fox.utils.CfgManager;
  */
 public class AgdistisPT extends Agdistis {
   public AgdistisPT() {
-    super(CfgManager.getCfg(AgdistisPT.class));
+    super(AgdistisPT.class);
   }
 }
