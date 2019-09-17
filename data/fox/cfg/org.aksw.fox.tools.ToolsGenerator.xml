@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <toolsGenerator>
-        <lang>de, en, es, fr, nl</lang>
+        <lang>de, en, es, fr, nl, pt</lang>
         <!--
         <usedLang>de, en, es, fr, nl</usedLang>
          -->
-         <usedLang>en</usedLang>
+         <usedLang>pt</usedLang>
         <disambiguationTool
             de="org.aksw.fox.tools.linking.de.AgdistisDE"
             en="org.aksw.fox.tools.linking.en.AgdistisEN"
@@ -13,6 +13,7 @@
             fr="org.aksw.fox.tools.linking.fr.AgdistisFR"
             it="org.aksw.fox.tools.linking.it.AgdistisIT"
             nl="org.aksw.fox.tools.linking.nl.AgdistisNL"
+            pt="org.aksw.fox.tools.linking.pt.AgdistisPT"
         ></disambiguationTool>
 	
         <nerTools
@@ -52,7 +53,11 @@
             org.aksw.fox.tools.ner.nl.OpenNLPNL,
             org.aksw.fox.tools.ner.nl.SpotlightNL
             "
-
+            pt="
+            org.aksw.fox.tools.ner.pt.OpenNLPPT,
+            org.aksw.fox.tools.ner.pt.StanfordPT,
+            org.aksw.fox.tools.ner.pt.SpotlightPT
+            "
         ></nerTools>
         
         <reTools
@@ -78,6 +83,7 @@
             fr="org.aksw.fox.tools.ner.fr.OpenNLPFR"
             it="org.aksw.fox.tools.ner.it.TagMeIT"
             nl="org.aksw.fox.tools.ner.nl.OpenNLPNL"
+            pt="org.aksw.fox.tools.ner.pt.StanfordPT"
         ></lightTool>
     </toolsGenerator>
 </config>

@@ -1,0 +1,27 @@
+Os<art> outros<pron-det> que<pron-indp> aproveitassem<v-fin> obter<v-inf> informações<n> dos<v-pcp> defuntos<n> ,<punc> situação<n> e<conj-c> paradeiro<prp> dos<n> antepassados<v-pcp> .<punc> 
+0<num> corvo<n> ,<punc> através<adv> da<v-pcp> sua<pron-det> tradução<n> ,<punc> responderia<v-fin> às<adv> perguntas<n> .<punc> 
+Os<art> pedidos<n> logo<adv> acorreram<v-fin> ,<punc> numerosos<adj> .<punc> 
+<EM ID="4133" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Zuzé<prop> </EM> já<adv> não<adv> tinha<v-fin> quarto<n> ,<punc> era<v-fin> gabinete<n> .<punc> 
+Não<adv> dava<v-fin> conversa<v-pcp> ,<punc> eram<v-fin> consultas<adj> .<punc> 
+Prestava<v-fin> favores<adj> ,<punc> adiava<v-fin> as<art> datas<n> ,<punc> demorava<v-fin> atendimentos<n> .<punc> 
+Pagava-se<prop> com<prp> tabela<n> :<punc> morridos<v-pcp> no<adj> ano<n> corrente<adj> ,<punc> cinquenta<adj> escudos<n> ;<punc> comunicação<n> com<prp> anos<n> transactos<adj> ,<punc> cento<n> e<conj-c> cinquenta<n> ;<punc> mortos<adj> fora<v-fin> de<prp> prazo<n> ,<punc> duzentos<n> e<conj-c> cinquenta<v-fin> .<punc> 
+E<conj-c> aqui<adv> entra<v-fin> na<pron-pers> história<n> <EM ID="4134" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Dona<prop> Candida<prop> </EM> ,<punc> mulata<n> de<prp> volumosa<adj> bondade<n> ,<punc> mulher<n> sem<prp> inimigo<n> .<punc> 
+Recém-viúva<prop> ,<punc> já<adv> ex-viúva<v-fin> .<punc> 
+Casou<v-fin> rápido<adj> segunda<adj> vez<n> ,<punc> desforrando<v-ger> os<art> destemperos<n> da<v-pcp> ausência<n> .<punc> 
+Quando<adv> recasou<v-fin> ,<punc> escolheu<v-fin> <EM ID="4135" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Sulemane<prop> Amade<prop> </EM> ,<punc> comerciante<n> indiano<adj> da<v-pcp> povoação<n> .<punc> 
+Não<adv> tinha<v-fin> passado<v-pcp> tempo<n> desde<prp> que<pron-indp> morrera<v-fin> <EM ID="4136" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Evaristo<prop> Muchanga<prop> </EM> ,<punc> seu<pron-det> primeiro<adj> marido<n> .<punc> 
+Mas<conj-c> <EM ID="4137" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Candida<prop> </EM> não<adv> podia<v-fin> guardar<v-inf> a<art> vida<n> dela<adj> .<punc> 
+Seu<pron-det> corpo<n> ainda<adv> estava<v-fin> para<prp> ser<v-inf> mexido<adj> ,<punc> podia<v-fin> até<prp> ser<v-inf> mãe<n> .<punc> 
+Verdade<n> é<v-fin> que<conj-s> ,<punc> nesse<v-fin> intervalo<n> ,<punc> nunca<adv> foi<v-fin> muito<adv> viúva<adj> .<punc> 
+Era<v-fin> uma<art> solitária<n> de<prp> acidente<n> ,<punc> não<adv> de<prp> crença<n> .<punc> 
+Nunca<adv> abrandou<v-fin> de<prp> ser<v-inf> mulher<n> .<punc> 
+-<punc> Casei<prop> .<punc> 
+E<conj-c> depois<adv> ?<punc> 
+Preciso<n> explicar<v-inf> o<art> quê<pron-indp> ?<punc> 
+E<conj-c> nestas<pron-det> palavras<n> ,<punc> <EM ID="4138" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Dona<prop> Candida<prop> </EM> começou<v-fin> sua<pron-det> queixa<n> para<prp> <EM ID="4139" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Zuzé<prop> Paraza<prop> </EM> .<punc> 
+Quando<adv> se<pron-pers> soube<v-fin> solicitado<v-pcp> ,<punc> o<art> adivinho<n> até<prp> adiantou<v-fin> a<art> data<n> da<v-pcp> consulta<v-fin> .<punc> 
+Nunca<adv> tinha<v-fin> chegado<v-pcp> uma<art> mulata<n> .<punc> 
+Os<art> préstimos<n> de<prp> <EM ID="4140" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Zuzé<prop> </EM> nunca<adv> tinham<v-fin> sido<v-pcp> chamados<v-pcp> tão<adv> acima<adj> .<punc> 
+Não<adv> sou<v-fin> qualquer<pron-det> ,<punc> <EM ID="4141" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Sr<prop> .<punc> 
+Paraza<prop> </EM> .<punc> 
+Como<adv> é<v-fin> que<pron-indp> me<pron-pers> sucede<v-fin> uma<art> coisa<n> dessas<adj> ?<punc> 

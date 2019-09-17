@@ -1,0 +1,45 @@
+Qual<pron-det> o<art> seu<pron-det> nome<n> ?<punc> 
+<EM ID="398" CATEG="ABSTRACCAO" TIPO="NOME"  > Lúcio<n> Craveiro<prop> da<v-fin> Silva<prop> </EM> .<punc> 
+Onde<adv> nasceu<v-fin> ?<punc> 
+<EM ID="399" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> ,<punc> <EM ID="400" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> .<punc> 
+E<conj-c> data<n> de<prp> nascimento<n> ?<punc> 
+<EM ID="401" CATEG="TEMPO" TIPO="DATA"  > 27<num> de<prp> Novembro<n> de<prp> 1914<num> </EM> .<punc> 
+Qual<pron-det> o<art> nome<n> do<prp> seu<pron-det> pai<n> e<conj-c> da<v-pcp> sua<pron-det> mãe<n> ?<punc> 
+Meu<pron-det> pai<n> é<v-fin> <EM ID="402" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Gabriel<prop> Raimundo<punc> da<v-pcp> Silva<prop> </EM> .<punc> 
+Minha<pron-det> mãe<n> ,<punc> <EM ID="403" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Maria<prop> de<prp> Lurdes<prop> Craveiro<prop> da<v-pcp> Silva<prop> </EM> .<punc> 
+E<conj-c> os<art> seus<pron-det> avós<n> ?<punc> 
+<EM ID="404" CATEG="PESSOA" TIPO="INDIVIDUAL"  > José<prop> Craveiro<prop> </EM> da<v-pcp> minha<pron-det> mãe<n> .<punc> 
+Do<v-ger> meu<pron-det> pai<n> é<v-fin> que<conj-s> não<adv> sei<v-fin> .<punc> 
+Sabe<v-fin> qual<pron-det> a<art> origem<n> da<v-pcp> sua<pron-det> família<n> ?<punc> 
+O<art> meu<pron-det> pai<n> era<v-fin> agricultor<n> da<v-pcp> fronteira<n> ,<punc> <EM ID="405" CATEG="LOCAL" TIPO="HUMANO"  > S.Pedro<prop> do<v-ger> Rio<prop> Seco<prop> </EM> ,<punc> e<conj-c> depois<adv> seguiu<v-fin> a<art> vida<n> profissional<adj> de<prp> funcionário<n> dos<v-pcp> correiros<n> .<punc> 
+A<art> mãe<n> era<v-fin> de<prp> <EM ID="406" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> .<punc> 
+O<art> meu<pron-det> avô<n> era<v-fin> comerciante<adj> e<conj-c> a<art> família<n> depois<adv> desenvolveu-se<v-fin> .<punc> 
+Depois<adv> os<art> meus<pron-det> tios<n> ,<punc> um<art> é<art> médio<adj> ,<punc> outro<pron-det> é<v-fin> indústrial<adj> e<conj-c> as<art> minhas<pron-det> tias<n> casaram<v-fin> e<conj-c> seguiram<v-fin> a<art> sua<pron-det> vida<n> .<punc> 
+Era<v-fin> uma<art> família<n> de<prp> <EM ID="407" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<v-ger> </EM> muito<adv> conhecida<v-pcp> .<punc> 
+Tivemos<v-fin> uma<art> reunião<n> de<prp> família<n> ,<punc> juntaram-se<v-fin> mais<adv> de<prp> cem<num> pessoas<n> ,<punc> <EM ID="408" CATEG="PESSOA" TIPO="GRUPOIND"  > Craveiros<prop> </EM> ,<punc> isto<pron-indp> foi<v-fin> em<prp> <EM ID="409" CATEG="TEMPO" TIPO="DATA"  > 1998<num> </EM> que<pron-indp> nos<pron-pers> juntamos<v-fin> todos<pron-det> .<punc> 
+É<v-fin> que<conj-s> estamos<v-fin> todos<pron-det> espalhados<v-pcp> por<prp> este<pron-det> <EM ID="410" CATEG="LOCAL" TIPO="HUMANO"  > Portugal<prop> </EM> porque<conj-s> o<art> interior<n> tem<v-fin> poucas<pron-det> possibilidades<n> de<prp> vida<n> .<punc> 
+A<art> <EM ID="411" CATEG="LOCAL" TIPO="HUMANO"  > Beira-Interior<prop> </EM> é<v-fin> pobre<adj> ,<punc> e<conj-c> portanto<adv> ,<punc> quem<pron-indp> quer<v-fin> fazer<v-inf> alguma<pron-det> coisa<n> na<adj> vida<n> acaba<v-fin> por<prp> ir<v-inf> embora<conj-s> .<punc> 
+É<v-fin> por<prp> isso<pron-indp> estamos<v-fin> espalhados<v-pcp> por<prp> <EM ID="412" CATEG="LOCAL" TIPO="HUMANO"  > Portugal<prop> </EM> fora<adv> ,<punc> e<conj-c> mesmo<adv> aqui<adv> em<prp> <EM ID="413" CATEG="LOCAL" TIPO="HUMANO"  > Braga<prop> </EM> ,<punc> na<pron-pers> <EM ID="414" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Universidade<prop> do<v-pcp> Minho<prop> </EM> ,<punc> tenho<v-fin> primos<adj> que<conj-s> vieram<v-fin> para<prp> aqui<adv> ,<punc> para<prp> professores<n> .<punc> 
+E<conj-c> sabe<v-fin> qual<pron-det> a<art> origem<n> do<v-pcp> seu<pron-det> avô<n> que<pron-indp> era<v-fin> comerciante<adj> ?<punc> 
+O<art> meu<pron-det> avô<n> era<v-fin> comerciante<adj> de<prp> <EM ID="415" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> ,<punc> da<v-pcp> parte<n> da<v-pcp> minha<pron-det> mãe<n> ,<punc> que<pron-indp> era<v-fin> o<pron-det> que<pron-indp> eu<pron-pers> conhecia<v-fin> .<punc> 
+Da<prop> parte<v-fin> do<conj-s> meu<pron-det> pai<n> eram<v-fin> agricultores<n> .<punc> 
+Da<prop> parte<v-fin> do<conj-s> meu<pron-det> pai<n> desapareceu<v-fin> a<prp> família<n> toda<pron-det> ,<punc> foi<v-fin> para<prp> o<art> <EM ID="416" CATEG="LOCAL" TIPO="HUMANO"  > Brasil<prop> </EM> e<conj-c> para<prp> a<art> <EM ID="417" CATEG="LOCAL" TIPO="HUMANO"  > Argentina<prop> </EM> e<conj-c> nunca<adv> mais<adv> tive<v-fin> notícias<n> deles<adj> .<punc> 
+Da<prop> parte<v-fin> da<v-pcp> minha<pron-det> mãe<n> esses<pron-det> são<v-fin> de<prp> <EM ID="418" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> e<conj-c> continuam<v-fin> lá<adv> .<punc> 
+Que<conj-s> recordações<n> é<v-fin> que<conj-s> tem<v-fin> desse<prp> avô<n> materno<adj> ?<punc> 
+Olhe<v-fin> uma<art> maravilha<n> .<punc> 
+O<art> meu<pron-det> avô<n> era<v-fin> muito<pron-det> meu<pron-det> amigo<n> .<punc> 
+Um<num> dia<n> deu-me<prp> uma<art> bofetada<n> e<conj-c> depois<adv> quase<adv> que<pron-indp> me<pron-pers> pediu<v-fin> perdão<n> e<conj-c> eu<pron-pers> fiquei<v-fin> -"Não<n> !<punc> 
+O<art> avô<n> teve<v-fin> razão<n> em<prp> dar-me<n> a<prp> bofetada<n> !"<adj> .<punc> 
+Porque<conj-s> toda<pron-det> a<art> minha<pron-det> formação<n> vem<v-fin> da<v-pcp> família<n> da<v-pcp> minha<pron-det> mãe<n> ,<punc> porque<conj-s> a<art> família<n> do<v-pcp> meu<pron-det> pai<n> ,<punc> como<adv> digo<v-fin> ,<punc> estava<v-fin> longe<adv> ,<punc> e<conj-c> foram<v-fin> para<prp> o<art> <EM ID="419" CATEG="LOCAL" TIPO="HUMANO"  > Brasil<prop> </EM> e<conj-c> desde<prp> aí<adv> nunca<adv> mais<adv> os<pron-pers> vi<v-fin> .<punc> 
+Ao<prp> passo<n> que<pron-indp> ,<punc> da<v-fin> minha<pron-det> mãe<n> conheci<v-fin> toda<pron-det> a<art> família<n> e<conj-c> foi<v-fin> na<pron-pers> família<n> <EM ID="420" CATEG="PESSOA" TIPO="GRUPOIND"  > Craveiro<prop> </EM> ,<punc> no<n> fundo<adj> ,<punc> que<pron-indp> eu<pron-pers> nasci<v-fin> e<conj-c> desenvolvi<v-fin> como<adv> criança<n> .<punc> 
+Como<adv> descreve<v-fin> esse<pron-det> seu<pron-det> avô<n> ?<punc> 
+Um<art> homem<n> empreendedor<adj> ,<punc> muitas<pron-det> simpatias<n> à<pp> volta<n> dele<prp> .<punc> 
+Era<v-fin> um<art> homem<n> que<pron-indp> sabia<v-fin> conviver<v-inf> ,<punc> não<adv> tinha<v-fin> inimigos<n> ,<punc> eram<v-fin> todos<pron-det> muito<adv> amigos<adj> dele<n> e<conj-c> por<prp> isso<pron-indp> ,<punc> quase<adv> todos<pron-det> os<punc> que<pron-indp> vinham<v-fin> para<prp> a<art> <EM ID="421" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> ,<punc> daquela<v-fin> região<n> ,<punc> paravam<prp> na<adj> loja<n> dele<adv> para<prp> conversar<v-inf> um<art> pedaço<n> e<conj-c> depois<adv> é<v-fin> que<conj-s> seguiam<v-fin> para<prp> a<art> <EM ID="422" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> .<punc> 
+É<v-fin> uma<art> coisa<n> interessante<adj> .<punc> 
+E<conj-c> o<art> pai<n> dele<prp> tinha<pron-det> umas<pron-det> ligações<n> entre<prp> <EM ID="423" CATEG="LOCAL" TIPO="HUMANO"  > Coimbra<prop> </EM> e<conj-c> <EM ID="424" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> ,<punc> que<pron-indp> era<v-fin> a<art> ligação<n> que<pron-indp> faziam<v-fin> em<prp> "galeras"<n> ,<punc> carros<n> de<prp> comércio<n> ,<punc> entre<prp> <EM ID="425" CATEG="LOCAL" TIPO="HUMANO"  > Coimbra<prop> </EM> e<conj-c> <EM ID="426" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> .<punc> 
+E<conj-c> creio<v-fin> que<conj-s> o<art> meu<pron-det> bisavô<n> ,<punc> que<pron-indp> eu<pron-pers> conheci<v-fin> ,<punc> da<v-pcp> parte<n> do<v-pcp> meu<pron-det> pai<n> ,<punc> que<pron-indp> veio<v-fin> para<prp> <EM ID="427" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<v-ger> </EM> para<prp> fugir<v-inf> à<pp> vida<n> militar<adj> .<punc> 
+<EM ID="428" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<v-ger> </EM> tinha<v-fin> o<art> privilégio<n> das<v-pcp> tábuas<pron-det> vermelhas<n> ,<punc> que<pron-indp> é<v-fin> daqui<adv> de<prp> <EM ID="429" CATEG="LOCAL" TIPO="HUMANO"  > Guimarães<prop> </EM> ,<punc> e<conj-c> as<art> terras<n> que<pron-indp> tinham<v-fin> as<art> tábuas<n> vermelhas<adj> estavam<v-fin> dispensados<v-pcp> do<v-pcp> serviço<n> militar<adj> .<punc> 
+E<conj-c> então<adv> ,<punc> ele<pron-pers> veio<v-fin> de<prp> <EM ID="430" CATEG="LOCAL" TIPO="HUMANO"  > Lisboa<prop> </EM> para<prp> ali<adv> e<conj-c> ali<adv> se<pron-pers> fixou<v-fin> para<prp> não<adv> ir<v-inf> para<prp> a<art> vida<n> militar<adj> .<punc> 
+Isto<pron-indp> já<adv> nos<pron-pers> princípios<adj> do<v-pcp> <EM ID="431" CATEG="TEMPO" TIPO="DATA"  > séc.XIX<n> </EM> .<punc> 
+Velhinho<prop> ,<punc> mas<conj-c> ainda<adv> passeei<v-fin> com<prp> ele<pron-pers> ,<punc> devia<v-fin> ter<v-inf> uns<pron-det> <EM ID="432" CATEG="VALOR" TIPO="QUANTIDADE"  > 3<num> ou<conj-c> 4<num> anos<n> </EM> .<punc> 
+E<conj-c> é<v-fin> o<pron-det> que<pron-indp> eu<pron-pers> conheço<v-fin> da<v-pcp> minha<pron-det> família<n> .<punc> 

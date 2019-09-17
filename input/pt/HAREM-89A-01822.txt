@@ -1,0 +1,488 @@
+Memória<n> oral<adj> dos<v-pcp> idosos<adj> Depoimento<n> de<prp> <EM ID="4142" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Lázara<art> Matos<prop> de<prp> Camargo<prop> </EM> <EM ID="4143" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Centro<punc> Cultural<prop> Três<num> Rios<prop> </EM> da<v-pcp> <EM ID="4144" CATEG="ORGANIZACAO" TIPO="ADMINISTRACAO"  > Secretaria<prop> da<v-pcp> Cultura<prop> </EM> <EM ID="4145" CATEG="LOCAL" TIPO="HUMANO"  > São<v-fin> Paulo<prop> </EM> ,<punc> <EM ID="4146" CATEG="TEMPO" TIPO="DATA"  > 9<num> de<prp> outubro<n> de<prp> 1992<num> </EM> Realização<n> <EM ID="4147" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Museu<punc> da<v-pcp> Pessoa<adv> </EM> Entrevista<prp> número<n> <EM ID="4148" CATEG="VALOR" TIPO="QUANTIDADE"  > 12<num> </EM> Transcrito<n> por<prp> <EM ID="4149" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Mariana<prop> Fontes<n> </EM> P<prop> -<punc> <EM ID="4150" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Dona<prop> Lázara<v-fin> </EM> ,<punc> nós<pron-pers> já<adv> conversamos<v-fin> um<art> pouco<pron-det> com<prp> a<art> senhora<n> lá<adv> na<pron-pers> outra<pron-det> sala<n> e<conj-c> já<adv> temos<v-fin> algumas<pron-det> informações<n> ,<punc> mas<conj-c> a<art> gente<n> gostaria<v-fin> de<prp> confirmar<v-inf> alguns<pron-det> dados<n> que<pron-indp> a<art> senhora<n> já<adv> nos<pron-pers> deu<v-fin> .<punc> 
+O<art> nome<n> da<v-pcp> senhora<v-fin> completo<n> ,<punc> por<prp> favor<n> .<punc> 
+R-<n> <EM ID="4151" CATEG="ABSTRACCAO" TIPO="NOME"  > Lázara<prop> de<prp> Matos<prop> Camargo<prop> </EM> .<punc> 
+P<prop> -<punc> Qual<pron-det> a<art> data<n> do<v-pcp> seu<pron-det> nascimento<n> ?<punc> 
+R-<n> <EM ID="4152" CATEG="TEMPO" TIPO="DATA"  > 17/4/24<num> </EM> .<punc> 
+P<prop> -<punc> A<art> senhora<n> nasceu<v-fin> aonde<adv> ?<punc> 
+R-<v-fin> <EM ID="4153" CATEG="LOCAL" TIPO="HUMANO"  > Tijupá<prop> </EM> .<punc> 
+P<prop> -<punc> <EM ID="4154" CATEG="LOCAL" TIPO="HUMANO"  > Estado<n> de<prp> São<prop> Paulo<prop> </EM> ?<punc> 
+R-<v-fin> <EM ID="4155" CATEG="LOCAL" TIPO="HUMANO"  > Estado<n> de<prp> São<prop> Paulo<prop> </EM> .<punc> 
+P<prop> -<punc> Qual<pron-det> o<art> endereço<n> da<v-pcp> senhora<v-fin> hoje<adv> ?<punc> 
+R-<n> <EM ID="4156" CATEG="LOCAL" TIPO="HUMANO"  > Rua<prop> Joaquim<prop> Alves<prop> Diniz<prop> </EM> ,<punc> 704<num> .<punc> 
+P<prop> -<punc> <EM ID="4157" CATEG="LOCAL" TIPO="HUMANO"  > São<prop> Paulo<prop> </EM> capital<adj> ?<punc> 
+R-<n> <EM ID="4158" CATEG="LOCAL" TIPO="HUMANO"  > Vila<prop> São<v-fin> Francisco<prop> </EM> ,<punc> <EM ID="4159" CATEG="LOCAL" TIPO="HUMANO"  > São<v-fin> Paulo<prop> </EM> .<punc> 
+P<prop> -<punc> Agora<adv> a<art> gente<n> vai<v-fin> tentar<v-inf> lembrar<v-inf> de<prp> coisas<n> de<prp> sua<pron-det> vida<n> ,<punc> seu<pron-det> passado<n> e<conj-c> eu<pron-pers> queria<v-fin> começar<v-inf> com<prp> o<art> seu<pron-det> pai<n> ,<punc> o<art> nome<n> do<prp> seu<pron-det> pai<n> ,<punc> o<art> nome<n> da<v-pcp> sua<pron-det> mãe<n> ;<punc> quem<pron-indp> foram<v-fin> essas<pron-det> pessoas<n> e<conj-c> local<n> de<prp> nascimento<n> do<v-pcp> pai<n> ,<punc> da<v-pcp> mãe<n> .<punc> 
+Bem<adv> .<punc> 
+Local<n> de<prp> nascimento<n> do<v-pcp> meu<pron-det> pai<n> ,<punc> eu<pron-pers> não<adv> sei<v-fin> ,<punc> mas<conj-c> é<v-fin> <EM ID="4160" CATEG="LOCAL" TIPO="HUMANO"  > Estado<n> de<prp> São<prop> Paulo<prop> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> como<adv> era<v-fin> o<art> nome<n> dele<adj> ?<punc> 
+R-<n> <EM ID="4161" CATEG="ABSTRACCAO" TIPO="NOME"  > Gabriel<prop> Tolinho<prop> de<prp> Matos<prop> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> da<v-pcp> sua<pron-det> mãe<n> ?<punc> 
+R-<n> <EM ID="4162" CATEG="ABSTRACCAO" TIPO="NOME"  > Francisca<prop> Maria<prop> da<v-pcp> Conceição<prop> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> ela<pron-pers> nasceu<v-fin> aonde<adv> ?<punc> 
+Também<adv> no<adj> <EM ID="4163" CATEG="LOCAL" TIPO="HUMANO"  > Estado<n> de<prp> São<prop> Paulo<prop> </EM> ?<punc> 
+R-<n> Nasceu<v-fin> numa<adj> cidade<n> perto<adj> daqui<adv> ,<punc> <EM ID="4164" CATEG="LOCAL" TIPO="HUMANO"  > Conchas<prop> </EM> .<punc> 
+Já<adv> ouviu<v-fin> falar<v-inf> ?<punc> 
+P<prop> -<punc> Sei<num> ,<punc> sei<v-fin> .<punc> 
+Perto<n> de<prp> <EM ID="4165" CATEG="LOCAL" TIPO="HUMANO"  > Laranjal<prop> Paulista<prop> </EM> ,<punc> <EM ID="4166" CATEG="LOCAL" TIPO="HUMANO"  > Conchas<prop> </EM> ,<punc> <EM ID="4167" CATEG="LOCAL" TIPO="HUMANO"  > Tatuí<prop> </EM> ,<punc> aquela<pron-det> região<n> .<punc> 
+E<conj-c> os<art> avós<n> ,<punc> a<art> senhora<n> sabe<v-fin> o<art> nome<n> deles<adj> ,<punc> de<prp> que<pron-indp> local<n> eles<pron-pers> eram<v-fin> ?<punc> 
+R-<v-fin> O<art> meu<pron-det> avô<n> paterno<adj> era<v-fin> <EM ID="4168" CATEG="ABSTRACCAO" TIPO="NOME"  > Paulino<prop> </EM> .<punc> 
+P<prop> -<punc> De<prp> onde<adv> ele<pron-pers> era<v-fin> ?<punc> 
+R-<n> Também<adv> da<v-pcp> mesma<pron-det> região<n> .<punc> 
+A<art> minha<pron-det> avó<n> era<v-fin> <EM ID="4169" CATEG="ABSTRACCAO" TIPO="NOME"  > Ana<prop> </EM> .<punc> 
+Meu<pron-det> avô<n> materno<punc> era<v-fin> <EM ID="4170" CATEG="ABSTRACCAO" TIPO="NOME"  > Salvador<prop> </EM> ,<punc> <EM ID="4171" CATEG="ABSTRACCAO" TIPO="NOME"  > Salvador<prop> Teles<prop> </EM> ,<punc> este<pron-det> eu<pron-pers> estou<v-fin> lembrando<v-ger> .<punc> 
+E<conj-c> minha<pron-det> avó<n> materna<adj> ,<punc> <EM ID="4172" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> Teles<prop> </EM> .<punc> 
+P<prop> -<punc> Eram<v-fin> todos<pron-det> da<v-pcp> mesma<pron-det> região<n> ?<punc> 
+R-<n> Todos<pron-det> .<punc> 
+P<prop> -<punc> A<art> família<n> já<adv> está<v-fin> lá<adv> a<prp> muito<pron-det> tempo<n> naquela<v-fin> região<n> ?<punc> 
+R-<n> É<v-fin> .<punc> 
+Eles<pron-pers> morreram<v-fin> aqui<adv> ,<punc> mas<conj-c> nasceram<v-fin> e<conj-c> se<pron-pers> criaram<v-fin> e<conj-c> casaram<v-fin> ,<punc> criaram<v-fin> seus<pron-det> filhos<n> lá<adv> .<punc> 
+P<prop> -<punc> Como<adv> era<v-fin> a<art> vida<n> lá<adv> na<pron-pers> cidade<n> em<prp> <EM ID="4173" CATEG="LOCAL" TIPO="HUMANO"  > Conchas<prop> </EM> ,<punc> quando<adv> a<art> senhora<n> era<v-fin> pequena<adj> ?<punc> 
+Como<adv> é<v-fin> que<conj-s> se<pron-pers> vivia<v-fin> lá<adv> ,<punc> como<adv> era<v-fin> sua<pron-det> infância<n> ?<punc> 
+Ah<prop> ,<punc> muito<adv> feliz<adj> ,<punc> porque<conj-s> criança<n> é<v-fin> sempre<adv> feliz<adj> ,<punc> não<adv> tem<v-fin> problema<n> ,<punc> se<pron-pers> tem<v-fin> não<adv> é<v-fin> da<v-pcp> criança<n> ,<punc> é<v-fin> dos<n> outros<pron-det> ,<punc> né<n> ,<punc> então<adv> muito<adv> feliz<adj> ,<punc> porém<adv> pobre<adj> ,<punc> né<prop> ,<punc> mas<conj-c> saudável<adj> e<conj-c> feliz<adj> .<punc> 
+P<prop> -<punc> Viviam<prop> na<pron-pers> cidade<n> ou<conj-c> na<n> roça<v-fin> ?<punc> 
+R-<v-fin> Uma<num> hora<n> na<adj> roça<v-fin> ,<punc> outra<pron-det> hora<n> na<adj> cidade<n> mas<conj-c> sempre<adv> por<prp> ali<adv> por<prp> perto<v-pcp> ,<punc> a<art> gente<n> sempre<adv> mudava<v-fin> .<punc> 
+P<prop> -<punc> Era<v-fin> sítio<n> ?<punc> 
+R-<n> Era<v-fin> um<art> pouco<pron-det> no<adj> sítio<n> ,<punc> um<art> pouco<pron-det> na<n> fazenda<v-fin> ,<punc> outro<pron-det> na<adj> cidade<n> ,<punc> a<art> gente<n> tava<v-fin> sempre<adv> mudando<v-ger> ,<punc> meu<pron-det> pai<n> gostava<v-fin> de<prp> mudar<v-inf> .<punc> 
+E<conj-c> eu<pron-pers> também<adv> !<punc> 
+Moro<v-fin> três<num> anos<n> numa<adj> casa<n> ,<punc> estou<v-fin> louca<adj> de<prp> vontade<n> de<prp> mudar<v-inf> já<adv> .<punc> 
+P<prop> -<punc> Que<pron-indp> beleza<n> !<punc> 
+R-<prop> Não<adv> mudo<adv> porque<conj-s> aqui<adv> não<adv> tem<v-fin> jeito<n> .<punc> 
+Tenho<v-fin> uma<art> casa<n> e<conj-c> tenho<v-fin> vontade<n> de<prp> vender<v-inf> e<conj-c> comprar<v-inf> outra<pron-det> ,<punc> só<adv> para<prp> mudar<v-inf> .<punc> 
+Mudar<prop> minha<pron-det> cama<n> ,<punc> mudar<v-fin> minhas<pron-det> coisas<n> ,<punc> parece<v-fin> que<conj-s> é<v-fin> tão<adv> gostoso<adj> na<adj> primeira<adj> noite<n> que<pron-indp> a<art> gente<n> vai<v-fin> dormir<v-inf> ,<punc> que<conj-s> não<adv> tá<v-fin> naquela<adv> velha<adj> lá<adv> ,<punc> tá<v-fin> na<pron-pers> outra<pron-det> .<punc> 
+P<prop> -<punc> E<conj-c> quando<adv> a<art> senhora<n> era<v-fin> pequena<adj> gostava<v-fin> quando<adv> o<art> pai<n> fazia<v-fin> as<art> mudanças<n> ?<punc> 
+R-<n> Gostava<v-fin> .<punc> 
+Gostava<v-fin> .<punc> 
+P<prop> -<punc> E<conj-c> ele<pron-pers> trabalhava<v-fin> com<prp> o<pron-det> que<pron-indp> ?<punc> 
+R-<n> Na<prop> roça<v-fin> e<conj-c> carpinteiro<n> também<adv> .<punc> 
+P<prop> -<punc> E<conj-c> a<art> mãe<n> da<v-pcp> senhora<n> ?<punc> 
+R-<v-fin> Minha<prop> mãe<adj> sempre<adv> em<prp> casa<n> ,<punc> cuidando<v-ger> de<prp> nós<pron-pers> ,<punc> cuidando<v-ger> de<prp> tudo<pron-indp> .<punc> 
+P<prop> -<punc> Eram<v-fin> muitos<pron-det> irmãos<n> ?<punc> 
+R-<n> Eram<v-fin> sete<num> .<punc> 
+P<prop> -<punc> Sete<num> irmãos<n> ,<punc> homens<n> e<conj-c> mulheres<n> ?<punc> 
+R-<n> Bom<adj> ,<punc> não<adv> .<punc> 
+Sete<num> irmãs<n> e<conj-c> dois<num> irmãos<n> ,<punc> me<pron-pers> lembro<v-fin> bem<adv> agora<adv> .<punc> 
+P<prop> -<punc> São<v-fin> nove<num> .<punc> 
+Bastante<adv> gente<n> .<punc> 
+E<conj-c> lá<adv> na<pron-pers> cidade<n> ,<punc> a<art> senhora<n> estudou<v-fin> na<pron-pers> cidade<n> mesmo<adv> ,<punc> lá<adv> em<prp> <EM ID="4174" CATEG="LOCAL" TIPO="HUMANO"  > Conchas<n> </EM> ?<punc> 
+R-<n> Estudava<v-fin> em<prp> <EM ID="4175" CATEG="LOCAL" TIPO="HUMANO"  > Fartura<prop> </EM> .<punc> 
+Não<adv> em<prp> <EM ID="4176" CATEG="LOCAL" TIPO="HUMANO"  > Conchas<n> </EM> foi<v-fin> só<adv> mamãe<adj> .<punc> 
+P<prop> -<punc> Em<prp> <EM ID="4177" CATEG="LOCAL" TIPO="HUMANO"  > Fartura<prop> </EM> .<punc> 
+E<conj-c> qual<pron-det> escola<n> era<v-fin> ?<punc> 
+R-<n> Só<adv> no<adj> <EM ID="4178" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Grupo<n> Escolar<prop> de<prp> Fartura<prop> </EM> .<punc> 
+P<prop> -<punc> Ficou<v-fin> lá<adv> até<prp> que<conj-s> época<n> ?<punc> 
+R-<prop> Até<prp> <EM ID="4179" CATEG="TEMPO" TIPO="DATA"  > 50<num> </EM> .<punc> 
+P<prop> -<punc> Casou<prop> lá<adv> ?<punc> 
+E<conj-c> Quem<pron-indp> era<v-fin> seu<pron-det> marido<n> ?<punc> 
+Casei<v-fin> lá<adv> .<punc> 
+<EM ID="4180" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Lázaro<prop> Vieira<prop> de<prp> Camargo<prop> </EM> .<punc> 
+P<prop> -<punc> Ele<pron-pers> era<v-fin> também<adv> da<v-pcp> região<n> ?<punc> 
+Quer<v-fin> dizer<v-inf> ,<punc> era<v-fin> <EM ID="4181" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Lázaro<prop> </EM> ele<pron-pers> ,<punc> <EM ID="4182" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Lázara<prp> </EM> a<art> senhora<n> ...<punc> 
+R-<n> Sim<adv> .<punc> 
+Os<art> dois<num> nomão<n> feio<adj> se<pron-pers> ajeitou<v-fin> .<punc> 
+O<art> mesmo<pron-det> nome<n> .<punc> 
+P<prop> -<punc> E<conj-c> como<adv> é<v-fin> que<conj-s> foi<v-fin> a<art> adolescência<n> ,<punc> como<adv> é<v-fin> que<conj-s> conheceu<v-fin> o<art> namorado<n> ,<punc> como<adv> é<v-fin> que<conj-s> vivia<v-fin> na<pron-pers> cidade<n> ?<punc> 
+R-<n> Andando<prop> ,<punc> paras<prp> as<art> festinhas<n> ,<punc> para<prp> os<art> bailinhos<n> ,<punc> cineminha<n> ,<punc> essas<pron-det> coisa<n> aí<adv> .<punc> 
+Praça<prop> no<pron-pers> jardim<adv> da<v-pcp> cidade<n> ,<punc> em<prp> frente<n> à<adv> <EM ID="4183" CATEG="LOCAL" TIPO="HUMANO"  > Matriz<prop> </EM> .<punc> 
+P<prop> -<punc> A<art> senhora<n> trabalhava<v-fin> nessa<pron-det> cidade<n> ?<punc> 
+R-<prop> Não<adv> ,<punc> quase<adv> não<adv> trabalhava<v-fin> não<adv> .<punc> 
+P<prop> -<punc> Só<adv> estudava<v-fin> ?<punc> 
+R-<n> É<v-fin> ,<punc> bom<adj> ,<punc> estudei<v-fin> só<adv> um<num> pouco<n> também<adv> ,<punc> mas<conj-c> não<adv> fazia<v-fin> muita<pron-det> coisa<n> não<adv> .<punc> 
+Ajudava<v-fin> minha<pron-det> mãe<n> em<prp> casa<n> .<punc> 
+P<prop> -<punc> E<conj-c> seu<pron-det> marido<n> ,<punc> quando<adv> a<art> senhora<n> casou<v-fin> ?<punc> 
+Em<prp> que<conj-s> época<n> ,<punc> em<prp> que<pron-indp> ano<n> ?<punc> 
+Eu<pron-pers> casei<v-fin> em<prp> <EM ID="4184" CATEG="TEMPO" TIPO="DATA"  > 1940<num> ,<punc> 12<num> de<prp> outubro<n> </EM> ;<punc> Ish<prop> ,<punc> tá<v-fin> perto<adj> de<prp> fazer<v-inf> <EM ID="4187" CATEG="VALOR" TIPO="QUANTIDADE"  > 52<num> anos<n> </EM> .<punc> 
+P<prop> -<punc> Tá<v-fin> pertinho<adj> ,<punc> segunda-feira<n> .<punc> 
+E<conj-c> conheceu<v-fin> ele<pron-pers> lá<adv> na<pron-pers> cidade<n> ,<punc> na<prop> praça<n> ?<punc> 
+R-<v-fin> Na<prop> praça<n> .<punc> 
+P<prop> -<punc> E<conj-c> como<adv> era<v-fin> esse<pron-det> passeio<n> na<adj> praça<n> ,<punc> como<adv> era<v-fin> a<art> vida<n> lá<adv> na<pron-pers> praça<n> ?<punc> 
+R-<n> Andando<prop> ,<punc> tomando<v-ger> sorvete<n> ,<punc> conversando<v-ger> .<punc> 
+P<prop> -<punc> A<art> senhora<n> falou<v-fin> que<conj-s> sua<pron-det> família<n> lá<adv> era<v-fin> um<art> pouco<n> pobre<adj> ,<punc> o<art> seu<pron-det> pai<n> tinha<v-fin> terras<n> ?<punc> 
+Como<adv> é<v-fin> que<conj-s> era<v-fin> ,<punc> conta<v-fin> isso...<punc> 
+R-<n> Bom<adj> ,<punc> tinha<v-fin> terras<n> ,<punc> mas<conj-c> você<pron-pers> sabe<v-fin> ,<punc> tendo<v-ger> terras<n> não<adv> é<v-fin> rico<adj> ,<punc> porque<conj-s> dinheiro<n> não<adv> se<pron-pers> tinha<v-fin> ,<punc> né<prop> ,<punc> então<adv> pobre<adj> mesmo<adv> .<punc> 
+P<prop> -<punc> O<pron-det> que<pron-indp> que<pron-indp> ele<pron-pers> plantava<v-fin> ?<punc> 
+R-<n> Arroz<prop> ,<punc> feijão<n> ,<punc> milho<n> ,<punc> batata<n> doce<adj> ,<punc> amendoim<adv> ,<punc> essas<pron-det> coisas<n> aí<adv> .<punc> 
+P<prop> -<punc> E<conj-c> a<art> senhora<n> trabalhava<v-fin> na<pron-pers> roça<n> também<adv> ?<punc> 
+R-<prop> Eu<pron-pers> ia<v-fin> lá<adv> para<prp> a<art> roça<n> ,<punc> mas<conj-c> eu<pron-pers> fazia<v-fin> mais<adv> é<v-fin> bagunça<n> .<punc> 
+Eu<pron-pers> era<v-fin> igual<adj> moleque<n> .<punc> 
+P<prop> -<punc> Era<adv> igual<adj> a<prp> que<pron-indp> ?<punc> 
+R-<n> Moleque<prop> .<punc> 
+Eu<pron-pers> acompanhava<v-fin> o<art> meu<pron-det> irmão<n> ,<punc> meu<pron-det> irmão<n> muito<adv> trabalhador<adj> na<n> roça<v-fin> ,<punc> eu<pron-pers> acompanhava<v-fin> ele<pron-pers> ,<punc> tudo<pron-indp> que<pron-indp> ele<pron-pers> fazia<v-fin> de<prp> brincadeira<n> e<conj-c> malvadeza<n> ,<punc> era<v-fin> comigo<n> mesmo<adv> .<punc> 
+P<prop> -<punc> Que<pron-det> tipo<n> de<prp> malvadeza<n> a<prp> senhora<n> gostava<v-fin> de<prp> fazer<v-inf> ?<punc> 
+R-<n> Ah<prop> ,<punc> em<prp> trilha<n> ,<punc> assim<adv> ,<punc> tinha<v-fin> um<art> monte<n> de<prp> mato<n> ,<punc> a<art> gente<n> amarrava<v-fin> um<art> negocinho<n> lá<adv> ,<punc> a<art> pessoa<n> passava<v-fin> e<conj-c> caía<v-fin> um<art> tombão<n> .<punc> 
+E<conj-c> a<art> gente<n> ficava<v-fin> escondido<v-pcp> ,<punc> eu<pron-pers> e<conj-c> meu<pron-det> irmão<n> .<punc> 
+Ninguém<pron-indp> via<v-fin> ,<punc> o<art> pai<n> mandou<v-fin> nós<pron-pers> cortar<v-inf> capim<v-pcp> para<prp> as<art> cavaladas<n> lá<adv> ,<punc> nós<pron-pers> fomos<v-fin> .<punc> 
+Mas<conj-c> chegando<v-ger> lá<adv> ,<punc> meu<pron-det> irmão<n> brigou<v-fin> com<prp> outros<pron-det> meninos<n> e<conj-c> aquele<pron-det> facão<n> que<pron-indp> meu<pron-det> pai<n> deu<v-fin> para<prp> a<art> gente<n> cortar<v-inf> o<art> capim<n> ,<punc> ele<pron-pers> em<prp> vez<n> de<prp> cortar<v-inf> capim<n> ,<punc> começou<v-fin> a<prp> brigar<v-inf> com<prp> os<art> outros<pron-det> :<punc> "<punc> É<v-fin> porque<conj-s> eu<pron-pers> sou<v-fin> valente<adv> ,<punc> vem<v-fin> aqui"<adv> e<conj-c> começou<v-fin> a<prp> fazer<v-inf> assim<adv> com<prp> o<art> facão<n> .<punc> 
+Tudo<pron-indp> coisa<n> de<prp> <EM ID="4188" CATEG="VALOR" TIPO="QUANTIDADE"  > 11<num> anos<n> </EM> ,<punc> <EM ID="4189" CATEG="VALOR" TIPO="QUANTIDADE"  > 12<num> anos<n> </EM> .<punc> 
+De<prp> repente<adv> o<art> facão<n> escapou<v-fin> e<conj-c> foi<v-fin> para<prp> o<art> mato<n> .<punc> 
+E<conj-c> agora<adv> para<prp> achar<v-inf> ?<punc> 
+Ele<pron-pers> chorava<v-fin> e<conj-c> chamava<v-fin> eu<pron-pers> :<punc> "Venha<v-fin> me<pron-pers> ajudar<v-inf> !"<prp> 
+E<conj-c> eu<pron-pers> dava<v-fin> risada<v-pcp> ,<punc> "Você<prop> não<adv> era<v-fin> valente<n> ué<adj> ?<punc> 
+Como<adv> é<v-fin> que<conj-s> você<pron-pers> tava<v-fin> fazendo<v-ger> com<prp> o<art> facão<n> assim<adv> para<prp> assustar<v-inf> os<art> outros<pron-det> ?"<n> 
+E<conj-c> o<art> medo<n> de<prp> apanhar<v-inf> ,<punc> né<n> ,<punc> meu<pron-det> pai<n> ,<punc> ele<pron-pers> era<v-fin> ...<punc> 
+P<prop> -<punc> Ele<pron-pers> era<v-fin> muito<adv> severo<adj> ?<punc> 
+R-<prop> Não<adv> ,<punc> ele<pron-pers> quase<adv> não...a<art> gente<n> também<adv> respeitava<v-fin> muito<adv> ,<punc> né<n> ?<punc> 
+Meu<pron-det> pai<n> ele<pron-pers> segurava<v-fin> ,<punc> não<adv> deixava<v-fin> a<art> gente<n> ir<v-inf> para<prp> as<art> festas<n> .<punc> 
+Mas<conj-c> eu<pron-pers> ia<v-fin> ,<punc> porque<conj-s> depois<adv> que<conj-s> eles<pron-pers> dormiam<v-fin> ,<punc> eu<pron-pers> pulava<v-fin> a<prp> janela<n> .<punc> 
+Eu<pron-pers> ia<v-fin> e<conj-c> depois<adv> antes<adv> de<prp> ficar<v-inf> de<prp> dia<n> ,<punc> eu<pron-pers> já<adv> pulava<v-fin> a<art> janela<n> e<conj-c> dormia<n> .<punc> 
+Ficava<v-fin> bem<adv> lá<adv> dormindo<n> .<punc> 
+Mas<conj-c> era<v-fin> só<adv> eu<pron-pers> ,<punc> os<art> outros<pron-det> não<adv> faziam<v-fin> assim<adv> não<adv> .<punc> 
+Eu<pron-pers> e<conj-c> meu<pron-det> irmão<n> que<pron-indp> era<v-fin> assim<adv> .<punc> 
+Hoje<adv> eu<pron-pers> sou<v-fin> uma<art> pessoa<n> de<prp> tanta<pron-det> responsabilidade<n> ,<punc> pode<v-fin> confiar<v-inf> em<prp> mim<pron-pers> porque<conj-s> eu<pron-pers> tenho<v-fin> mesmo<pron-det> muita<pron-det> responsabilidade<n> .<punc> 
+Conto<n> tudo<pron-indp> do<v-ger> meu<pron-det> dever<v-inf> ,<punc> sou<v-fin> até<prp> boba<n> de<prp> tão<adv> honesta<adj> ,<punc> meu<pron-det> irmão<n> também<adv> .<punc> 
+P<prop> -<punc> Mas<conj-c> fazer<v-inf> isso<pron-indp> não<adv> significava<v-fin> ser<v-inf> desonesta<v-pcp> ,<punc> significava<v-fin> ser<v-inf> esperto<v-pcp> ,<punc> né<n> ,<punc> para<prp> se<pron-pers> divertir<v-inf> .<punc> 
+R-<n> É<v-fin> ,<punc> gostava<v-fin> de<prp> pegar<v-inf> faca<n> de<prp> ponta<n> e<conj-c> falava<v-fin> para<prp> mim<pron-pers> :<punc> "Quanto<adv> você<pron-pers> aposta<v-fin> comigo<n> que<pron-indp> eu<pron-pers> acerto<v-fin> a<art> ponta<n> da<v-pcp> faca<v-fin> naquele<pron-pers> caldeirão<n> lá?"<adj> ,<punc> o<art> caldeirão<n> que<pron-indp> estava<v-fin> pendurado<v-pcp> .<punc> 
+E<conj-c> furava<v-fin> o<art> caldeirão<n> .<punc> 
+P<prop> -<punc> Nossa<prop> !<punc> 
+R-<n> Era<v-fin> malvadeza<n> .<punc> 
+P<prop> -<punc> E<conj-c> sua<pron-det> mãe<n> ,<punc> não<adv> dizia<v-fin> quando<adv> via<n> ?<punc> 
+A<art> minha<pron-det> mãe<n> era<v-fin> muito<adv> boa<adj> .<punc> 
+Meu<pron-det> era<v-fin> bravo<adj> para<prp> nós<pron-pers> e<conj-c> para<prp> minha<pron-det> mãe<n> também<adv> .<punc> 
+P<prop> -<punc> Era<v-fin> bravo<n> como<adv> ?<punc> 
+R-<n> Ah<prop> ,<punc> bravo<n> ,<punc> exigente<adv> ,<punc> queria<v-fin> tudo<pron-indp> certinho<n> ,<punc> a<art> gente<n> não<adv> podia<v-fin> fazer<v-inf> coisa<n> errada<adj> ,<punc> mas<conj-c> só<adv> que<conj-s> a<art> gente<n> fazia<v-fin> ,<punc> mesmo<adv> assim<adv> .<punc> 
+Mas<conj-c> a<art> minha<pron-det> mãe<n> ,<punc> nossa<pron-det> ,<punc> era<v-fin> um<art> respeito<n> para<prp> ele<pron-pers> .<punc> 
+Mas<conj-c> ele<pron-pers> era<v-fin> bom<adj> sim<adv> ,<punc> ele<pron-pers> era<v-fin> bom<adj> .<punc> 
+Eu<pron-pers> lembro<v-fin> que<conj-s> eu<pron-pers> ia<v-fin> nas<adj> festas<n> de<prp> noite<n> ,<punc> depois<adv> eu<pron-pers> vinha<v-fin> aqui<adv> montada<v-pcp> no<adj> pescoço<n> de<prp> meu<pron-det> pai<n> ,<punc> quando<adv> eu<pron-pers> era<v-fin> pequena<adj> ,<punc> quando<adv> cansava<v-fin> .<punc> 
+Então<adv> era<v-fin> muito<adv> bom<adj> .<punc> 
+P<prop> -<punc> E<conj-c> qual<pron-det> eram<v-fin> as<art> festas<n> que<pron-indp> a<art> senhora<n> gostava<v-fin> mais<adv> ?<punc> 
+R-<prop> A<art> gente<n> ia<v-fin> em<prp> tudo<pron-indp> ,<punc> porque<conj-s> quando<adv> tem<v-fin> pouco<adv> ,<punc> tudo<pron-indp> que<pron-indp> tem<v-fin> a<art> gente<n> vai<v-fin> ,<punc> né<n> ?<punc> 
+A<art> gente<n> vai<v-fin> no<pron-pers> casamento<n> ,<punc> a<art> gente<n> ia<v-fin> no<pron-pers> batizado<v-pcp> ,<punc> a<art> gente<n> ia<v-fin> no<adj> baile<n> ,<punc> a<art> gente<n> ia<v-fin> na<pron-pers> festa<n> junina<adj> ;<punc> de<prp> fogueira<n> ,<punc> de<prp> quentão<adv> ,<punc> de<prp> tanta<pron-det> coisa<n> ;<punc> de<prp> baile<n> de<prp> sanfona<n> ,<punc> tudo<pron-indp> isso<pron-indp> a<art> gente<n> ia<v-fin> quando<adv> a<art> gente<n> era<v-fin> criança<n> .<punc> 
+Depois<adv> que<conj-s> fiquei<v-fin> moça<n> eu<pron-pers> ia<v-fin> também<adv> ;<punc> mas<conj-c> depois<adv> que<conj-s> eu<pron-pers> fiquei<v-fin> moça<n> meu<pron-det> pai<n> já<adv> não<adv> gostava<v-fin> que<conj-s> eu<pron-pers> fosse<v-fin> ,<punc> ele<pron-pers> deixava<v-fin> algumas<pron-det> vezes<n> ,<punc> mas<conj-c> quando<adv> ele<pron-pers> não<adv> deixava<v-fin> eu<pron-pers> ia<v-fin> do<v-ger> mesmo<pron-det> jeito<n> !<punc> 
+Só<adv> se<conj-s> fosse<v-fin> muito<adv> longe<adv> ,<punc> mas<conj-c> se<conj-s> fosse<v-fin> perto<adj> ,<punc> não<adv> .<punc> 
+Esperava<v-fin> todo<pron-det> mundo<n> dormir<v-inf> ,<punc> depois<adv> pulava<v-fin> a<art> janela<n> e<conj-c> ia<v-fin> .<punc> 
+P<prop> -<punc> E<conj-c> as<art> outras<pron-det> irmãs<n> eram<v-fin> mais<adv> calmas<adj> ?<punc> 
+R-<n> Mais<adv> calmas<adj> ,<punc> era<v-fin> só<adv> eu<pron-pers> que<pron-indp> era<v-fin> assim<adv> .<punc> 
+P<prop> -<punc> E<conj-c> essas<pron-det> irmãs<n> também<adv> casaram<v-fin> ?<punc> 
+R-<n> Casaram<v-fin> ,<punc> casaram<v-fin> .<punc> 
+P<prop> -<punc> Lá<adv> mesmo<pron-det> no<n> interior<adj> ?<punc> 
+É<v-fin> ,<punc> Lá<adv> mesmo<adv> no<pron-pers> interior<n> tem<v-fin> duas<num> ,<punc> três<num> irmãs<n> que<pron-indp> já<adv> morreram<v-fin> ,<punc> uma<art> é<pron-det> mais<adv> nova<adj> que<conj-s> eu<pron-pers> ,<punc> as<art> outras<pron-det> duas<num> é<v-fin> mais<adv> velhas<adj> .<punc> 
+P<prop> -<punc> E<conj-c> seu<pron-det> marido<n> era<v-fin> também<adv> da<v-pcp> mesma<pron-det> cidade<n> ,<punc> ele<pron-pers> trabalhava<v-fin> em<prp> que<pron-indp> ?<punc> 
+R-<n> Da<prop> mesma<pron-det> cidade<n> .<punc> 
+P<prop> -<punc> E<conj-c> fazia<v-fin> o<pron-det> que<pron-indp> ,<punc> qual<pron-det> atividade<n> ?<punc> 
+R-<n> Ele<pron-pers> tinha<v-fin> um<art> sítio<n> pequeno<adj> ,<punc> ele<pron-pers> plantava<v-fin> as<art> coisas<n> dele<prp> .<punc> 
+P<prop> -<punc> Ah<prop> ,<punc> ele<pron-pers> plantava<v-fin> .<punc> 
+E<conj-c> quando<adv> a<art> senhora<n> casou<v-fin> ,<punc> foi<v-fin> morar<v-inf> no<pron-pers> sítio<n> com<prp> ele<pron-pers> ?<punc> 
+R-<n> Fui<v-fin> morar<v-inf> no<pron-pers> sítio<n> com<prp> ele<pron-pers> .<punc> 
+P<prop> -<punc> E<conj-c> viveu<v-fin> muitos<pron-det> anos<n> lá<adv> no<adj> sítio<n> ?<punc> 
+R-<v-fin> Uns<prop> <EM ID="4190" CATEG="VALOR" TIPO="QUANTIDADE"  > 20<num> anos<n> </EM> .<punc> 
+P<prop> -<punc> Como<adv> foi<v-fin> que<conj-s> a<art> senhora<n> conheceu<v-fin> o<art> seu<pron-det> marido<n> ?<punc> 
+A<art> senhora<n> lembra<v-fin> do<v-pcp> dia<n> ?<punc> 
+R-<n> Ah<prop> ,<punc> o<art> dia<n> não<adv> dá<v-fin> para<prp> lembrar<v-inf> .<punc> 
+P<prop> -<punc> Mais<adv> ou<conj-c> menos<adv> assim<adv> ,<punc> por<prp> onde<adv> ele<pron-pers> andava<v-fin> ?<punc> 
+R-<n> Você<pron-pers> diz<v-fin> o<art> dia<n> ,<punc> ou<conj-c> o<art> lugar<n> ?<punc> 
+P<prop> -<punc> O<art> lugar<n> .<punc> 
+R-<n> Ah<prop> ,<punc> o<art> lugar<n> lá<adv> da<v-pcp> cidade<n> de<prp> <EM ID="4191" CATEG="LOCAL" TIPO="HUMANO"  > Fartura<prop> </EM> ,<punc> onde<adv> a<art> gente<n> se<pron-pers> ajuntava<v-fin> ,<punc> tudo<pron-indp> os<art> jovens<adj> de<prp> um<art> lugar<n> ,<punc> de<prp> outro<pron-det> ,<punc> era<v-fin> bom<adj> ,<punc> divertido<v-pcp> igual<adj> hoje<adv> ,<punc> né<n> ,<punc> gostoso<adj> era<v-fin> muito<adv> saudável<adj> tudo<pron-indp> ,<punc> né<n> ?<punc> 
+P<prop> -<punc> E<conj-c> namorou<v-fin> muitos<pron-det> anos<n> ?<punc> 
+R-<prop> Não<adv> naquele<pron-pers> tempo<v-fin> a<art> gente<n> namorava<v-fin> e<conj-c> já<adv> logo<adv> casava<v-fin> .<punc> 
+Acho<v-fin> que<conj-s> eu<pron-pers> namorei<v-fin> uns<pron-det> quatro<num> ou<conj-c> cinco<num> meses<n> e<conj-c> já<adv> foi<v-fin> o<art> casamento<n> .<punc> 
+P<prop> -<punc> E<conj-c> como<adv> é<v-fin> que<pron-indp> foi<v-fin> o<art> casamento<n> ?<punc> 
+R-<n> Ah<prop> ,<punc> festa<n> ,<punc> comida<n> ...<punc> 
+P<prop> -<punc> Conta<v-fin> a<art> festa<n> ,<punc> tudo<pron-indp> o<punc> que<conj-s> a<art> senhora<n> lembra<v-fin> deste<adv> casamento<n> .<punc> 
+R-<n> Era<v-fin> leitão<n> assado<v-pcp> ,<punc> frango<n> assado<v-pcp> ,<punc> aquele<pron-det> monte<n> de<prp> comida<n> .<punc> 
+Baile<prop> ,<punc> baile<n> de<prp> sanfona<n> ,<punc> violão<n> ,<punc> cavaquinho<n> ,<punc> muito<adv> bonito<adj> .<punc> 
+E<conj-c> o<art> casamento<n> ,<punc> a<art> gente<n> morava<v-fin> numa<adj> chácara<n> pertinho<adj> da<v-pcp> cidade<n> ,<punc> né<n> ,<punc> e<conj-c> nós<pron-pers> fomos<v-fin> a<art> pé<n> casar<punc> ,<punc> fomos<v-fin> a<art> pé<n> .<punc> 
+Era<v-fin> bem<adv> pertinho<adj> .<punc> 
+P<prop> -<punc> Casou<prop> na<pron-pers> igreja<v-fin> ,<punc> depois<adv> voltou<v-fin> para<prp> a<art> casa<n> ,<punc> para<prp> a<art> festa<n> ?<punc> 
+R-<n> É<v-fin> ,<punc> casei<v-fin> na<pron-pers> igreja<n> ,<punc> depois<adv> voltei<v-fin> para<prp> a<art> casa<n> .<punc> 
+A<art> gente<n> ficou<v-fin> só<adv> um<num> pouquinho<n> na<adj> festa<n> ,<punc> depois<adv> voltei<v-fin> para<prp> casa<n> porque<conj-s> a<art> gente<n> já<adv> estava<v-fin> com<prp> tudo<pron-indp> pronto<in> ,<punc> né<n> ?<punc> 
+Viajar<prop> ,<punc> lua<n> de<prp> mel<n> ,<punc> isso<pron-indp> não<adv> era<v-fin> com<prp> nós<pron-pers> não<adv> ,<punc> porque<conj-s> a<art> gente<n> não<adv> podia<v-fin> .<punc> 
+Como<adv> fazem<v-fin> hoje<adv> ,<punc> hoje<adv> os<art> casamentos<n> é<v-fin> mais<adv> bonito<adj> ,<punc> apesar<adv> de<prp> durar<v-inf> pouco<adv> .<punc> 
+P<prop> -<punc> Bom<prop> ,<punc> é<v-fin> preferível<adj> então...<punc> 
+R-<n> Apesar<adv> de<prp> durar<v-inf> pouco<adv> ,<punc> é<v-fin> tudo<pron-indp> mais<adv> bonito<adj> .<punc> 
+P<prop> -<punc> Outra<pron-det> coisa<n> ,<punc> lá<adv> nesse<pron-det> período<n> que<pron-indp> a<art> senhora<n> morou<v-fin> <EM ID="4192" CATEG="VALOR" TIPO="QUANTIDADE"  > 20<num> anos<n> </EM> ,<punc> os<art> seus<pron-det> filhos<n> nasceram<v-fin> todos<pron-det> nessa<pron-det> época<n> ?<punc> 
+R-<n> Nasceram<v-fin> .<punc> 
+Foram<v-fin> um<art> atrás<n> do<prp> outro<pron-det> .<punc> 
+P<prop> -<punc> E<conj-c> quantos<pron-det> filhos<n> foram<v-fin> ?<punc> 
+R-<n> Sete<num> .<punc> 
+P<prop> -<punc> Sete<prop> .<punc> 
+E<conj-c> quais<pron-det> são<v-fin> os<art> nomes<n> destes<adv> filhos<n> ?<punc> 
+R-<n> <EM ID="4193" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> Inês<prop> </EM> ,<punc> <EM ID="4194" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> Teresa<prop> </EM> ,<punc> <EM ID="4195" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> Clara<prop> </EM> ,<punc> <EM ID="4196" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> de<prp> Fátima<prop> </EM> ,<punc> <EM ID="4197" CATEG="ABSTRACCAO" TIPO="NOME"  > Ana<prop> Maria<prop> </EM> ,<punc> <EM ID="4198" CATEG="ABSTRACCAO" TIPO="NOME"  > Maria<prop> Benedita<prop> </EM> e<conj-c> <EM ID="4199" CATEG="ABSTRACCAO" TIPO="NOME"  > José<prop> </EM> .<punc> 
+P<prop> -<punc> O<art> mais<adv> novo<adj> é<v-fin> o<art> <EM ID="4200" CATEG="PESSOA" TIPO="INDIVIDUAL"  > José<prop> </EM> ?<punc> 
+R-<n> O<art> mais<adv> velho<adj> que<pron-indp> é<v-fin> o<art> <EM ID="4201" CATEG="PESSOA" TIPO="INDIVIDUAL"  > José<prop> </EM> .<punc> 
+P<prop> -<punc> Ah<prop> ,<punc> então<adv> primeiro<adj> veio<v-fin> o<art> filho<n> ,<punc> depois<adv> as<art> filhas<n> .<punc> 
+E<conj-c> eles<pron-pers> viveram<v-fin> todo<pron-det> o<art> tempo<n> lá<adv> com<prp> a<art> senhora<n> ?<punc> 
+R-<n> Viveram<v-fin> .<punc> 
+P<prop> -<punc> E<conj-c> nessa<pron-det> época<n> como<adv> era<v-fin> a<art> sua<pron-det> vida<n> de<prp> casada<n> ?<punc> 
+R-<n> Casada<prop> ?<punc> 
+P<prop> -<punc> Como<adv> era<v-fin> a<art> vida<n> de<prp> casada<v-pcp> lá<adv> no<adj> sítio<n> com<prp> as<art> crianças<n> ?<punc> 
+R-<n> Ah<prop> ,<punc> mais<adv> ou<conj-c> menos<adv> ,<punc> sabe<v-fin> ,<punc> não<adv> era<v-fin> boa<adj> como<adv> no<adj> tempo<n> de<prp> minha<pron-det> mãe<n> e<conj-c> meu<pron-det> pai<n> ;<punc> quando<adv> eu<pron-pers> casei<v-fin> já<adv> não...Dava<adv> para<prp> a<art> gente<n> viver<v-fin> .<punc> 
+P<prop> -<punc> A<art> senhora<n> não<adv> era<v-fin> apaixonada<v-pcp> por<prp> seu<pron-det> marido<n> ?<punc> 
+R-<n> Era<v-fin> ,<punc> mas<conj-c> depois<adv> ele<pron-pers> começou<v-fin> a<prp> beber<v-inf> aí<adv> acabou<v-fin> todas<pron-det> as<art> paixão<n> ,<punc> pulou<v-fin> tudo<pron-indp> pela<v-fin> janela<n> .<punc> 
+P<prop> -<punc> Ele<pron-pers> fazia<v-fin> que<conj-s> tipo<n> de<prp> trabalho<n> ?<punc> 
+R-<n> Trabalhava<v-fin> em<prp> roça<n> ,<punc> plantava<v-fin> as<art> coisa<n> ,<punc> ele<pron-pers> é<v-fin> trabalhador<n> sim<adv> ,<punc> dessas<v-fin> coisas<n> aí<adv> não<adv> podia<v-fin> me<pron-pers> queixar<v-inf> ,<punc> amoroso<adj> com<prp> as<art> crianças<n> ,<punc> mas<conj-c> tinha<v-fin> mania<n> de<prp> beber<v-inf> ,<punc> então<adv> já<adv> não<adv> era<v-fin> muito<adv> bom<adj> .<punc> 
+P<prop> -<punc> Era<v-fin> perto<adv> da<v-pcp> cidade<n> onde<adv> a<art> senhora<n> tinha<v-fin> o<art> sítio<n> ?<punc> 
+R-<v-fin> Era<v-fin> bem<adv> perto<adj> .<punc> 
+P<prop> -<punc> E<conj-c> as<art> crianças<n> estudavam<v-fin> ?<punc> 
+R-<n> As<art> crianças<n> estudavam<v-fin> .<punc> 
+Ia<prp> a<art> pé<n> para<prp> a<art> cidade<n> .<punc> 
+P<prop> -<punc> Então<adv> era<v-fin> bem<adv> perto<adj> .<punc> 
+Porque<conj-s> a<art> senhora<n> saiu<v-fin> de<prp> lá<adv> depois<adv> desses<n> anos<punc> todos<pron-det> ?<punc> 
+R-<v-fin> Porque<conj-s> a<art> minha<pron-det> mãe<n> depois<adv> mudou<v-fin> para<prp> <EM ID="4202" CATEG="LOCAL" TIPO="HUMANO"  > São<v-fin> Paulo<prop> </EM> ,<punc> a<art> minha<pron-det> irmã<n> ;<punc> fiquei<v-fin> com<prp> vontade<n> também<adv> .<punc> 
+P<prop> -<punc> Nessa<prop> época<v-fin> a<art> senhora<n> já<adv> era<v-fin> viúva<adj> ,<punc> ou<conj-c> não<adv> ?<punc> 
+R-<n> Ainda<adv> não<adv> .<punc> 
+P<prop> -<punc> Ele<pron-pers> veio<v-fin> também<adv> ?<punc> 
+R-<v-fin> Veio<n> mas<conj-c> depois<adv> foi<v-fin> embora<conj-s> .<punc> 
+Foi<v-fin> embora<conj-s> e<conj-c> deixou<v-fin> nós<pron-pers> aqui<adv> .<punc> 
+P<prop> -<punc> Aí<adv> ficou<v-fin> a<art> senhora<n> com<prp> os<art> filhos<n> aqui<adv> .<punc> 
+E<conj-c> já<adv> eram<v-fin> crianças<n> grandes<adj> aqui<adv> .<punc> 
+R-<n> Já.<prop> 
+Era<v-fin> pouca<pron-det> coisa<n> um<art> mais<pron-det> velho<adj> que<conj-s> o<art> outro<pron-det> .<punc> 
+Cresceu<v-fin> quase<adv> de<prp> uma<art> vez<n> ,<punc> casou<v-fin> um<art> atrás<n> do<prp> outro<pron-det> também<adv> .<punc> 
+P<prop> -<punc> A<art> senhora<n> veio<v-fin> morar<v-inf> em<prp> <EM ID="4203" CATEG="LOCAL" TIPO="HUMANO"  > São<v-fin> Paulo<prop> </EM> onde<adv> ?<punc> 
+R-<n> No<prop> <EM ID="4204" CATEG="LOCAL" TIPO="HUMANO"  > Bairro<prop> do<v-pcp> Limão<prop> </EM> .<punc> 
+P<prop> -<punc> Que<pron-det> ano<n> a<prp> senhora<n> chegou<v-fin> no<pron-pers> <EM ID="4205" CATEG="LOCAL" TIPO="HUMANO"  > Bairro<prop> do<v-pcp> Limão<prop> </EM> ?<punc> 
+R-<n> Em<prp> <EM ID="4206" CATEG="TEMPO" TIPO="DATA"  > 60<num> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> ficou<v-fin> muitos<pron-det> anos<n> no<pron-pers> <EM ID="4207" CATEG="LOCAL" TIPO="HUMANO"  > Bairro<prop> do<v-ger> Limão<prop> </EM> ou<conj-c> não<adv> ?<punc> 
+Em<prp> <EM ID="4208" CATEG="TEMPO" TIPO="DATA"  > 68<num> </EM> eu<pron-pers> fui<v-fin> para<prp> <EM ID="4209" CATEG="LOCAL" TIPO="HUMANO"  > Osasco<prop> </EM> .<punc> 
+P<prop> -<punc> Quando<adv> o<art> seu<pron-det> marido<n> foi<v-fin> é<v-fin> que<pron-indp> foi<v-fin> que<conj-s> a<art> senhora<n> fez<v-fin> para<prp> viver<v-inf> ?<punc> 
+R-<n> Trabalhava<v-fin> de<prp> dia<n> e<conj-c> de<prp> noite<n> .<punc> 
+P<prop> -<punc> A<art> senhora<n> tinha<v-fin> trabalhado<v-pcp> antes<adv> ?<punc> 
+R-<n> Já<adv> ,<punc> mas<conj-c> não<adv> tanto<adv> .<punc> 
+Trabalhei<v-fin> muito<adv> ,<punc> muito<adv> mesmo<adv> .<punc> 
+P<prop> -<punc> Que<pron-det> tipo<n> de<prp> trabalho<n> a<prp> senhora<n> fazia<v-fin> ?<punc> 
+R-<prop> Eu<pron-pers> trabalhava<v-fin> numa<adj> lavanderia<n> ,<punc> mas<conj-c> eu<pron-pers> fazia<v-fin> faxina<n> .<punc> 
+Depois<adv> mudei<v-fin> ,<punc> fui<v-fin> trabalhar<v-inf> numa<adj> pensão<n> também<adv> fazendo<v-ger> faxina<n> .<punc> 
+Tudo<pron-indp> o<art> meu<pron-det> trabalho<n> era<v-fin> esse<pron-det> .<punc> 
+Aí<adv> depois<adv> eu<pron-pers> trabalhava<v-fin> assim<adv> ,<punc> mas<conj-c> eu<pron-pers> tinha<v-fin> um<art> trabalho<n> na<adj> <EM ID="4210" CATEG="LOCAL" TIPO="HUMANO"  > Vinte<prop> e<conj-c> Cinco<num> de<prp> Março<n> </EM> ,<punc> ali<adv> num<adj> prédio<n> <EM ID="4211" CATEG="LOCAL" TIPO="HUMANO"  > 959<prp> </EM> o<art> número<n> do<v-pcp> prédio<n> .<punc> 
+Ali<adv> eu<pron-pers> trabalhava<v-fin> e<conj-c> o<art> prédio<n> era<v-fin> inteirinho<n> de<prp> comércio<n> eu<pron-pers> saía<v-fin> do<v-ger> meu<pron-det> trabalho<n> e<conj-c> vinha<v-fin> trabalhar<v-inf> a<art> noite<n> ali<adv> ,<punc> o<art> comércio<n> ia<v-fin> embora<conj-s> aí<adv> eu<pron-pers> limpava<v-fin> a<art> escadaria<n> .<punc> 
+Além<adv> da<v-pcp> escadaria<n> ,<punc> tinha<v-fin> um<art> moço<n> bailarino<adj> que<pron-indp> morava<v-fin> naquelas<n> quitinete<adv> ,<punc> ali<adv> era<v-fin> época<n> do<v-ger> comércio<n> mas<conj-c> tinha<v-fin> umas<pron-det> quitinete<n> ,<punc> coisinha<v-fin> assim<adv> pequenininho<adj> ,<punc> ele<pron-pers> pedia<v-fin> para<prp> mim<pron-pers> limpar<v-inf> ,<punc> eu<pron-pers> ganhava<v-fin> mais<adv> um<num> pouquinho<n> dele<adv> ,<punc> ganhava<v-fin> um<art> salário<n> mínimo<adj> na<adj> limpeza<n> ,<punc> assim<adv> que<conj-s> eu<pron-pers> fui<v-fin> fazendo<v-ger> .<punc> 
+P<prop> -<punc> E<conj-c> as<art> crianças<n> ficavam<v-fin> com<prp> quem<pron-indp> ?<punc> 
+R-<n> Eles<pron-pers> ficavam<v-fin> com<prp> eles<pron-pers> mesmo<adv> .<punc> 
+P<prop> -<punc> E<conj-c> alguns<pron-det> já<adv> trabalhavam<v-fin> para<prp> ajudar<v-inf> a<prp> casa<n> ?<punc> 
+R-<n> O<art> mais<adv> velho<adj> ,<punc> trabalhava<v-fin> muito<adv> já<adv> logo<adv> aprendeu<v-fin> a<prp> trabalhar<v-inf> de<prp> funileiro<n> ,<punc> foi<v-fin> trabalhar<v-inf> na<pron-pers> <EM ID="4212" CATEG="ORGANIZACAO" TIPO="EMPRESA"  > Carroceria<prop> Graça<prop> </EM> lá<adv> na<pron-pers> <EM ID="4213" CATEG="LOCAL" TIPO="HUMANO"  > Vila<v-fin> Leopoldina<prop> </EM> ,<punc> me<pron-pers> ajudou<v-fin> bastante<adv> .<punc> 
+E<conj-c> tinha<v-fin> uma<art> menina<n> que<pron-indp> era<v-fin> mais<adv> velha<adj> aquela<pron-det> lá<adv> cuidava<v-fin> da<v-pcp> casa<n> ,<punc> cuidava<v-fin> das<v-pcp> crianças<n> ,<punc> levava<v-fin> as<art> crianças<n> na<pron-pers> escola<v-fin> ,<punc> buscava<v-fin> ,<punc> depois<adv> ia<v-fin> para<prp> o<art> ginásio<n> de<prp> noite<n> .<punc> 
+P<prop> -<punc> Era<v-fin> duro<adj> !<punc> 
+R-<n> Era<v-fin> ,<punc> mas<conj-c> ...<punc> 
+P<prop> -<punc> A<art> senhora<n> vinha<v-fin> do<v-pcp> <EM ID="4214" CATEG="LOCAL" TIPO="HUMANO"  > Limão<prop> </EM> para<prp> trabalhar<v-inf> ...<punc> 
+R-<n> Nas<prop> <EM ID="4215" CATEG="LOCAL" TIPO="HUMANO"  > Perdizes<prop> </EM> .<punc> 
+P<prop> -<punc> Vinha<prop> como<adv> ,<punc> como<adv> é<v-fin> que<conj-s> a<art> senhora<n> fazia<v-fin> ,<punc> tinha<v-fin> ônibus<n> ?<punc> 
+R-<v-fin> Ônibus<n> .<punc> 
+Descia<v-fin> na<pron-pers> <EM ID="4216" CATEG="LOCAL" TIPO="HUMANO"  > Barra<prop> Funda<prop> </EM> .<punc> 
+P<prop> -<punc> Sábado<prop> e<conj-c> domingo<n> o<punc> que<pron-indp> a<art> senhora<n> fazia<v-fin> ?<punc> 
+R-<n> Uh<prop> ,<punc> imagina<v-fin> .<punc> 
+Lavava<v-fin> roupa<n> ,<punc> hoje<adv> que<conj-s> é<v-fin> uma<art> festa<n> .<punc> 
+<EM ID="4217" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Marina<prop> </EM> me<pron-pers> conheceu<v-fin> lá<adv> no<adj> bairro<n> ,<punc> hoje<adv> chama<v-fin> <EM ID="4218" CATEG="LOCAL" TIPO="HUMANO"  > Vila<prop> Lapa<prop> </EM> .<punc> 
+Mas<conj-c> nos<pron-pers> tempos<v-fin> que<conj-s> as<art> criança<n> ...só<adj> trabalhava<v-fin> .<punc> 
+Sábado<n> e<conj-c> domingo<n> eu<pron-pers> limpava<v-fin> a<prp> casa<n> ,<punc> eu<pron-pers> lavava<v-fin> a<art> roupa<n> .<punc> 
+No<adv> mesmo<adv> prédio<n> que<pron-indp> eu<pron-pers> trabalhava<v-fin> lá<adv> na<pron-pers> <EM ID="4219" CATEG="LOCAL" TIPO="HUMANO"  > Vinte<prop> e<conj-c> Cinco<num> de<prp> Março<n> </EM> ,<punc> tinha<v-fin> umas<pron-det> fábricas<n> de<prp> lenço<n> ,<punc> uns<pron-det> lenço<n> fininho<adj> de<prp> náilon<prop> ,<punc> sobrava<v-fin> muito<adv> aqueles<pron-det> pedacinho<n> eu<pron-pers> levava<v-fin> para<prp> fazer<v-inf> acolchoado<v-pcp> para<prp> as<art> crianças<n> ,<punc> para<prp> as<art> crianças<n> não<adv> passar<v-inf> frio<n> .<punc> 
+E<conj-c> também<adv> levava<v-fin> as<art> camisas<n> do<v-pcp> menino<n> que<pron-indp> era<v-fin> bailarino<n> para<prp> lavar<v-inf> e<conj-c> passar<v-inf> em<prp> casa<n> ,<punc> para<prp> mim<pron-pers> trazer<v-inf> para<prp> ele<pron-pers> para<prp> ganhar<v-inf> um<art> pouquinho<n> mais<adv> .<punc> 
+P<prop> -<punc> A<art> senhora<n> arrumava<v-fin> formas<n> de...<punc> 
+P<prop> -<punc> E<conj-c> a<art> sua<pron-det> mãe<n> e<conj-c> a<art> sua<pron-det> irmã<n> ,<punc> onde<adv> é<v-fin> que<conj-s> estavam<v-fin> nessa<pron-det> hora<n> ?<punc> 
+R-<n> Também<adv> na<pron-pers> mesma<pron-det> rua<n> que<pron-indp> eu<pron-pers> ,<punc> pertinho<v-fin> .<punc> 
+Minha<pron-det> mãe<n> dava<v-fin> uma<art> mão<n> ,<punc> às<adv> vezes<n> tinha<v-fin> que<conj-s> levar<v-inf> criança<n> para<prp> tomar<v-inf> vacina<n> ,<punc> essas<pron-det> coisas<n> .<punc> 
+E<conj-c> sabe<v-fin> quem<pron-indp> me<pron-pers> ajudou<v-fin> também<adv> ?<punc> 
+O<art> <EM ID="4220" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Juizado<n> de<prp> Menor<prop> </EM> .<punc> 
+P<prop> -<punc> Sim<adv> ,<punc> porque<conj-s> a<art> senhora<n> ficou<v-fin> com<prp> as<art> crianças<n> menores<adj> .<punc> 
+E<conj-c> que<conj-s> que<conj-s> ele<pron-pers> fazia<v-fin> ?<punc> 
+Me<pron-pers> dava<v-fin> dinheiro<n> mensal<adj> ,<punc> ia<v-fin> receber<v-inf> lá<adv> em<prp> <EM ID="4221" CATEG="LOCAL" TIPO="HUMANO"  > Pinheiros<prop> </EM> ,<punc> na<pron-pers> <EM ID="4222" CATEG="LOCAL" TIPO="HUMANO"  > Rua<v-fin> Fradique<prop> Coutinho<prop> </EM> .<punc> 
+P<prop> -<punc> Mas<conj-c> a<art> senhora<n> recebia<v-fin> pensão<n> do<v-pcp> seu<pron-det> marido<n> ou<conj-c> era<v-fin> pensão<n> do<v-pcp> juizado<v-pcp> ?<punc> 
+R-<v-fin> Do<prop> juizado<v-pcp> .<punc> 
+P<prop> -<punc> E<conj-c> seu<pron-det> marido<n> foi<v-fin> parar<v-inf> onde<adv> ?<punc> 
+R-<n> Meu<pron-det> marido<n> abandonou<v-fin> nós<pron-pers> .<punc> 
+P<prop> -<punc> E<conj-c> onde<adv> ele<pron-pers> foi<v-fin> ?<punc> 
+R-<n> Foi<v-fin> para<prp> o<art> mesmo<pron-det> lugar<n> que<pron-indp> morava<v-fin> ,<punc> <EM ID="4223" CATEG="LOCAL" TIPO="HUMANO"  > Fartura<prop> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> a<art> senhora<n> nunca<adv> mais<adv> viu<v-fin> ?<punc> 
+R-<n> Aqui<adv> trabalhei<v-fin> ,<punc> consegui<v-fin> aposentar<v-inf> e<conj-c> graças<n> a<prp> Deus<prop> ,<punc> hoje<adv> não<adv> tenho<v-fin> problema<n> nem<conj-c> de<prp> saúde<n> nem<conj-c> nenhum<pron-det> .<punc> 
+P<prop> -<punc> E<conj-c> ele<pron-pers> nunca<adv> mandava<v-fin> pensão<n> para<prp> ajudar<v-inf> os<art> meninos<n> ?<punc> 
+R-<prop> Não<adv> ,<punc> nunca<adv> .<punc> 
+P<prop> -<punc> Por<prp> isso<pron-indp> que<pron-indp> a<art> senhora<n> recebia<v-fin> do<v-pcp> juizado<n> .<punc> 
+R-<n> Por<prp> isso<pron-indp> que<pron-indp> eu<pron-pers> recebia<v-fin> do<v-pcp> juizado<n> .<punc> 
+Então<adv> eu<pron-pers> recebia<v-fin> de<prp> quatro<num> criança<n> na<adj> mão<n> ,<punc> cada<pron-det> uma<pron-det> que<pron-indp> fazia<v-fin> <EM ID="4224" CATEG="VALOR" TIPO="QUANTIDADE"  > 14<num> </EM> eles<pron-pers> cortavam<v-fin> ,<punc> assim<adv> foi<v-fin> .<punc> 
+Depois<adv> quando<adv> ficou<v-fin> a<prp> outra<pron-det> que<pron-indp> não<adv> tinha<v-fin> <EM ID="4225" CATEG="VALOR" TIPO="QUANTIDADE"  > 14<num> </EM> ainda<adv> eu<pron-pers> fui<v-fin> lá<adv> e<conj-c> disse<v-fin> :<punc> "agora<adv> não<adv> vou<v-fin> mais<adv> receber<v-inf> não"<n> .<punc> 
+Não<adv> quis<v-fin> mais<adv> .<punc> 
+P<prop> -<punc> Porque<conj-s> ?<punc> 
+R-<n> Por<prp> que<pron-indp> já<adv> estava<v-fin> só<adv> uma<num> ,<punc> ia<v-fin> ficar<v-inf> pouquinho<adj> ,<punc> não<adv> vou<v-fin> receber<v-inf> mais<adv> não<adv> .<punc> 
+Mas<conj-c> eu<pron-pers> não<adv> lembro<v-fin> quanto<adv> era<v-fin> de<prp> dinheiro<n> ,<punc> mas<conj-c> dava<v-fin> para<prp> mim<pron-pers> comprar<v-inf> alguma<pron-det> coisa<n> ,<punc> já<adv> ajudava<v-fin> .<punc> 
+P<prop> -<punc> Quando<adv> a<art> senhora<n> foi<v-fin> morar<v-inf> em<prp> <EM ID="4226" CATEG="LOCAL" TIPO="HUMANO"  > Osasco<prop> </EM> ,<punc> os<art> filhos<n> já<adv> estavam<v-fin> grandes<adj> ?<punc> 
+R-<n> Estavam<v-fin> grandes<adj> .<punc> 
+P<prop> -<punc> Mas<conj-c> solteiros<v-fin> ainda<adv> ?<punc> 
+R-<n> É<v-fin> ,<punc> solteiros<adj> ,<punc> estavam<v-fin> grandes<adj> ;<punc> não<adv> ,<punc> já<adv> tinha<v-fin> uma<art> casada<n> .<punc> 
+Lá<adv> eu<pron-pers> morei<v-fin> um<art> tempo<n> ,<punc> depois<adv> eu<pron-pers> mudei<v-fin> para<prp> cá<adv> .<punc> 
+P<prop> -<punc> Lá<adv> em<prp> <EM ID="4227" CATEG="LOCAL" TIPO="HUMANO"  > Osasco<art> </EM> a<art> senhora<n> trabalhava<v-fin> também<adv> ?<punc> 
+R-<n> Trabalhava<v-fin> ,<punc> nunca<adv> deixei<v-fin> de<prp> trabalhar<v-inf> .<punc> 
+P<prop> -<punc> Fazendo<v-ger> o<pron-det> que<pron-indp> ,<punc> nessa<pron-det> época<n> ?<punc> 
+R-<n> Limpeza<prop> .<punc> 
+P<prop> -<punc> Lá<adv> mesmo<adv> em<prp> <EM ID="4228" CATEG="LOCAL" TIPO="HUMANO"  > Osasco<prop> </EM> ,<punc> ou<conj-c> vinha<v-fin> fazer<v-inf> em<prp> <EM ID="4229" CATEG="LOCAL" TIPO="HUMANO"  > São<v-fin> Paulo<prop> </EM> ?<punc> 
+R-<n> Na<prop> cidade<n> ,<punc> nas<adj> <EM ID="4230" CATEG="LOCAL" TIPO="HUMANO"  > Perdizes<n> </EM> mesmo<adv> .<punc> 
+P<prop> -<punc> De<prp> <EM ID="4231" CATEG="LOCAL" TIPO="HUMANO"  > Osasco<art> </EM> a<art> senhora<n> foi<v-fin> morar<v-inf> onde<adv> ?<punc> 
+R-<prop> Eu<pron-pers> fui<v-fin> morar<v-inf> na<pron-pers> <EM ID="4232" CATEG="LOCAL" TIPO="HUMANO"  > Vila<prop> de<prp> São<prop> Francisco<prop> </EM> .<punc> 
+P<prop> -<punc> E<conj-c> hoje<adv> a<art> senhora<n> mora<v-fin> lá<adv> com<prp> a<art> família<n> ou<conj-c> mora<n> sozinha<adj> ?<punc> 
+A<art> família<n> .<punc> 
+Com<prp> duas<num> filhas<n> .<punc> 
+P<prop> -<punc> São<v-fin> solteiras<n> ?<punc> 
+R-<n> São<v-fin> .<punc> 
+Ah<prop> ,<punc> trabalhei<v-fin> também<adv> de<prp> <EM ID="4233" CATEG="TEMPO" TIPO="PERIODO"  > 70<num> </EM> a<prp> <EM ID="4234" CATEG="TEMPO" TIPO="PERIODO"  > 80<num> </EM> ,<punc> eu<pron-pers> trabalhei<v-fin> de<prp> motorista<n> de<prp> uma<art> mulher<n> .<punc> 
+Ela<pron-pers> tinha<v-fin> carro<n> e<conj-c> ia<v-fin> trabalhar<v-inf> ,<punc> entrava<v-fin> sete<num> horas<n> na<adj> <EM ID="4235" CATEG="LOCAL" TIPO="HUMANO"  > Penha<v-fin> </EM> .<punc> 
+Eu<pron-pers> ia<v-fin> levar<v-inf> ela<pron-pers> de<prp> madrugada<n> para<prp> ficar<v-inf> trabalhando<v-ger> ,<punc> de<prp> noite<n> eu<pron-pers> ia<v-fin> buscar<v-inf> .<punc> 
+O<art> marido<n> dela<v-fin> morreu<v-fin> no<pron-pers> carro<n> junto<adv> comigo<n> .<punc> 
+Já<adv> passei<v-fin> tudo<pron-indp> isso<pron-indp> na<pron-pers> vida<n> .<punc> 
+P<prop> -<punc> Como<adv> foi<v-fin> ?<punc> 
+R-<prop> Eu<pron-pers> levava<v-fin> ela<pron-pers> todo<pron-det> dia<n> ,<punc> mas<conj-c> ele<pron-pers> não<adv> sei<v-fin> ,<punc> gostava<v-fin> de<prp> ir<v-inf> também<adv> ,<punc> levantava<v-fin> cedinho<n> e<conj-c> ia<v-fin> junto<adv> ;<punc> porque<conj-s> nenhum<pron-det> do<v-ger> dois<num> guiava<n> e<conj-c> ela<pron-pers> já<adv> estava<v-fin> quase<adv> na<adj> hora<n> de<prp> aposentar<v-inf> .<punc> 
+Aí<adv> eu<pron-pers> deixei<v-fin> ela<pron-pers> ,<punc> ela<pron-pers> trabalhava<v-fin> numa<adj> pastelaria<n> ,<punc> então<adv> tinha<v-fin> que<conj-s> entrar<v-inf> muito<adv> cedo<adv> ,<punc> deixei<v-fin> ela<pron-pers> e<conj-c> depois<adv> viemos<v-fin> .<punc> 
+E<conj-c> ele<pron-pers> estava<v-fin> sentado<n> atrás<adv> e<conj-c> ela<pron-pers> sentada<v-pcp> comigo<n> ,<punc> mas<conj-c> quando<adv> eu<pron-pers> deixei<v-fin> ela<pron-pers> eu<pron-pers> falei<v-fin> :<punc> "Ah<prop> ,<punc> senta<v-fin> aqui<adv> para<prp> frente<n> ,<punc> né<n> ,<punc> <EM ID="4236" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Seu<pron-det> Irineu<prop> </EM> ,<punc> porque<conj-s> senão<adv> fica<v-fin> parecendo<v-ger> que<conj-s> eu<pron-pers> sou<v-fin> chofer<n> de<prp> praça"<n> .<punc> 
+(<punc> riso<n> )<punc> Parece<v-fin> que<conj-s> foi<v-fin> <EM ID="4237" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Deus<prop> </EM> que<pron-indp> mandou<v-fin> eu<pron-pers> fazer<v-inf> isso<pron-indp> porque<conj-s> ele<pron-pers> desceu<v-fin> e<conj-c> sentou<v-fin> na<pron-pers> frente<adv> comigo<n> .<punc> 
+Mas<conj-c> depois<adv> ele<pron-pers> estava<v-fin> aqui<adv> do<v-pcp> meu<pron-det> lado<n> e<conj-c> fazia<v-fin> com<prp> esta<pron-det> mão<n> assim<adv> ,<punc> na<pron-pers> minha<pron-det> perna<n> ;<punc> aí<adv> eu<pron-pers> pensei<v-fin> mal<adv> dele<n> ,<punc> ele<pron-pers> ficou<v-fin> ,<punc> aí<adv> eu<pron-pers> olhei<v-fin> o<art> rosto<n> dele<punc> e<conj-c> ele<pron-pers> estava<v-fin> com<prp> a<art> cabeça<n> baixa<adj> assim<adv> e<conj-c> caindo<v-ger> baba<n> .<punc> 
+O<art> homem<n> estava<v-fin> morrendo<v-ger> !<punc> 
+Ainda<adv> tinha<v-fin> neblina<n> ,<punc> era<v-fin> muito<adv> cedinho<adj> .<punc> 
+Vim<v-fin> correndo<n> para<prp> o<art> <EM ID="4238" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Hospital<prop> Municipal<prop> do<v-pcp> Tatuapé<prop> </EM> ,<punc> ali<adv> na<pron-pers> <EM ID="4239" CATEG="LOCAL" TIPO="HUMANO"  > Celso<v-fin> Garcia<prop> </EM> e<conj-c> socorreram<v-fin> ele<pron-pers> e<conj-c> tudo<pron-indp> ,<punc> mas<conj-c> ...aí<adv> então<adv> tive<v-fin> que<conj-s> explicar<v-inf> tudo<pron-indp> para<prp> a<art> patroa<n> .<punc> 
+P<prop> -<punc> Ah<prop> sim...<punc> 
+R<prop> -<punc> Mas<conj-c> aí<adv> depois<adv> eles<pron-pers> viram<v-fin> ,<punc> né<n> ,<punc> tinha<v-fin> que<conj-s> morrer<v-inf> naquela<pron-pers> hora<n> e<conj-c> estava<v-fin> no<adj> carro<n> comigo<adj> .<punc> 
+P<prop> -<punc> Alem<prop> desse<v-fin> trabalho<n> como<adv> motorista<n> a<prp> senhora<n> teve<v-fin> outros<pron-det> trabalhos<n> diferentes<adj> ?<punc> 
+R-<prop> Não<adv> .<punc> 
+Depois<adv> disso<v-fin> eu<pron-pers> não<adv> trabalhei<v-fin> mais<adv> .<punc> 
+P<prop> -<punc> E<conj-c> lá<adv> na<pron-pers> <EM ID="4240" CATEG="LOCAL" TIPO="HUMANO"  > Zona<prop> Leste<adv> </EM> ,<punc> essas<pron-det> duas<num> filhas<n> solteiras<adj> ,<punc> a<art> casa<n> é<v-fin> da<v-pcp> senhora<n> ,<punc> é<v-fin> delas<n> ?<punc> 
+R-<n> É<v-fin> nossa<pron-det> .<punc> 
+P<prop> -<punc> É<v-fin> de<prp> vocês<pron-pers> .<punc> 
+A<art> senhora<n> parou<v-fin> de<prp> trabalhar<v-inf> quando<adv> ?<punc> 
+Faz<v-fin> muito<pron-det> tempo<n> ?<punc> 
+R-<n> Faz<v-fin> tempo<n> .<punc> 
+Eu<pron-pers> parei<v-fin> de<prp> trabalhar<v-inf> que<conj-s> eu<pron-pers> comecei<v-fin> de<prp> trabalhar<v-inf> como<adv> motorista<n> ,<punc> né<n> ,<punc> eu<pron-pers> ganhava<v-fin> mais<adv> ou<conj-c> menos<adv> ;<punc> mas<conj-c> eu<pron-pers> continuei<v-fin> pagando<v-ger> o<art> <EM ID="4241" CATEG="OBRA" TIPO="PLANO"  > INPS<prop> </EM> ;<punc> quando<adv> eu<pron-pers> fiz<v-fin> <EM ID="4242" CATEG="VALOR" TIPO="QUANTIDADE"  > 65<num> anos<n> </EM> aposentei<v-fin> ,<punc> aí<adv> não<adv> trabalhei<v-fin> nunca<adv> mais<adv> .<punc> 
+P<prop> -<punc> Como<adv> é<v-fin> que<conj-s> é<v-fin> sua<pron-det> vida<n> desde<prp> então<adv> ?<punc> 
+Melhorou<prop> ,<punc> piorou<v-fin> ?<punc> 
+R-<n> Melhorou<prop> .<punc> 
+P<prop> -<punc> É?<prop> 
+O<pron-det> que<pron-indp> a<art> senhora<n> faz<v-fin> todo<pron-det> dia<n> ?<punc> 
+R-<v-fin> Nada<adv> .<punc> 
+P<prop> -<punc> Nada<pron-indp> ?<punc> 
+Como<adv> é<v-fin> não<adv> fazer<v-inf> nada<pron-indp> ?<punc> 
+R-<v-fin> Corro<n> atrás<adv> das<v-pcp> coisas<n> ,<punc> hoje<adv> eu<pron-pers> fui<v-fin> lá<adv> na<pron-pers> <EM ID="4243" CATEG="LOCAL" TIPO="HUMANO"  > Rua<v-fin> Augusta<n> </EM> atrás<adv> de<prp> um<art> inventário<n> de<prp> uma<art> propriedade<n> no<adj> interior<adj> .<punc> 
+P<prop> -<punc> Faz<v-fin> quanto<pron-det> tempo<n> que<pron-indp> a<art> senhora<n> está<v-fin> aposentada<v-pcp> ?<punc> 
+R-<prop> Desde...<punc> 
+Três<num> anos<n> .<punc> 
+P<prop> -<punc> Aí<adv> acorda<v-fin> vai<v-fin> ver<v-inf> uma<art> conta<n> ,<punc> vai<v-fin> ver<v-inf> outra<pron-det> ?<punc> 
+R-<n> Isso<pron-indp> ,<punc> vou<v-fin> pagar<v-inf> conta<n> ,<punc> vou<v-fin> pagar<v-inf> conta<n> de<prp> telefone<n> ,<punc> vou<v-fin> lá<adv> levar<v-inf> para<prp> registrar<v-inf> o<art> inventário<n> ,<punc> porque<conj-s> só<adv> agora<adv> que<pron-indp> saiu<v-fin> o<art> inventário<n> .<punc> 
+Fui<v-fin> no<pron-pers> banco<n> ,<punc> fui<v-fin> em<prp> um<art> banco<n> ,<punc> depois<adv> fui<v-fin> em<prp> outro<pron-det> banco<n> .<punc> 
+Essas<pron-det> coisas<n> assim<adv> ,<punc> né<n> ?<punc> 
+Domingo<n> eu<pron-pers> vou<v-fin> na<pron-pers> <EM ID="4244" CATEG="LOCAL" TIPO="HUMANO"  > Penha<prop> </EM> dançar<v-inf> ,<punc> naqueles<prop> bailes<n> lá<adv> no<pron-pers> <EM ID="4245" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|ADMINISTRATIVO"  > Círculo<prop> dos<v-pcp> Trabalhadores<prop> </EM> .<punc> 
+P<prop> -<punc> A<art> senhora<n> faz<v-fin> parte<n> desse<adj> grupo<n> de<prp> pessoas<n> idosas<adj> ?<punc> 
+R-<n> Faço<prop> .<punc> 
+P<prop> -<punc> E<conj-c> tem<v-fin> muitas<pron-det> festas<n> ,<punc> muitas<pron-det> atividades<n> ?<punc> 
+R-<n> Tem<v-fin> ,<punc> tem<v-fin> festa<n> junina<adj> ,<punc> tem<v-fin> festa<n> baile<adv> do<v-pcp> <EM ID="4246" CATEG="LOCAL" TIPO="HUMANO"  > Havaí<v-fin> </EM> todo<pron-det> ano<n> em<prp> <EM ID="4247" CATEG="TEMPO" TIPO="PERIODO"  > novembro<n> </EM> ;<punc> tem<v-fin> viagem<n> ,<punc> excursão<n> .<punc> 
+P<prop> -<punc> A<art> senhora<n> já<adv> fez<v-fin> alguma<pron-det> viagem<n> com<prp> o<art> grupo<n> ?<punc> 
+R-<prop> Eu<pron-pers> fui<v-fin> em<prp> <EM ID="4248" CATEG="LOCAL" TIPO="HUMANO"  > Aparecida<n> </EM> ,<punc> só<adv> uma<art> vez<n> .<punc> 
+Não<adv> viajo<v-fin> muito<adv> não<adv> .<punc> 
+P<prop> -<punc> Gostou<prop> da<v-pcp> viagem<n> ?<punc> 
+R-<n> Gostei<v-fin> .<punc> 
+Sempre<adv> gosto<v-fin> de<prp> lá<adv> .<punc> 
+P<prop> -<punc> O<art> grupo<n> é<v-fin> interessante<adj> ?<punc> 
+R-<n> Ah<prop> ,<punc> é<v-fin> !<punc> 
+É<v-fin> tudo<pron-indp> a<art> mesma<pron-det> coisa<n> ,<punc> é<v-fin> tudo<pron-indp> a<art> mesma<pron-det> da<n> mesma<pron-det> família<n> .<punc> 
+P<prop> -<punc> E<conj-c> são<v-fin> muitos<pron-det> ?<punc> 
+R-<n> Ah<prop> ,<punc> nem<conj-c> dá<v-fin> para<prp> saber<v-inf> quanto<adv> .<punc> 
+P<prop> -<punc> E<conj-c> a<art> sua<pron-det> família<n> ,<punc> como<adv> está<v-fin> agora<adv> ?<punc> 
+R-<n> Bem<adv> ,<punc> com<prp> saúde<n> .<punc> 
+P<prop> -<punc> Tem<v-fin> muitos<pron-det> netos<n> ?<punc> 
+R-<n> Tenho<v-fin> ,<punc> até<prp> perdi<v-fin> a<art> conta<n> já<adv> .<punc> 
+<EM ID="4249" CATEG="VALOR" TIPO="QUANTIDADE"  > 14<num> </EM> ou<conj-c> <EM ID="4250" CATEG="VALOR" TIPO="QUANTIDADE"  > 15<num> </EM> .<punc> 
+P<prop> -<punc> Nossa<prop> !<punc> 
+Muitos<pron-det> netos<n> .<punc> 
+Bisnetos<n> ,<punc> não<adv> ?<punc> 
+R-<n> Bisneto<prop> também<adv> tenho<v-fin> .<punc> 
+Deixa<prop> eu<pron-pers> ver<v-inf> ,<punc> tenho...acho<v-fin> que<conj-s> eu<pron-pers> tenho<v-fin> seis<num> .<punc> 
+P<prop> -<punc> Seis<prop> bisnetos<n> ?<punc> 
+É<v-fin> bastante<adv> gente<adj> .<punc> 
+P<prop> -<punc> <EM ID="4251" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Dona<prop> Lázara<punc> </EM> ,<punc> a<art> senhora<n> lembra<v-fin> qual<pron-det> foi<v-fin> a<art> coisa<n> na<adj> sua<pron-det> vida<n> que<conj-s> mais<adv> lhe<pron-pers> marcou<v-fin> ?<punc> 
+R-<n> Lembro<prop> .<punc> 
+P<prop> -<punc> Que<pron-indp> que<pron-indp> foi<v-fin> ?<punc> 
+R-<n> É<v-fin> que<conj-s> eu<pron-pers> tinha<v-fin> um<art> namorado<n> chamado<v-pcp> <EM ID="4252" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Alfredo<prop> </EM> ...que<punc> eu<pron-pers> nunca<adv> amei<v-fin> ninguém<pron-indp> na<pron-pers> minha<pron-det> vida<n> ,<punc> homem<n> ,<punc> né<n> ,<punc> igual<adj> aquele<pron-det> lá<adv> .<punc> 
+Antes<adv> do<n> homem<v-fin> que<conj-s> eu<pron-pers> casei<v-fin> .<punc> 
+E<conj-c> ele<pron-pers> ,<punc> na<pron-pers> última<adj> vez<n> que<pron-indp> eu<pron-pers> vi<v-fin> ,<punc> ele<pron-pers> cutucou<v-fin> uma<art> varinha<n> e<conj-c> tirou<v-fin> umas<pron-det> folhinhas<n> e<conj-c> deu<v-fin> para<prp> mim<pron-pers> .<punc> 
+Podia<v-fin> ter<v-inf> trazido<v-pcp> ,<punc> eu<pron-pers> tenho<v-fin> a<art> varinha<n> .<punc> 
+P<prop> -<punc> Ainda<adv> tem<v-fin> a<art> varinha<n> ?<punc> 
+R-<n> Tenho<v-fin> ,<punc> mas<conj-c> tá<v-fin> meio<adj> pó<n> .<punc> 
+P<prop> -<punc> Porque<conj-s> a<art> senhora<n> não<adv> casou<v-fin> com<prp> ele<pron-pers> ,<punc> o<punc> que<pron-indp> aconteceu<v-fin> ?<punc> 
+R-<prop> Não<adv> sei<v-fin> ,<punc> acho<v-fin> que<conj-s> meu<pron-det> irmão<n> atrapalhou<v-fin> .<punc> 
+Mas<conj-c> eu<pron-pers> amo<v-fin> até<prp> hoje<adv> ,<punc> se<pron-pers> eu<pron-pers> ver<v-inf> acho<v-fin> que<conj-s> eu<pron-pers> agarro<v-fin> !<punc> 
+(<punc> riso<n> )<punc> P<prop> -<punc> E<conj-c> ele<pron-pers> anda<v-fin> por<prp> onde<adv> ?<punc> 
+Não<adv> procurou<v-fin> descobrir<v-inf> não<adv> ?<punc> 
+R-<v-fin> Também<adv> !<punc> 
+Tem<v-fin> dias<n> que<pron-indp> dá<v-fin> uma<art> vontade<n> de<prp> botar<v-inf> a<art> boca<n> no<adj> trombone<v-fin> ,<punc> porque<conj-s> às<adv> vezes<n> tá<v-fin> casado<v-pcp> ,<punc> tá<v-fin> velhinho<adj> ,<punc> tá<v-fin> tudo<pron-indp> ,<punc> né<n> ,<punc> porque<conj-s> ele<pron-pers> é<v-fin> mais<adv> velho<adj> que<pron-indp> eu<pron-pers> uns<pron-det> cinco<num> anos<n> ;<punc> cinco<num> não<adv> ,<punc> uns<pron-det> quatro<num> .<punc> 
+P<prop> -<punc> E<conj-c> a<art> senhora<n> nunca<adv> deixou<v-fin> de<prp> pensar<v-inf> nele<adv> ?<punc> 
+R-<n> Nunca<adv> ,<punc> nenhum<pron-det> dia<n> .<punc> 
+Então<adv> essa<pron-det> varinha<v-fin> me<pron-pers> marcou<v-fin> ,<punc> me<pron-pers> marcou<v-fin> ,<punc> me<pron-pers> gravou<v-fin> ,<punc> me<pron-pers> filmou<v-fin> ,<punc> me<pron-pers> tudo<pron-indp> .<punc> 
+Não<adv> esqueço<n> nunca<adv> ;<punc> mas<conj-c> é<v-fin> uma<art> saudade<n> bonita<adj> ,<punc> gostosa<adj> .<punc> 
+Uma<art> coisa<n> que<pron-indp> não<adv> tem<v-fin> cura<n> ,<punc> né<n> ?<punc> (<punc> fim<n> da<v-pcp> fita<n> )<punc> P<prop> -<punc> A<art> senhora<n> não<adv> tem<v-fin> idéia<n> de<prp> onde<adv> ele<pron-pers> vive<v-fin> ,<punc> nada<pron-indp> ?<punc> 
+R-<n> Ah<prop> ,<punc> quando<adv> ele<pron-pers> separou<v-fin> ,<punc> né<n> ,<punc> foi<v-fin> para<prp> <EM ID="4253" CATEG="LOCAL" TIPO="HUMANO"  > Marília<prop> </EM> .<punc> 
+Mas<conj-c> como<adv> é<v-fin> que<conj-s> vou<v-fin> bater<v-inf> de<prp> porta<n> em<prp> porta<n> lá<adv> ?<punc> 
+Mas<conj-c> ele<pron-pers> era<v-fin> muito<adv> bonito<adj> também<adv> ,<punc> mas<conj-c> só<adv> que<conj-s> ele<pron-pers> era<v-fin> meio<adv> preto<adj> .<punc> 
+P<prop> -<punc> E<conj-c> foi<v-fin> por<prp> isso<pron-indp> que<pron-indp> seu<pron-det> irmão<n> atrapalhou<v-fin> ?<punc> 
+Como<adv> é<v-fin> que<conj-s> foi<v-fin> isso<pron-indp> ,<punc> a<art> senhora<n> lembra<v-fin> ?<punc> 
+R-<prop> Não<adv> ,<punc> não<adv> é<v-fin> por<prp> isso<pron-indp> não<adv> porque<conj-s> meu<pron-det> irmão<n> também<adv> gostava<v-fin> da<v-pcp> irmã<n> dele<prp> .<punc> 
+A<art> irmã<n> dele<prp> não<adv> quis<v-fin> o<art> meu<pron-det> irmão<n> e<conj-c> meu<pron-det> irmão<n> começou<v-fin> a<prp> brigar<v-inf> forte<adj> ,<punc> a<prp> chutar<v-inf> cadeira<n> ,<punc> né<n> ,<punc> de<prp> não<adv> sei<v-fin> que<conj-s> ,<punc> mas<conj-c> era<v-fin> de<prp> despeito<n> porque<conj-s> a<art> irmã<n> dele<prp> o<art> desprezou<pp> ,<punc> então<adv> ele<pron-pers> achava<v-fin> que<conj-s> não<adv> era<v-fin> justo<adj> ,<punc> né<n> ,<punc> deve<v-fin> ser<v-inf> isso...não<pron-indp> estou<v-fin> gostando<v-ger> de<prp> falar<v-inf> muito<adv> nisso<adv> não<adv> .<punc> 
+P<prop> -<punc> Este<pron-det> tempo<n> passou<v-fin> ...<punc> 
+R-<n> Ah<prop> ,<punc> é?<prop> 
+Eu<pron-pers> falo<v-fin> sinto<v-fin> bem<adv> ,<punc> eu<pron-pers> falo<v-fin> ,<punc> acho<v-fin> gostoso<adj> de<prp> lembrar<v-inf> ,<punc> as<art> minhas<pron-det> filhas<n> falam<v-fin> para<prp> mim<pron-pers> :<punc> "Porque<conj-s> você<pron-pers> não<adv> vai<v-fin> para<prp> o<art> <EM ID="4254" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Silvio<prop> Santos<prop> </EM> e<conj-c> pede<v-fin> na<pron-pers> <EM ID="4255" CATEG="ORGANIZACAO|LOCAL" TIPO="INSTITUICAO|VIRTUAL"  > Porta<prop> da<v-pcp> Esperança<prop> </EM> ?"<punc> Já<adv> assistiu<v-fin> ?<punc> 
+Então<adv> :<punc> "Porque<conj-s> não<adv> vai<v-fin> lá<adv> e<conj-c> acha<v-fin> o<art> seu<pron-det> amado<v-pcp> ,<punc> nem<conj-c> que<conj-s> seja<v-fin> velhinho."(<adj> riso<n> )<punc> 
+P<prop> -<punc> E<conj-c> as<art> suas<pron-det> filhas<n> sabem<v-fin> ?<punc> 
+R-<prop> Claro<adv> que<conj-s> sabem<v-fin> !<punc> 
+P<prop> -<punc> E<conj-c> seu<pron-det> marido<n> sabia<v-fin> ?<punc> 
+R-<v-fin> Não<adv> !<punc> 
+Mas<conj-c> as<art> filhas<n> sabem<v-fin> ,<punc> também<adv> porque<conj-s> também<adv> ele<pron-pers> já<adv> não<adv> vive<v-fin> mais<adv> ,<punc> então<adv> deixa<v-fin> saber<v-inf> ,<punc> ué<prop> .<punc> 
+Não<adv> tem<v-fin> mais<adv> problema<n> !<punc> 
+P<prop> -<punc> Agora<adv> me<pron-pers> diga<v-fin> uma<art> coisa<n> ,<punc> para<prp> a<art> senhora<n> mudar<v-inf> o<art> assunto<n> :<punc> lá<adv> na<pron-pers> sua<pron-det> cidade<n> tinha<v-fin> estação<n> de<prp> rádio<n> ,<punc> ouvia<prop> rádio<n> ?<punc> 
+R-<prop> Não<adv> .<punc> 
+Tinha<v-fin> um...alto<n> falante<adj> .<punc> 
+Hoje<adv> acho<v-fin> que<conj-s> tem<v-fin> .<punc> 
+P<prop> -<punc> Mas<conj-c> na<v-fin> época<n> era<v-fin> auto<n> falante<adj> ,<punc> que<pron-indp> ficava<v-fin> na<pron-pers> praça<n> .<punc> 
+R-<n> É<v-fin> ,<punc> punha<v-fin> disco<n> lá<adv> ,<punc> cantava<v-fin> .<punc> 
+P<prop> -<punc> E<conj-c> outra<pron-det> coisa<n> ,<punc> tinha<v-fin> jornalzinho<n> ,<punc> tinha<v-fin> revista<n> ,<punc> almanaque<n> ?<punc> 
+O<pron-det> que<pron-indp> que<pron-indp> a<art> senhora<n> lia<n> mais<adv> ,<punc> almanaque<n> ,<punc> revista<n> ?<punc> 
+R-<n> Tinha<v-fin> .<punc> 
+Revista<n> .<punc> 
+E<conj-c> ficava<v-fin> admirando<v-ger> aquelas<pron-det> moças<n> bonitas<adj> que<pron-indp> tinha<v-fin> na<pron-pers> revista<n> ,<punc> que<pron-indp> tinha<v-fin> vontade<n> ser<v-inf> igual<adj> elas<pron-pers> .<punc> 
+P<prop> -<punc> E<conj-c> almanaque<n> ,<punc> tinha<v-fin> também<adv> ?<punc> 
+R-<n> Tinha<v-fin> ,<punc> <EM ID="4256" CATEG="OBRA" TIPO="REPRODUZIDA"  > Almanaque<prop> do<num> Pensamento<n> </EM> .<punc> 
+P<prop> -<punc> Como<adv> era<v-fin> <EM ID="4257" CATEG="OBRA" TIPO="REPRODUZIDA"  > Almanaque<prop> do<v-pcp> Pensamento<n> </EM> ?<punc> 
+R-<prop> Não<adv> me<pron-pers> lembro<v-fin> mais<adv> ,<punc> sei<v-fin> que<conj-s> achava<v-fin> coisa<n> da<v-pcp> vida<n> da<v-pcp> gente<n> ,<punc> também<adv> achava<v-fin> de<prp> agricultura<n> ,<punc> também<adv> achava<v-fin> isso<pron-indp> .<punc> 
+Signo<prop> ,<punc> não<adv> sei<v-fin> que<conj-s> lá<adv> mais<adv> ,<punc> que<pron-indp> nasceu<v-fin> em<prp> tal<pron-det> dia<n> ,<punc> tal<pron-det> coisa<n> ,<punc> não<adv> me<pron-pers> lembro<v-fin> muito<adv> bem<adv> .<punc> 
+Tinha<v-fin> também<adv> sobre<prp> agricultura<n> ,<punc> quando<adv> que<conj-s> planta<v-fin> ,<punc> quando<adv> que<conj-s> colhe<v-fin> ,<punc> que<conj-s> lua<adv> ,<punc> essas<pron-det> coisas<n> .<punc> 
+E<conj-c> tinha<v-fin> o<art> jornal<n> .<punc> 
+P<prop> -<punc> E<conj-c> dessa<v-fin> época<n> ,<punc> quando<adv> a<art> senhora<n> namorava<v-fin> ele<pron-pers> ,<punc> tem<v-fin> alguma<pron-det> música<n> que<pron-indp> a<art> senhora<n> lembra<v-fin> ,<punc> que<pron-indp> marca<v-fin> ?<punc> 
+R-<n> Tem<v-fin> .<punc> 
+P<prop> -<punc> Então<adv> ,<punc> qual<pron-det> é<v-fin> a<art> música<n> ?<punc> 
+R-<n> Do<prop> <EM ID="4258" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Tonico<prop> </EM> e<conj-c> do<num> <EM ID="4259" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Tinoco<prop> </EM> ,<punc> cantava<v-fin> lá<adv> no<pron-pers> alto<adv> falante<adj> .<punc> 
+P<prop> -<punc> Como<adv> era<v-fin> a<art> música<n> ?<punc> 
+R-<prop> Não<adv> era<v-fin> <EM ID="4260" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Tonico<prop> </EM> e<conj-c> <EM ID="4261" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Tinoco<prop> </EM> não<adv> ,<punc> era<v-fin> ...como<adv> é<v-fin> que<conj-s> era<v-fin> ?<punc> "Sertanejo<adv> se<pron-pers> eu<pron-pers> pudesse<v-fin> ,<punc> se<pron-pers> papai<v-fin> do<v-ger> céu<n> me<pron-pers> desse<v-fin> um<art> espaço<n> para<prp> eu<pron-pers> voar/Eu<v-fin> corria<v-fin> ,<punc> eu<pron-pers> corria<v-fin> ,<punc> acabava<v-fin> com<prp> a<art> tristeza<n> só<adv> para<prp> não<adv> te<pron-pers> ver<v-inf> chorar"<n> É<v-fin> assim<adv> ?<punc> 
+"<punc> <EM ID="4262" CATEG="OBRA" TIPO="REPRODUZIDA"  > Saudade<prop> do<punc> Matão<prop> </EM> "<punc> também<adv> ,<punc> essa<pron-det> daí<n> ,<punc> mas<conj-c> a<prp> que<pron-indp> mais<adv> é<v-fin> a<art> "<punc> <EM ID="4263" CATEG="OBRA" TIPO="REPRODUZIDA"  > Sertaneja<prop> </EM> "<punc> .<punc> 
+P<prop> -<punc> E<conj-c> outra<pron-det> coisa<n> :<punc> qual<pron-det> é<v-fin> o<art> maior<adj> sonho<n> da<v-pcp> senhora<v-fin> hoje<adv> ?<punc> 
+R-<v-fin> O<art> meu<pron-det> sonho<n> ,<punc> ah<adv> ,<punc> quero<v-fin> ter<v-inf> um<art> carro<n> ,<punc> que<conj-s> eu<pron-pers> não<adv> tenho<v-fin> .<punc> 
+P<prop> -<punc> E<conj-c> não<adv> é<v-fin> encontrar<v-inf> o<art> seu<pron-det> ex-namorado<n> ?<punc> 
+R-<prop> Não<adv> ,<punc> isso<pron-indp> eu<pron-pers> já<adv> desisti<v-fin> ;<punc> ele<pron-pers> pode<v-fin> ter<v-inf> uma<art> família<n> ,<punc> pode<v-fin> não<adv> dar<v-inf> certo<adj> ,<punc> né<n> ,<punc> porque<conj-s> se<pron-pers> for<v-fin> uma<art> pessoa<n> como<adv> eu<pron-pers> ,<punc> entende<v-fin> ,<punc> não<adv> fica<v-fin> com<prp> raiva<n> ,<punc> faz<v-fin> amizade<n> até<prp> .<punc> 
+Mas<conj-c> nem<adv> todo<adv> mundo<n> são<v-fin> iguais<adj> ,<punc> né<n> ?<punc> 
+A<art> gente<n> não<adv> pode<v-fin> ,<punc> não<adv> é<v-fin> preso<v-pcp> .<punc> 
+Porque<conj-s> se<pron-pers> eu<pron-pers> estou<v-fin> velhinha<adj> ,<punc> ele<pron-pers> também<adv> está<v-fin> e<conj-c> a<art> mulher<n> dele<punc> também<adv> deve<v-fin> estar<v-inf> ;<punc> então<adv> é<v-fin> normal<adj> ,<punc> se<pron-pers> eu<pron-pers> correr<v-inf> atrás<adv> de<prp> um<art> velhinho<adj> ,<punc> tem<v-fin> outra<pron-det> velhinha<adj> para<prp> ficar<v-inf> com<prp> ciúmes<n> .<punc> 
+Mas<conj-c> agora<adv> fosse<v-fin> eu<pron-pers> ,<punc> eu<pron-pers> entedia<v-fin> .<punc> 
+Bom<adj> ,<punc> também<adv> não<adv> sei<v-fin> porque...<conj-s> 
+P<prop> -<punc> Se<conj-s> a<art> senhora<n> tivesse<v-fin> que<conj-s> dizer<v-inf> alguma<pron-det> coisa<n> para<prp> as<art> pessoas<n> ,<punc> para<prp> os<art> seus<pron-det> filhos<n> ,<punc> seus<pron-det> netos<n> ,<punc> seus<pron-det> bisnetos<n> ,<punc> para<prp> a<art> geração<n> mais<adv> nova<adj> que<conj-s> a<art> senhora<n> ,<punc> o<pron-det> que<pron-indp> que<pron-indp> a<art> senhora<n> diria<v-fin> para<prp> eles<pron-pers> hoje<adv> ?<punc> 
+R-<n> O<pron-det> que<pron-indp> eu<pron-pers> diria<v-fin> ou<conj-c> o<pron-det> que<pron-indp> que<pron-indp> eu<pron-pers> digo<v-fin> toda<pron-det> hora<n> ?<punc> 
+P<prop> -<punc> Ou<conj-c> o<pron-det> que<pron-indp> a<art> senhora<n> diz<v-fin> toda<pron-det> hora<n> ,<punc> melhor<adv> ainda<adv> .<punc> 
+R-<n> Que<pron-indp> fuja<v-fin> da<v-pcp> má<adj> companhia<n> ,<punc> que<pron-indp> fuja<v-fin> das<v-pcp> droga<n> ;<punc> que<pron-indp> nem<adv> converse<v-fin> com<prp> gente<n> estranha<adj> ,<punc> que<pron-indp> não<adv> pegue<v-fin> nem<adv> um<art> doce<n> ,<punc> nenhuma<pron-det> bala<n> na<pron-pers> porta<prp> da<n> escola<adj> .<punc> 
+É<v-fin> isso<pron-indp> que<pron-indp> eu<pron-pers> falo<v-fin> para<prp> todos<pron-det> os<art> jovens<adj> ;<punc> para<prp> os<art> meus<n> e<conj-c> para<prp> os<art> dos<n> outros<adj> ,<punc> é<v-fin> isso<pron-indp> que<pron-indp> eu<pron-pers> falo<v-fin> .<punc> 
+P<prop> -<punc> Agora<adv> ,<punc> me<pron-pers> diga<v-fin> mais<adv> uma<num> coisa<n> :<punc> a<art> senhora<n> acha<v-fin> que<conj-s> foi<v-fin> importante<adj> ter<v-inf> registrado<v-pcp> a<art> sua<pron-det> história<n> de<prp> vida<n> hoje<adv> ,<punc> aqui<adv> fazer<v-inf> esse<pron-det> depoimento<n> ?<punc> 
+R-<n> Acho<v-fin> ,<punc> né<n> ,<punc> porque<conj-s> faz<v-fin> muito<pron-det> tempo<n> que<pron-indp> eu<pron-pers> não<adv> converso<v-fin> assim<adv> com<prp> ninguém<pron-indp> .<punc> 
+Porque<conj-s> eu<pron-pers> não<adv> converso<v-fin> com<prp> ninguém<pron-indp> ;<punc> eu<pron-pers> não<adv> converso<v-fin> com<prp> ninguém<pron-indp> ,<punc> nem<conj-c> com<prp> vizinho<n> ,<punc> com<prp> ninguém<pron-indp> .<punc> 
+Então<adv> eu<pron-pers> achei<v-fin> bom<adj> .<punc> 
+Mas<conj-c> ,<punc> sabe<v-fin> ,<punc> não<adv> tem<v-fin> quem<pron-indp> pergunte<v-fin> nada<pron-indp> para<prp> mim<pron-pers> ,<punc> né<n> ?<punc> 
+Só<adv> os<art> netos<n> que<pron-indp> perguntam<v-fin> umas<pron-det> perguntinhas<n> ,<punc> eu<pron-pers> respondo<v-ger> ;<punc> às<adv> vezes<n> nem<conj-c> espera<v-fin> eu<pron-pers> dar<v-inf> a<art> resposta<n> e<conj-c> sai<v-fin> correndo<n> .<punc> 
+Então<adv> eu<pron-pers> não<adv> converso<n> .<punc> 
+Só<adv> às<adv> vezes<n> ,<punc> quando<adv> eu<pron-pers> encontro<v-fin> a<art> minha<pron-det> irmã<n> ,<punc> então<adv> a<art> gente<n> conversa<adj> bastante<adv> ,<punc> a<art> gente<n> sai<v-fin> junto<adv> ,<punc> do<n> contrário<adj> ,<punc> ninguém<pron-indp> conversa<adv> comigo<n> .<punc> 
+Eles<pron-pers> ,<punc> as<art> vezes<n> conversam<v-fin> e<conj-c> eu<pron-pers> vou<v-fin> conversar<v-inf> também<adv> e<conj-c> meu<pron-det> papo<n> é<v-fin> diferente<adj> ,<punc> não<adv> interessa<v-fin> para<prp> eles<pron-pers> ,<punc> né<n> ,<punc> mas<conj-c> com<prp> os<art> meus<pron-det> netos<n> e<conj-c> com<prp> os<art> amigos<n> dos<v-pcp> meus<pron-det> netos<n> ,<punc> eu<pron-pers> falo<v-fin> quase<adv> todo<pron-det> dia<n> ,<punc> assim<adv> que<conj-s> eu<pron-pers> tenho<v-fin> chance<n> ,<punc> eu<pron-pers> estou<v-fin> dando<v-ger> conselho<n> e<conj-c> falo<n> :<punc> "Ainda<adv> não<adv> estou<v-fin> com<prp> <EM ID="4264" CATEG="VALOR" TIPO="QUANTIDADE"  > 100<num> anos<n> </EM> ,<punc> mas<conj-c> eu<pron-pers> já<adv> vivi<v-fin> <EM ID="4265" CATEG="VALOR" TIPO="QUANTIDADE"  > 100<num> anos<n> </EM> "<punc> .<punc> 
+Já<adv> sofri<v-fin> muito<adv> ,<punc> tenho<v-fin> muito<pron-det> experiência<n> ,<punc> sou<v-fin> muito<adv> experimentada<v-pcp> ,<punc> muito<adv> sofrida<v-pcp> ,<punc> né<n> ,<punc> parece<v-fin> que<conj-s> eu<pron-pers> tenho<v-fin> <EM ID="4266" CATEG="VALOR" TIPO="QUANTIDADE"  > 100<num> anos<n> </EM> de<prp> vida<n> .<punc> 
+P<prop> -<punc> Que<pron-indp> que<pron-indp> a<art> senhora<n> ,<punc> hoje<adv> ,<punc> depois<adv> desses<adj> <EM ID="4267" CATEG="VALOR" TIPO="QUANTIDADE"  > 100<num> anos<n> </EM> de<prp> vida<n> ,<punc> o<pron-det> que<pron-indp> a<art> senhora<n> ,<punc> se<pron-pers> pudesse<v-fin> mudar<v-inf> alguma<pron-det> coisa<n> na<pron-pers> sua<pron-det> vida<n> ,<punc> o<pron-det> que<pron-indp> a<art> senhora<n> mudaria<n> ?<punc> 
+Que<pron-det> que<pron-indp> eu<pron-pers> mudaria<v-fin> ?<punc> 
+Só<adv> queria<v-fin> ter<v-inf> aquilo<pron-indp> que<pron-indp> falei<v-fin> para<prp> você<pron-pers> ,<punc> eu<pron-pers> queria<v-fin> um<art> carro<n> ,<punc> mas<conj-c> parece<v-fin> não<adv> dá<v-fin> para<prp> comprar<v-inf> ,<punc> juntar<v-inf> dinheirinho<n> ,<punc> mas<conj-c> nunca<adv> que<conj-s> chega<v-fin> lá<adv> que<pron-indp> dá<v-fin> ,<punc> porque<conj-s> eu<pron-pers> nunca<adv> tenho<v-fin> a<art> quantia<n> ,<punc> o<art> carro<n> está<v-fin> lá<adv> mais<adv> para<prp> cima<n> ,<punc> então...<prp> 
+P<prop> -<punc> A<art> senhora<n> gostaria<v-fin> de<prp> dizer<v-inf> mais<adv> alguma<pron-det> coisa<n> para<prp> a<art> gente<n> gravar<adj> ?<punc> 
+R-<prop> Não<adv> sei<v-fin> ,<punc> você<pron-pers> que<pron-indp> sabe<v-fin> ,<punc> o<pron-det> que<pron-indp> quiser<v-fin> perguntar<v-inf> ,<punc> eu<pron-pers> respondo<v-ger> .<punc> 
+P<prop> -<punc> Tem<v-fin> alguma<pron-det> coisa<n> que<pron-indp> a<art> senhora<n> acha<v-fin> importante<adj> ?<punc> 
+P<prop> -<punc> O<pron-det> que<pron-indp> o<art> seu<pron-det> coração<n> esteja<v-fin> com<prp> vontade<n> de<prp> dizer<v-inf> mais<adv> alguma<pron-det> coisa<n> ?<punc> 
+R-<v-fin> Por<prp> exemplo<n> ,<punc> eu<pron-pers> posso<v-fin> fazer<v-inf> pergunta<n> ,<punc> assim<adv> ?<punc> 
+O<pron-det> que<pron-indp> que<pron-indp> tem<v-fin> aqui<adv> nessa<pron-det> casa<n> ?<punc> 
+P<prop> -<punc> Aqui<adv> nesse<v-fin> prédio<n> ?<punc> 
+Ah<prop> ,<punc> tem<v-fin> atividades<n> as<art> mais<adv> variadas<v-pcp> ,<punc> tem<v-fin> cursos<n> para<prp> músicos<n> ,<punc> para<prp> teatro<n> ,<punc> bailarino<n> ,<punc> tem<v-fin> vários<pron-det> cursos<n> .<punc> 
+R-<n> Ensina<v-fin> a<art> dançar<n> ?<punc> 
+P<prop> -<punc> Ensina<prop> a<prp> dançar<v-inf> ,<punc> inclusive<adv> tem<v-fin> um<art> curso<n> para<prp> terceira<adj> idade<n> que<pron-indp> ensina<v-fin> a<prp> dançar<v-inf> tango<n> .<punc> 
+R-<n> E<conj-c> a<art> gente<n> consegue<v-fin> aprender<v-inf> ?<punc> 
+P<prop> -<punc> Consegue<prop> ,<punc> a<art> senhora<n> tem<v-fin> vontade<n> de<prp> fazer<v-inf> ?<punc> 
+Eu<pron-pers> tenho<v-fin> vontade<n> de<prp> aprender<v-inf> a<prp> dançar<v-inf> direitinho<n> .<punc> 
+P<prop> -<punc> <EM ID="4268" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Dona<prop> Lázara<v-fin> </EM> ,<punc> muito<adv> obrigada<v-pcp> pela<n> ajuda<v-fin> ,<punc> pelo<adv> trabalho<v-fin> da<v-pcp> senhora<n> e<conj-c> até<prp> uma<art> outra<pron-det> ocasião<n> .<punc> 
+R-<prop> Desculpa<adv> aí<adv> viu<v-fin> ?<punc> 
+P<prop> -<punc> Não<adv> ,<punc> nós<pron-pers> é<v-fin> que<conj-s> agradecemos<v-fin> .<punc> 

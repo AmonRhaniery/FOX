@@ -1,0 +1,47 @@
+Quantos<pron-det> anos<n> esteve<v-fin> em<prp> <EM ID="3448" CATEG="LOCAL" TIPO="HUMANO"  > Biblau<prop> </EM> ?<punc> 
+Dois<num> anos<n> .<punc> 
+Fiz<prop> <EM ID="3449" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  > Economia<v-fin> </EM> em<prp> dois<num> anos<n> ,<punc> porque<conj-s> como<adv> já<adv> tinha<v-fin> <EM ID="3450" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  > Filosofia<prop> </EM> ,<punc> estudei<v-fin> só<adv> dois<num> anos<n> ,<punc> tal<pron-indp> como<adv> fiz<v-fin> em<prp> <EM ID="3451" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> .<punc> 
+Fiz<prop> dois<num> anos<n> num<adj> ,<punc> com<prp> dois<num> exames<n> .<punc> 
+Tinha<v-fin> marcado<v-pcp> -"Quantos<n> dias<n> eu<pron-pers> preciso<v-fin> para<prp> esta<pron-det> licenciatura?"<n> e<conj-c> lá<adv> me<pron-pers> consegui<v-fin> safar<v-inf> .<punc> 
+Recorda-se<prop> de<prp> algum<pron-det> momento<n> especial<adj> que<pron-indp> tivesse<v-fin> passado<v-pcp> em<prp> <EM ID="3452" CATEG="LOCAL" TIPO="HUMANO"  > Bilbau<prop> </EM> ?<punc> 
+Tinha<v-fin> os<art> emigrantes<n> portugueses<adj> que<pron-indp> lá<adv> estavam<v-fin> .<punc> 
+Sabe<v-fin> que<conj-s> os<art> portugueses<n> no<adj> estrangeiro<n> são<v-fin> mais<adv> amigos<adj> que<pron-indp> cá<adv> em<prp> <EM ID="3453" CATEG="LOCAL" TIPO="HUMANO"  > Portugal<prop> </EM> ?<punc> !<punc> É<v-fin> extraordinário<adj> .<punc> 
+Mesmo<adv> em<prp> <EM ID="3454" CATEG="LOCAL" TIPO="HUMANO"  > Bilbau<prop> </EM> a<prp> colónia<n> de<prp> portugueses<n> juntáva-se<conj-c> de<prp> vez<n> em<prp> quando<adv> .<punc> 
+Em<prp> <EM ID="3455" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> ,<punc> os<art> portugueses<n> aquilo<pron-indp> era<v-fin> um<art> grupo<n> .<punc> 
+Não<adv> éramos<v-fin> contra<prp> os<art> outros<pron-det> ,<punc> se<pron-pers> eles<pron-pers> viessem<v-fin> a<art> gente<n> também<adv> os<art> metia<n> ,<punc> mas<conj-c> sabendo<v-ger> que<conj-s> com<prp> os<art> portugueses<n> a<art> gente<n> podia<v-fin> sempre<adv> contar<v-inf> .<punc> 
+Aconteceu-me<n> uma<art> coisa<n> muito<adv> aborrecida<v-pcp> na<n> <EM ID="3456" CATEG="LOCAL" TIPO="HUMANO"  > Bélgica<prop> </EM> .<punc> 
+Lá<adv> íamos<v-fin> um<art> grupo<n> de<prp> portugueses<n> .<punc> 
+Ao<prp> sair<v-inf> de<prp> um<art> autocarro<n> havia<v-fin> uma<art> senhora<n> muito<adv> gorda<adj> ,<punc> que<pron-indp> levou<v-fin> muito<pron-det> tempo<n> .<punc> 
+E<conj-c> eu<pron-pers> disse<v-fin> ao<prp> meu<pron-det> colega<n> :-"Espera<v-fin> que<conj-s> passe<v-fin> este<pron-det> trampolho."<n> 
+E<conj-c> no<adj> fim<n> diz<v-fin> a<art> senhora<n> :-"Muito<n> obrigado<v-pcp> que<pron-indp> sou<v-fin> portuguesa<adj> ."<punc> 
+Coitadinha<prop> .<punc> 
+Ficamos<v-fin> arrasados<v-pcp> !<punc> 
+-"Oh<n> senhora<v-fin> desculpe<n> !<punc> 
+É<adv> maneira<n> de<prp> falar<v-inf> ,<punc> nem<conj-c> pensamos<v-fin> sequer<adv> ofender<v-inf> .<punc> 
+Era<v-fin> uma<art> maneira<n> de<prp> falar<v-inf> porque<conj-s> julgamos<v-fin> que<conj-s> ninguém<pron-indp> nos<pron-pers> entendia<v-fin> ."<punc> 
+Mas<conj-c> com<prp> esta<pron-det> ficamos<n> bem<adv> .<punc> 
+A<art> senhora<n> até<prp> compreendeu<prp> a<art> nossa<pron-det> posição<n> ,<punc> que<pron-indp> não<adv> era<v-fin> para<prp> ofender<v-inf> .<punc> 
+Mas<conj-c> essa<pron-det> saíu-nos<n> cara<v-fin> .<punc> 
+Que<pron-det> tipo<n> de<prp> actividades<n> vocês<adj> portugueses<n> faziam<v-fin> ?<punc> 
+Saíamos<v-fin> ,<punc> discutíamos<v-fin> os<art> problemas<n> ,<punc> discutíamos<v-fin> as<art> dificuldades<n> que<pron-indp> cada<pron-det> um<art> tinha<n> ,<punc> ajudávamo-nso<n> mutuamente<adv> .<punc> 
+Moravam<v-fin> todos<pron-det> perto<v-fin> uns<pron-det> dos<n> outros<adj> ?<punc> 
+Cada<pron-det> um<art> morava<n> na<adj> sua<pron-det> residência<n> universitária<adj> ,<punc> mas<conj-c> juntávamo-nos<v-fin> sempre<adv> .<punc> 
+De<prp> <EM ID="3457" CATEG="LOCAL" TIPO="HUMANO"  > Bilbau<prop> </EM> foi<v-fin> para<prp> <EM ID="3458" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> ,<punc> como<adv> é<v-fin> que<conj-s> surgiu<v-fin> a<art> ideia<n> de<prp> ir<v-inf> para<prp> essa<pron-det> universidade<n> ?<punc> 
+Acabou<v-fin> a<art> guerra<n> ,<punc> eu<pron-pers> já<adv> pode<v-fin> ir<v-inf> para<prp> <EM ID="3459" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> porque<conj-s> eu<pron-pers> queria<v-fin> sair<v-inf> de<prp> <EM ID="3460" CATEG="LOCAL" TIPO="HUMANO"  > Espanha<prop> </EM> porque<conj-s> já<adv> conhecia<v-fin> a<art> <EM ID="3461" CATEG="LOCAL" TIPO="HUMANO"  > Espanha<prop> </EM> .<punc> 
+Mas<conj-c> de<prp> facto<n> ,<punc> estive<v-fin> muito<adv> bem<adv> em<prp> <EM ID="3462" CATEG="LOCAL" TIPO="HUMANO"  > Bilbau<prop> </EM> ,<punc> a<art> universidade<n> tem<v-fin> uma<art> bela<adj> biblioteca<n> e<conj-c> bons<adj> professores<n> .<punc> 
+Realmente<adv> gostei<v-fin> de<prp> lá<adv> estar<v-inf> ,<punc> mas<conj-c> também<adv> gostei<v-fin> de<prp> <EM ID="3463" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> porque<conj-s> <EM ID="3464" CATEG="LOCAL" TIPO="HUMANO"  > Leuven<prop> </EM> tem<v-fin> uma<art> vantagem<n> que<pron-indp> não<adv> tem<v-fin> <EM ID="3465" CATEG="LOCAL" TIPO="HUMANO"  > Portugal<prop> </EM> .<punc> 
+A<art> <EM ID="3466" CATEG="LOCAL" TIPO="HUMANO"  > Bélgica<prop> </EM> está<v-fin> entre<prp> a<art> <EM ID="3467" CATEG="LOCAL" TIPO="HUMANO"  > Alemanha<prop> </EM> ,<punc> <EM ID="3468" CATEG="LOCAL" TIPO="HUMANO"  > Inglaterra<prop> </EM> e<conj-c> a<art> <EM ID="3469" CATEG="LOCAL" TIPO="HUMANO"  > França<prop> </EM> e<conj-c> tem<v-fin> tudo<adv> o<pron-det> que<pron-indp> há<v-fin> de<prp> novidade<n> .<punc> 
+É<v-fin> que<pron-indp> nós<pron-pers> estamos<v-fin> na<adj> cauda<n> da<v-pcp> <EM ID="3470" CATEG="LOCAL" TIPO="HUMANO"  > Europa<prop> </EM> e<conj-c> as<art> coisas<n> chegam<v-fin> cá<adv> tarde<adv> .<punc> 
+Eu<pron-pers> quando<adv> cheguei<v-fin> cá<adv> pareceu-me<n> que<pron-indp> não<adv> arranjava<v-fin> trabalho<n> porque<conj-s> nós<pron-pers> estávamos<v-fin> <EM ID="3471" CATEG="VALOR" TIPO="QUANTIDADE"  > 10<num> anos<n> </EM> atrasados<v-pcp> .<punc> 
+Nós<pron-pers> íamos<v-fin> <EM ID="3472" CATEG="VALOR" TIPO="QUANTIDADE"  > 10<num> anos<n> </EM> atrasados<v-pcp> ao<prp> que<conj-s> lá<adv> estava<v-fin> ,<punc> não<adv> por<prp> incapacidade<n> ,<punc> o<art> português<n> gosta<v-fin> de<prp> aprender<v-inf> e<conj-c> aprende<v-fin> bem<adv> as<art> coisas<n> ,<punc> mas<conj-c> precisamente<adv> porque<conj-s> na<pron-pers> <EM ID="3473" CATEG="LOCAL" TIPO="HUMANO"  > Bélgica<prop> </EM> o<punc> que<pron-indp> havia<v-fin> da<v-pcp> <EM ID="3474" CATEG="LOCAL" TIPO="HUMANO"  > Inglaterra<prop> </EM> ,<punc> da<v-pcp> <EM ID="3475" CATEG="LOCAL" TIPO="HUMANO"  > Alemanha<prop> </EM> ou<conj-c> da<v-pcp> <EM ID="3476" CATEG="LOCAL" TIPO="HUMANO"  > França<prop> </EM> estava<v-fin> ali<adv> .<punc> 
+A<art> <EM ID="3477" CATEG="LOCAL" TIPO="HUMANO"  > Bélgica<prop> </EM> estava<v-fin> bem<adv> situada<v-pcp> ,<punc> ao<prp> passo<n> que<pron-indp> nós<pron-pers> estamos<v-fin> num<v-pcp> extremo<adj> .<punc> 
+Hoje<adv> já<adv> há<v-fin> mais<adv> comunicações<n> ,<punc> e<conj-c> as<art> universidades<n> estão<v-fin> mais<adv> desenvolvidas<v-pcp> ,<punc> infelizmente<adv> nem<adv> todos<pron-det> os<art> instutitutos<n> universitários<adj> .<punc> 
+Eu<pron-pers> sempre<adv> defendo<v-ger> ,<punc> porque<conj-s> há<v-fin> uns<pron-det> que<pron-indp> atacam<v-fin> que<conj-s> algumas<pron-det> universidades<n> não<adv> tem<v-fin> categoria<n> ,<punc> e<conj-c> é<v-fin> verdade<n> ,<punc> mas<conj-c> eu<pron-pers> sempre<adv> defendo<v-fin> que<pron-indp> mais<adv> vale<v-fin> isso<pron-indp> do<n> que<pron-indp> nada<pron-indp> .<punc> 
+Porque<conj-s> antes<adv> ,<punc> quem<pron-indp> é<v-fin> que<conj-s> da<n> minha<pron-det> região<n> ia<v-fin> para<prp> a<art> universidade<n> ,<punc> só<adv> quem<pron-indp> tinha<v-fin> algumas<pron-det> possibilidades<n> e<conj-c> com<prp> grande<adj> sacrifício<n> dos<v-pcp> pais<n> .<punc> 
+Era<v-fin> para<prp> <EM ID="3478" CATEG="LOCAL" TIPO="HUMANO"  > Coimbra<prop> </EM> ,<punc> não<adv> havia<v-fin> outro<pron-det> sítio<n> .<punc> 
+Agora<adv> felizmente<adj> têm<v-fin> lá<adv> a<prp> <EM ID="3479" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Universidade<prop> da<v-pcp> Beira<prop> Interior<prop> </EM> .<punc> 
+Já<adv> me<pron-pers> convidaram<v-fin> lá<adv> para<prp> reitor<n> ,<punc> mas<conj-c> eu<pron-pers> não<adv> aceitei<v-fin> .<punc> 
+Primeiro<adv> porque<conj-s> estava<v-fin> aqui<adv> a<prp> trabalhar<v-inf> na<pron-pers> <EM ID="3480" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Universidade<prp> do<n> Minho<prop> </EM> ,<punc> que<pron-indp> eu<pron-pers> gostei<v-fin> imenso<adj> desde<prp> o<art> princípio<n> .<punc> 
+Depois<adv> porque<conj-s> faltavam-me<v-fin> quatro<num> anos<n> para<prp> a<art> jubilação<n> ,<punc> e<conj-c> o<pron-det> que<pron-indp> é<v-fin> que<conj-s> eu<pron-pers> ia<v-fin> lá<adv> fazer<v-inf> por<prp> autro<n> anos<adj> ?<punc> 
+Agora<adv> no<pron-pers> fim<v-fin> da<v-pcp> vida<n> ?<punc> 
+Não<adv> vale<v-fin> a<art> pena<n> .<punc> 

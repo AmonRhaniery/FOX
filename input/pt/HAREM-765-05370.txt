@@ -1,0 +1,134 @@
+Quantos<pron-det> irmão<n> tem<v-fin> ?<punc> 
+São<v-fin> dois<num> .<punc> 
+Um<art> é<num> como<adv> eu<pron-pers> ,<punc> também<adv> se<pron-pers> fez<v-fin> sacerdote<n> ,<punc> mais<adv> tarde<adv> ,<punc> entrou<v-fin> mais<adv> tarde<adv> do<n> que<pron-indp> eu<pron-pers> ,<punc> mas<conj-c> é<v-fin> mais<adv> velho<adj> e<conj-c> trabalhou<v-fin> aqui<adv> em<prp> <EM ID="434" CATEG="LOCAL" TIPO="HUMANO"  > Braga<prop> </EM> ,<punc> na<n> <EM ID="435" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Faculdade<prop> de<prp> Filosofia<prop> </EM> e<conj-c> depois<adv> passou<v-fin> para<prp> <EM ID="436" CATEG="LOCAL" TIPO="HUMANO"  > Coimbra<prop> </EM> e<conj-c> lá<adv> faleceu<v-fin> .<punc> 
+A<art> minha<pron-det> irmã<n> ainda<adv> vive<v-fin> ,<punc> está<v-fin> casada<v-pcp> ,<punc> foi<v-fin> professora<n> primária<adj> .<punc> 
+Está<v-fin> reformada<v-pcp> agora<adv> .<punc> 
+É<v-fin> mais<adv> nova<adj> que<conj-s> eu<pron-pers> e<conj-c> é<v-fin> doméstica<adj> ,<punc> uma<art> vez<n> que<pron-indp> acabou<v-fin> a<art> sua<pron-det> vida<n> profissional<adj> está<v-fin> na<adj> reforma<n> .<punc> 
+Tem<v-fin> recordações<n> da<v-pcp> casa<n> onde<adv> passou<v-fin> a<prp> infância<n> ?<punc> 
+Lembro-me<prop> .<punc> 
+Onde<adv> eu<pron-pers> me<pron-pers> conheci<v-fin> foi<v-fin> em<prp> <EM ID="437" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> ,<punc> onde<adv> o<art> meu<pron-det> pai<n> era<v-fin> chefe<n> dos<v-pcp> correios<n> e<conj-c> os<art> funcionários<n> viviam<v-fin> ,<punc> naquele<pron-det> tempo<n> ,<punc> na<adj> casa<n> onde<adv> estavam<v-fin> os<art> correios<n> .<punc> 
+E<conj-c> no<adj> quintal<adj> ,<punc> foi<v-fin> aí<adv> que<pron-indp> me<pron-pers> reconheci<v-fin> pela<adv> primeira<adj> vez<n> .<punc> 
+Tenho<v-fin> algumas<pron-det> recordações<n> daquele<prp> tempo<n> ,<punc> de<prp> brincadeiras<n> com<prp> o<art> meu<pron-det> irmão<n> .<punc> 
+Lembro-me<v-fin> muito<adv> bem<adv> que<conj-s> eu<pron-pers> gostava<v-fin> muito<adv> de<prp> rebolar<v-inf> pelas<n> escadas<v-pcp> abaixo<adv> ,<punc> para<prp> ver<v-inf> todo<pron-det> à<adv> volta<n> .<punc> 
+E<conj-c> depois<adv> mudamos<v-fin> para<prp> <EM ID="438" CATEG="LOCAL" TIPO="HUMANO"  > Linhais<prop> da<v-pcp> Serra<prop> </EM> e<conj-c> lembro-me<v-fin> da<v-pcp> primeira<adj> desobediência<n> da<v-pcp> minha<pron-det> vida<n> porque<conj-s> eu<pron-pers> andava<v-fin> num<adv> triciclo<adj> na<adj> estrada<n> .<punc> 
+Naquele<pron-det> tempo<n> não<adv> havia<v-fin> automóveis<n> ,<punc> podíamos<v-fin> andar<v-inf> pela<adv> estrada<n> .<punc> 
+O<pron-det> que<pron-indp> havia<v-fin> eram<v-fin> carros<n> de<prp> bois<n> não<adv> eram<v-fin> perigosos<adj> .<punc> 
+E<conj-c> então<adv> ,<punc> o<art> meu<pron-det> pai<n> disse-me<v-fin> :"Está<v-fin> bem<adv> ,<punc> podes<n> andar<v-inf> aqui<adv> na<adj> estrada<n> ,<punc> mas<conj-c> não<adv> podes<v-fin> ir<v-inf> para<prp> ali<adv> para<prp> diante."<n> 
+Eu<pron-pers> lembro-me<v-fin> de<prp> lá<adv> passar<v-inf> para<prp> diante<n> porque<conj-s> vinha<v-fin> meu<pron-det> tio<n> de<prp> <EM ID="439" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> e<conj-c> disse<v-fin> que<conj-s> me<pron-pers> trazia<v-fin> lá<adv> um<art> presente<adj> para<prp> mim<pron-pers> ,<punc> e<conj-c> eu<pron-pers> fui<v-fin> pela<adj> estrada<n> fora<v-fin> .<punc> 
+Quem<pron-indp> me<pron-pers> valeu<v-fin> foram<v-fin> uns<pron-det> homens<n> de<prp> carro-de-bois<n> que<pron-indp> viram<v-fin> um<art> menino<n> de<prp> triciclo<n> e<conj-c> ao<prp> cair<v-inf> do<num> dia<n> .<punc> 
+-"Estou<v-fin> à<pp> espera<v-fin> do<num> meu<pron-det> tio<n> !"<punc> 
+E<conj-c> eles<pron-pers> disseram<v-fin> :<punc> "<punc> Não<adv> .<punc> 
+Tu<prop> sabes<punc> lá<adv> se<pron-pers> o<pron-pers> teu<v-fin> tio<n> vem<v-fin> ."<punc> 
+E<conj-c> obrigaram-me<n> a<prp> entrar<v-inf> no<pron-pers> carro-de-bois<n> .<punc> 
+Cheguei<v-fin> a<art> casa<n> ,<punc> o<art> meu<pron-det> pai<n> deu-me<v-fin> uma<art> sova<n> ,<punc> era<v-fin> o<pron-det> que<pron-indp> eu<pron-pers> merecia<v-fin> .<punc> 
+É<v-fin> o<pron-det> que<pron-indp> eu<pron-pers> me<pron-pers> lembro<v-fin> daqueles<pron-pers> tempos<n> de<prp> meninice<n> .<punc> 
+E<conj-c> como<adv> era<v-fin> essa<pron-det> primeira<adj> casa<n> dos<v-pcp> correios<n> ?<punc> 
+Era<v-fin> normal<adj> porque<conj-s> tinha<v-fin> a<art> parte<n> que<pron-indp> pertencia<v-fin> à<pp> parte<n> que<pron-indp> pertencia<v-fin> à<pp> parte<prp> dos<n> <EM ID="440" CATEG="ORGANIZACAO" TIPO="EMPRESA"  > Correios<adj> </EM> e<conj-c> depois<adv> era<v-fin> uma<art> casa<n> em<prp> que<pron-indp> cada<pron-det> um<num> tinha<v-fin> o<art> seu<pron-det> quarto<n> e<conj-c> tinha<v-fin> um<art> quintal<adj> ,<punc> que<pron-indp> era<v-fin> onde<adv> eu<pron-pers> brincava<v-fin> .<punc> 
+Ficava<v-fin> mesmo<adv> no<adj> centro<n> da<v-pcp> povoação<n> ,<punc> que<pron-indp> era<v-fin> no<adj> <EM ID="441" CATEG="LOCAL" TIPO="HUMANO"  > Bairro<prop> da<v-pcp> Amoreira<prop> </EM> ,<punc> tinha<v-fin> uma<art> grande<adj> amoreira<n> que<pron-indp> hoje<adv> não<adv> existe<v-fin> .<punc> 
+E<conj-c> a<art> casa<n> ,<punc> a<art> última<adj> vez<n> que<adv> a<art> vi<n> ,<punc> estava<v-fin> já<adv> a<prp> cair<v-inf> ,<punc> toda<pron-det> esburacada<n> .<punc> 
+Quem<pron-indp> morava<v-fin> na<pron-pers> casa<n> ?<punc> 
+Nós<pron-pers> a<art> família<n> ,<punc> o<art> meu<pron-det> pai<n> ,<punc> a<art> minha<pron-det> mãe<n> e<conj-c> os<art> filhos<n> .<punc> 
+Nessa<pron-det> altura<n> os<art> seus<pron-det> irmãos<n> já<adv> eram<v-fin> nascidos<v-pcp> ?<punc> 
+Não<adv> .<punc> 
+O<art> meu<pron-det> irmão<n> nasceu<v-fin> em<prp> <EM ID="442" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<art> </EM> comigo<n> ,<punc> a<art> minha<pron-det> irmã<n> nasceu<v-fin> depois<adv> quando<adv> mudamos<v-fin> para<prp> <EM ID="443" CATEG="LOCAL" TIPO="HUMANO"  > Linhais<prop> da<v-pcp> Serra<prop> </EM> ,<punc> tinha<v-fin> uns<pron-det> <EM ID="444" CATEG="VALOR" TIPO="QUANTIDADE"  > 4<num> anos<n> </EM> ou<conj-c> coisa<n> assim<adv> ,<punc> quando<adv> mudamos<v-fin> para<prp> <EM ID="445" CATEG="LOCAL" TIPO="HUMANO"  > Linhais<prop> da<v-pcp> Serra<prop> </EM> e<conj-c> depois<adv> de<prp> lá<adv> viemos<v-fin> para<prp> a<art> <EM ID="446" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> .<punc> 
+Como<adv> eram<v-fin> divididas<v-pcp> as<art> tarefas<n> lá<adv> em<prp> casa<n> ?<punc> 
+A<art> minha<pron-det> mãe<n> é<v-fin> que<conj-s> trabalhava<v-fin> em<prp> casa<n> ,<punc> era<v-fin> doméstica<adj> e<conj-c> nós<pron-pers> estudávamos<v-fin> ,<punc> íamos<v-fin> às<adv> aulas<n> .<punc> 
+Eu<pron-pers> comecei<v-fin> a<prp> ir<v-inf> às<adv> aulas<n> aos<prp> <EM ID="447" CATEG="VALOR" TIPO="QUANTIDADE"  > 6<num> anos<n> </EM> .<punc> 
+E<conj-c> lembro-me<v-fin> muito<adv> bem<adv> ,<punc> na<pron-pers> <EM ID="448" CATEG="LOCAL" TIPO="HUMANO"  > Covilhã<prop> </EM> ,<punc> ia<v-fin> sozinho<adj> para<prp> a<art> escola<n> .<punc> 
+Agora<adv> vão<v-fin> sempre<adv> de<prp> automóvel<n> buscar<v-inf> as<art> crianças<n> porque<conj-s> é<v-fin> perigoso<adj> por<prp> causa<n> dos<v-pcp> automóveis<adj> .<punc> 
+Naquele<pron-det> tempo<n> não<adv> havia<v-fin> perigo<n> nenhum<pron-det> .<punc> 
+Ia<prp> a<art> pé<n> por<prp> lá<adv> cima<n> .<punc> 
+As<art> aulas<n> começavam<v-fin> às<adv> <EM ID="449" CATEG="TEMPO" TIPO="HORA"  > 10h<n> </EM> eu<pron-pers> saía<v-fin> às<adv> <EM ID="450" CATEG="TEMPO" TIPO="HORA"  > 9h30<n> </EM> de<prp> casa<n> para<prp> chegar<v-inf> a<prp> tempo<n> .<punc> 
+Ia<prop> sozinho<adj> não<adv> havia<v-fin> ,<punc> era<v-fin> uma<art> coisa<n> que<pron-indp> me<pron-pers> espantava<v-fin> ,<punc> perigos<n> na<adj> rua<n> .<punc> 
+Hoje<adv> na<pron-pers> cidade<n> ,<punc> uma<art> criança<n> de<prp> <EM ID="451" CATEG="VALOR" TIPO="QUANTIDADE"  > 6<num> anos<n> </EM> atravessar<v-inf> a<art> rua<n> é<v-fin> sempre<adv> perigoso<adj> .<punc> 
+Ainda<adv> me<pron-pers> lembro<v-fin> do<v-pcp> primeiro<adj> automóvel<n> que<conj-s> entrou<v-fin> na<pron-pers> minha<pron-det> terra<n> ,<punc> essa<pron-det> ideia<n> ficou-me<v-fin> ,<punc> seria<v-fin> o<art> primeiro<adj> ,<punc> porque<conj-s> de<prp> facto<n> eram<v-fin> os<art> carros-de-bois<n> ,<punc> de<prp> cavalos<n> ,<punc> era<v-fin> o<pron-det> que<pron-indp> havia<v-fin> ,<punc> que<conj-s> não<adv> eram<v-fin> realmente<adv> perigosos<adj> para<prp> uma<art> criança<n> .<punc> 
+Quais<pron-det> são<v-fin> os<art> momentos<n> mais<adv> marcantes<adj> da<n> sua<pron-det> família<n> ?<punc> 
+Olhe<prop> ,<punc> o<pron-det> que<pron-indp> eu<pron-pers> tenho<v-fin> mais<adv> recordações<n> da<v-pcp> família<n> era<v-fin> umas<pron-det> reuniões<n> de<prp> família<n> :<punc> os<art> meus<pron-det> tios<n> tocavam<v-fin> a<art> pianola<n> ,<punc> que<pron-indp> naquele<pron-pers> tempo<n> era<v-fin> a<art> pianola<n> ,<punc> mas<conj-c> também<adv> sabiam<v-fin> tocar<v-inf> violino<n> e<conj-c> outros<pron-det> instrumentos<n> ,<punc> e<conj-c> cantavam<v-fin> também<adv> .<punc> 
+Lembro-me<v-fin> muito<adv> bem<adv> desses<adj> serões<n> .<punc> 
+E<conj-c> de<prp> vez<n> em<prp> quando<adv> a<art> família<n> também<adv> saía<v-fin> um<art> dia<n> inteiro<adj> e<conj-c> a<art> noite<n> passava-a<v-fin> fora<adv> naquelas<adj> regiões<n> à<adv> volta<v-pcp> .<punc> 
+Tenho<v-fin> recordações<n> desse<prp> tempo<n> .<punc> 
+E<conj-c> devem-me<v-fin> ter<v-inf> marcado<v-pcp> essas<pron-det> reuniões<n> .<punc> 
+Porquê<adv> ?<punc> 
+Porque<conj-s> essa<pron-det> convivência<n> para<prp> as<art> crianças<n> ,<punc> em<prp> que<pron-indp> todos<pron-det> se<pron-pers> entendem<v-fin> ,<punc> cantam<v-fin> ,<punc> contam<v-fin> casos<n> .<punc> 
+Ainda<adv> me<pron-pers> lembro<v-fin> de<prp> o<art> meu<pron-det> tio<n> querer-me<v-fin> ensinar<v-inf> a<prp> aprender<v-inf> a<prp> dançar<v-inf> ,<punc> mas<conj-c> não<adv> foi<v-fin> capaz.Tinha<adj> eu<prp> <EM ID="452" CATEG="VALOR" TIPO="QUANTIDADE"  > 7<num> anos<n> </EM> .<punc> 
+Essas<pron-det> brincadeiras<n> ,<punc> que<pron-indp> eu<pron-pers> convivia<v-fin> marcaram-me<n> para<prp> sempre<adv> .<punc> 
+Gostava<v-fin> da<v-pcp> família<n> porque<conj-s> realmente<adv> as<art> famílias<n> ,<punc> naquele<pron-det> tempo<n> ,<punc> eram<v-fin> muito<adv> unidas<v-pcp> porque<conj-s> não<adv> estavam<v-fin> dispersas<v-pcp> como<adv> hoje<adv> ,<punc> nem<conj-c> as<art> mães<n> estavam<v-fin> no<adj> emprego<n> ,<punc> portanto<adv> estavam<v-fin> em<prp> casa<n> ,<punc> e<conj-c> isto<pron-indp> dava<v-fin> à<pp> família<n> uma<art> convivência<n> neste<adv> caso<n> muito<adv> rica<adj> ,<punc> de<prp> interesse<n> uns<pron-det> pelos<n> outros<pron-det> ,<punc> quando<adv> alguém<pron-indp> ia<v-fin> bem<adv> todos<pron-det> se<pron-pers> alegravam<v-fin> com<prp> isso<pron-indp> ,<punc> quando<adv> alguém<pron-indp> sofria<v-fin> ,<punc> pois<conj-s> todos<pron-det> sofriam<v-fin> com<prp> ele<pron-pers> .<punc> 
+Esta<pron-det> convivência<n> que<pron-indp> hoje<adv> é<v-fin> difícil<adj> existir<v-inf> numa<art> família<n> .<punc> 
+Era<v-fin> uma<art> família<n> grande<adj> ,<punc> os<art> meus<pron-det> tios<n> eram<v-fin> seis<num> ou<conj-c> sete<num> .<punc> 
+Como<adv> era<v-fin> o<art> quotidiano<adj> em<prp> sua<pron-det> casa<n> ?<punc> 
+O<art> meu<pron-det> pai<n> saía<v-fin> para<prp> o<art> trabalho<n> ,<punc> até<prp> me<pron-pers> lembro<v-fin> muito<adv> bem<adv> que<conj-s> tínhamos<v-fin> que<conj-s> jantar<v-inf> mais<adv> cedo<adv> porque<conj-s> ele<pron-pers> tinha<v-fin> que<conj-s> ir<v-inf> para<prp> o<art> trabalho<n> ,<punc> muitas<pron-det> vezes<n> até<prp> de<prp> noite<n> .<punc> 
+E<conj-c> tínhamos<v-fin> sempre<adv> que<conj-s> adaptar<v-inf> a<art> hora<n> de<prp> comer<v-inf> e<conj-c> de<prp> jantar<v-inf> precisamente<adv> por<prp> causa<n> do<v-pcp> meu<pron-det> pai<n> .<punc> 
+E<conj-c> a<prp> que<pron-indp> horas<n> se<pron-pers> levantava<v-fin> pela<n> manhã<adv> ?<punc> 
+Geralmente<adv> levantava-me<v-fin> pelas<n> <EM ID="453" CATEG="TEMPO" TIPO="HORA"  > 8h<n> </EM> ,<punc> o<art> meu<pron-det> pai<n> era<v-fin> um<art> pouco<n> mais<adv> cedo<adv> ,<punc> comia<n> e<conj-c> punha-me<n> a<prp> caminho<n> para<prp> estar<v-inf> às<adv> <EM ID="454" CATEG="TEMPO" TIPO="HORA"  > 10h<n> </EM> na<pron-pers> aula<n> .<punc> 
+Depois<adv> vinha<v-fin> almoçar<v-inf> a<art> casa<n> e<conj-c> às<adv> <EM ID="455" CATEG="TEMPO" TIPO="HORA"  > 2h<num> </EM> tínhamos<v-fin> a<art> segunda<adj> aula<n> até<prp> às<adv> <EM ID="456" CATEG="TEMPO" TIPO="HORA"  > 4h<adv> </EM> .<punc> 
+Às<adv> <EM ID="457" CATEG="TEMPO" TIPO="HORA"  > 4h<adv> </EM> vinha<v-fin> para<prp> casa<n> para<prp> brincar<v-inf> com<prp> os<art> meus<pron-det> amigos<n> .<punc> 
+O<art> meu<pron-det> pai<n> não<adv> gostava<v-fin> muito<adv> que<conj-s> eu<pron-pers> viesse<v-fin> para<prp> casa<n> .<punc> 
+Depois<adv> houve<v-fin> uns<pron-det> tempos<n> que<pron-indp> eu<pron-pers> pertencia<v-fin> aos<n> escuteiros<adj> .<punc> 
+Os<art> escuteiros<n> foi<v-fin> uma<art> animação<n> que<pron-indp> me<pron-pers> marcou<v-fin> muito<adv> .<punc> 
+Os<art> escuteiros<n> eram<v-fin> uma<art> união<n> que<pron-indp> a<art> gente<n> ia<v-fin> a<art> acampamentos<n> ,<punc> tinha<v-fin> as<art> suas<pron-det> leis<n> determinadas<v-pcp> de<prp> juramento<n> ,<punc> relação<n> a<prp> colegas<n> e<conj-c> cumprimento<n> do<v-pcp> dever<punc> .<punc> 
+Era<v-fin> uma<art> coisa<n> interessante<adj> e<conj-c> que<conj-s> nos<pron-pers> prendia<v-fin> bastante<adv> .<punc> 
+Atravessamos<n> a<prp> cidade<n> em<prp> formatura<n> ,<punc> nós<pron-pers> gostávamos<v-fin> muito<adv> daquilo<adj> naquele<adv> tempo<n> .<punc> 
+Mas<conj-c> marcou-me<v-fin> muito<adv> a<prp> questão<n> dos<v-pcp> escuteiros<n> .<punc> 
+Não<adv> passei<v-fin> de<prp> lobito<n> porque<conj-s> na<pron-pers> minha<pron-det> terra<n> eu<pron-pers> saí<v-fin> de<prp> lá<adv> aos<prp> <EM ID="458" CATEG="VALOR" TIPO="QUANTIDADE"  > 12<num> anos<n> </EM> ,<punc> e<conj-c> até<adv> aí<adv> eram<v-fin> lobitos<n> ,<punc> depois<adv> eram<v-fin> lobos<n> e<conj-c> depois<adv> velhos<adj> lobos<n> ,<punc> era<v-fin> a<art> categoria<n> dos<v-pcp> escuteiros<n> .<punc> 
+O<art> meu<pron-det> irmão<n> ,<punc> esse<pron-det> sim<adv> foi<v-fin> velho<adj> lobo<n> e<conj-c> até<prp> chegou<v-fin> a<prp> fundar<v-inf> um<art> núcleo<n> dos<v-pcp> escuteiros<n> em<prp> <EM ID="459" CATEG="LOCAL" TIPO="HUMANO"  > Tortosendo<prop> </EM> .<punc> 
+Como<adv> se<pron-pers> chamava<v-fin> a<art> escola<n> ?<punc> 
+A<art> escola<n> primária<adj> .<punc> 
+Estava<v-fin> uma<art> professora<n> que<pron-indp> nos<pron-pers> dava<v-fin> as<art> primeiras<adj> letras<n> e<conj-c> depois<adv> passávamos<v-fin> para<prp> o<art> professor<n> para<prp> estudar<v-inf> para<prp> o<art> exame<n> .<punc> 
+Todos<pron-det> gostávamos<v-fin> de<prp> passar<v-inf> para<prp> o<art> professor<n> ,<punc> que<pron-indp> era<v-fin> maravilhoso<adj> .<punc> 
+Ainda<adv> havia<v-fin> a<art> palmatória<n> .<punc> 
+Eu<pron-pers> apanhei<v-fin> uma<art> vez<n> ,<punc> mas<conj-c> realmente<adv> era<v-fin> bastante<adv> justo<adj> e<conj-c> a<art> gente<n> não<adv> levava<v-fin> a<art> mal<n> .<punc> 
+Hoje<adv> seria<v-fin> impossível<adj> e<conj-c> inconcebível<adj> isso<pron-indp> .<punc> 
+Mas<conj-c> de<prp> facto<n> preparávamo-nos<v-fin> muito<adv> bem<adv> .<punc> 
+Eu<pron-pers> devo-lhe<v-fin> dizer<v-inf> que<conj-s> a<art> melhor<adj> nota<n> da<v-pcp> minha<pron-det> vida<n> foi<v-fin> na<pron-pers> instrução<n> primária<adj> ,<punc> tive<v-fin> um<art> <EM ID="460" CATEG="VALOR" TIPO="CLASSIFICACAO"  > 20<num> </EM> .<punc> 
+Nunca<adv> mais<adv> consegui<v-fin> ter<v-inf> um<art> <EM ID="461" CATEG="VALOR" TIPO="CLASSIFICACAO"  > 20<num> </EM> na<n> minha<pron-det> vida<n> .<punc> 
+Nunca<adv> tive<v-fin> reprovações<n> porque<conj-s> sempre<adv> procurei<v-fin> preparar<v-inf> os<art> exames<n> .<punc> 
+E<conj-c> depois<adv> como<adv> eu<pron-pers> gostei<v-fin> muito<adv> ,<punc> ao<prp> princípio<n> ,<punc> de<prp> <EM ID="462" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  > Literatura<prop> </EM> e<conj-c> <EM ID="463" CATEG="ABSTRACCAO" TIPO="DISCIPLINA"  > Filosofia<prop> </EM> ,<punc> são<v-fin> matérias<n> que<pron-indp> me<pron-pers> entusiasmavam<v-fin> .<punc> 
+Eu<pron-pers> tive<v-fin> uma<art> infância<n> um<prp> pouco<pron-det> doente<adj> ,<punc> por<prp> causa<n> da<v-pcp> vesícula<v-fin> ,<punc> fiz<v-fin> uma<art> operação<n> .<punc> 
+Foi<v-fin> o<pron-det> que<pron-indp> me<pron-pers> valeu<v-fin> .<punc> 
+Depois<adv> dessa<v-fin> operação<n> o<art> médico<n> dizia<v-fin> que<conj-s> eu<pron-pers> não<adv> chegava<v-fin> aos<adv> <EM ID="464" CATEG="VALOR" TIPO="QUANTIDADE"  > 60<num> anos<n> </EM> e<conj-c> ando<adv> <EM ID="465" CATEG="VALOR" TIPO="QUANTIDADE"  > 88<num> </EM> .<punc> 
+Foi<v-fin> uma<art> operação<n> que<pron-indp> fiz<v-fin> ,<punc> que<pron-indp> me<pron-pers> tiraram<v-fin> uma<art> pedra<n> da<v-pcp> vesícula<v-fin> que<pron-indp> podia<v-fin> gerar<v-inf> em<prp> cancro<n> porque<conj-s> já<adv> estava<v-fin> em<prp> ferida<n> ,<punc> felizmente<adv> não<adv> chegou<v-fin> a<prp> tanto<adv> .<punc> 
+E<conj-c> portanto<adv> ,<punc> passava<v-fin> muito<adv> tempo<n> em<prp> casa<n> ,<punc> depois<adv> vim<v-fin> aqui<adv> para<prp> <EM ID="466" CATEG="LOCAL" TIPO="HUMANO"  > Braga<prop> </EM> em<prp> <EM ID="467" CATEG="TEMPO" TIPO="DATA"  > 1934<num> </EM> .<punc> 
+E<conj-c> não<adv> podia<v-fin> sair<v-inf> muito<adv> e<conj-c> felizmente<adv> entusiasmei-me<v-inf> pelos<n> livros<adj> ,<punc> <EM ID="468" CATEG="ABSTRACCAO" TIPO="OBRA"  > Antero<prop> de<prp> Quental<prop> </EM> e<conj-c> outros<pron-det> autores<n> que<pron-indp> eu<pron-pers> gostei<v-fin> muito<adv> ,<punc> e<conj-c> ainda<adv> hoje<adv> gosto<v-fin> ,<punc> e<conj-c> de<prp> facto<n> essa<pron-det> parte<n> que<adv> me<pron-pers> marcou<v-fin> .<punc> 
+Depois<adv> quando<adv> me<pron-pers> libertei<v-fin> da<v-pcp> doença<n> foi<v-fin> outra<pron-det> coisa<n> .<punc> 
+Qual<pron-det> é<v-fin> a<art> lembrança<n> mais<adv> forte<adj> que<pron-indp> tem<v-fin> da<v-pcp> escola<n> primária<adj> ?<punc> 
+É<v-fin> o<art> professor<n> .<punc> 
+A<art> escola<n> chamava-se<v-fin> no<pron-pers> <EM ID="469" CATEG="ABSTRACCAO" TIPO="NOME"  > Lar<prop> da<v-pcp> Cabrada<prop> </EM> .<punc> 
+Na<prop> altura<adv> tinha<v-fin> ideia<n> que<pron-indp> era<v-fin> muito<adv> grande<adj> ,<punc> depois<adv> voltei<v-fin> lá<adv> e<conj-c> era<v-fin> muito<adv> pequenina<adj> e<conj-c> agora<adv> já<adv> nem<conj-c> existe<v-fin> ,<punc> que<conj-s> até<adv> casas<n> lá<adv> construiram<v-fin> .<punc> 
+O<pron-det> que<pron-indp> mais<adv> gostava<v-fin> no<adj> professor<n> ?<punc> 
+Conseguia<v-fin> explicar<v-inf> claro<adv> entusiasmando-se<n> .<punc> 
+Ainda<adv> me<pron-pers> lembro<v-fin> do<v-pcp> primeiro<adj> texto<n> que<conj-s> eu<pron-pers> estive<v-fin> a<prp> ler<v-inf> .<punc> 
+Era<v-fin> sobre<prp> a<art> <EM ID="470" CATEG="TEMPO" TIPO="CICLICO"  > Primavera<n> </EM> e<conj-c> o<art> meu<pron-det> pai<n> muito<adv> admirado<v-pcp> .<punc> 
+Eu<pron-pers> gostava<v-fin> porque<conj-s> ele<pron-pers> consegui-me<v-fin> entusiasmar<v-inf> a<prp> ver<v-inf> o<pron-det> que<pron-indp> estava<v-fin> ali<adv> escrito<v-pcp> .<punc> 
+E<conj-c> portanto<adv> eu<pron-pers> estava<v-fin> ligando<v-ger> palavra<n> por<prp> palavra<n> ,<punc> depois<adv> lia<v-fin> a<art> segunda<adj> ,<punc> depois<adv> lia<v-fin> segunda<adj> e<conj-c> a<art> primeira<adj> ,<punc> depois<adv> ia<v-fin> lendo<v-ger> .<punc> 
+E<conj-c> o<art> primeiro<adj> texto<n> que<conj-s> eu<pron-pers> li<v-fin> demorou<v-fin> <EM ID="471" CATEG="VALOR" TIPO="QUANTIDADE"  > 2<num> horas<n> </EM> ,<punc> segundo<prp> diz<v-fin> o<art> meu<pron-det> pai<n> .<punc> 
+Porque<conj-s> ele<pron-pers> cnseguia-nos<v-fin> meter<v-inf> entusiasmo<n> nesse<conj-c> trabalho<n> de<prp> saber<v-inf> o<pron-det> que<pron-indp> estava<v-fin> escrito<v-pcp> ,<punc> o<pron-det> que<pron-indp> é<v-fin> que<conj-s> isso<pron-indp> representa<v-fin> ,<punc> as<art> contas<n> .<punc> 
+De<prp> maneira<n> ,<punc> que<pron-indp> eu<pron-pers> depois<adv> no<adj> ensino<n> secundário<adj> não<adv> tive<v-fin> dificuldade<n> nenhuma<pron-det> .<punc> 
+Fui<v-fin> seguindo<v-ger> .<punc> 
+Ainda<adv> agora<adv> disse<v-fin> ,<punc> numa<art> entrevista<n> aqui<adv> há<v-fin> dias<n> ,<punc> que<conj-s> uma<art> das<n> vantagens<n> que<pron-indp> eu<pron-pers> tive<v-fin> na<pron-pers> minha<pron-det> formação<n> foi<v-fin> ter<v-inf> um<art> bom<adj> professor<n> de<prp> instrução<n> primária<adj> .<punc> 
+Porque<conj-s> quando<adv> as<art> coisas<n> começam<v-fin> bem<adv> é<v-fin> fácil<adj> continuar<v-inf> ,<punc> mas<conj-c> quando<adv> começam<v-fin> mal<adv> ,<punc> depois<adv> endireitar<v-inf> .<punc> 
+Quando<adv> os<art> fundamentos<n> de<prp> uma<art> casa<n> são<v-fin> bons<adj> ,<punc> a<art> casa<n> aguenta-se<v-fin> ,<punc> quando<adv> são<v-fin> maus<adj> é<v-fin> difícil<adj> construir<v-inf> uma<art> casa<n> .<punc> 
+E<conj-c> realmente<adv> nisso<n> devo<v-fin> muito<adv> ao<prp> meu<pron-det> professor<n> de<prp> instrução<n> primária<adj> .<punc> 
+Tive<v-fin> sorte<n> .<punc> 
+E<conj-c> lembra-se<v-fin> porque<conj-s> apanhou<v-fin> a<art> primeira<adj> reguada<n> ?<punc> 
+Olhe<prop> não<adv> sei<v-fin> porquê<adv> .<punc> 
+Foi<v-fin> a<art> professora<n> que<pron-indp> me<pron-pers> mandou<v-fin> lá<adv> .<punc> 
+A<art> professora<n> não<adv> tinha<v-fin> muita<pron-det> simpatia<n> entre<prp> os<art> alunos<n> ,<punc> lá<adv> houve<v-fin> qualquer<pron-det> coisa<n> que<pron-indp> eu<pron-pers> terei<v-fin> falado<v-pcp> ,<punc> e<conj-c> mandou-me<v-fin> lá<adv> .<punc> 
+O<art> professor<n> riu-se<v-fin> e<conj-c> deu-me<v-fin> devagarinho<adj> só<adv> para<prp> dizer<v-inf> que<conj-s> dava<v-fin> .<punc> 
+Em<prp> casa<n> quem<pron-indp> é<v-fin> que<conj-s> tinha<v-fin> mais<adv> autoridade<n> ?<punc> 
+O<art> pai<n> tinha<v-fin> autoridade<n> ou<conj-c> julgava<v-fin> que<conj-s> tinha<v-fin> porque<conj-s> as<art> mães<n> têm<v-fin> muito<pron-det> jeito<n> para<prp> ter<v-inf> autoridade<n> .<punc> 
+Agora<adv> quando<adv> ela<pron-pers> dizia<v-fin> :"Olha<v-fin> que<conj-s> eu<pron-pers> digo<v-fin> ao<prp> teu<pron-det> pai."<n> ,<punc> "Ai<prop> não<adv> .<punc> 
+Se<conj-s> quer-me<v-fin> bater<v-inf> ,<punc> bata-me<n> a<prp> mãe<n> ."<punc> 
+O<art> meu<pron-det> pai<n> era<v-fin> um<art> homem<n> de<prp> muito<pron-det> ardor<n> que<pron-indp> fez<v-fin> a<art> sua<pron-det> vida<n> .<punc> 
+Veio<v-fin> lá<adv> de<prp> uma<art> aldeiazinha<n> e<conj-c> a<art> vida<n> foi<v-fin> a<art> pulso<n> ,<punc> portanto<adv> era<v-fin> ditador<adj> ,<punc> e<conj-c> às<adv> vezes<n> um<prp> pouco<pron-det> violento<n> em<prp> certas<pron-det> coisas<n> .<punc> 
+A<art> minha<pron-det> mãe<n> era<v-fin> muito<adv> equilibrada<v-pcp> e<conj-c> eu<pron-pers> aprendi<v-fin> muito<adv> com<prp> a<art> minha<pron-det> mãe<n> .<punc> 
+Os<art> homens<n> levam-se<v-fin> melhor<adv> com<prp> delicadeza<n> e<conj-c> atenção<n> do<adj> que<pron-indp> com<prp> empurrões<n> .<punc> 
+E<conj-c> isso<pron-indp> a<art> minha<pron-det> mãe<n> sabia<v-fin> usar<v-inf> e<conj-c> a<art> gente<n> aprende<v-fin> com<prp> essas<pron-det> coisas<n> .<punc> 
+Aprende<v-fin> para<prp> a<art> vida<n> inteira<adj> .<punc> 
+Relacionava-se<prop> melhor<adj> com<prp> a<art> sua<pron-det> mãe<n> ou<conj-c> com<prp> o<art> seu<pron-det> pai?<n> 
+Os<art> dois<num> ,<punc> mas<conj-c> com<prp> a<art> minha<pron-det> mãe<n> nesse<v-fin> ponto<n> entendia-me<v-fin> melhor<adj> .<punc> 
+A<art> minha<pron-det> mãe<n> sabia<v-fin> escutar<adj> ,<punc> compreender<v-inf> ,<punc> acompanhava-me<pron-det> muito<adv> nos<pron-pers> sucessos<adj> e<conj-c> nos<pron-pers> fracassos<adj> e<conj-c> ajuda-me<v-fin> muito<adv> nesse<pron-det> aspecto<n> .<punc> 
+Com<prp> descreve<v-fin> a<art> sua<pron-det> mãe<n> ?<punc> 
+Eu<pron-pers> fisicamente<adv> não<adv> me<pron-pers> lembro<v-fin> muito<adv> bem<adv> da<v-pcp> minha<pron-det> mãe<n> ,<punc> era<v-fin> mais<adv> a<art> maneira<n> de<prp> ser<v-inf> ,<punc> isso<pron-indp> é<v-fin> que<conj-s> me<pron-pers> ficou<v-fin> de<prp> minha<pron-det> mãe<n> .<punc> 
+E<conj-c> digo-lhe<v-fin> que<conj-s> depois<adv> eu<pron-pers> fui<v-fin> reitor<n> ,<punc> tive<v-fin> esses<pron-det> cargos<n> todos<pron-det> ,<punc> e<conj-c> quem<pron-indp> me<pron-pers> marcou<v-fin> para<prp> a<art> vida<n> toda<pron-det> foi<v-fin> a<art> minha<pron-det> mãe<n> nesse<v-fin> aspecto<n> :<punc> saber<v-inf> aceitar<v-inf> as<art> pessoas<n> ,<punc> ser<v-inf> amigo<n> das<v-pcp> pessoas<n> .<punc> 
+Há<v-fin> vários<pron-det> casos<n> na<pron-pers> minha<pron-det> vida<n> que<pron-indp> me<pron-pers> têm<v-fin> acontecido<v-pcp> e<conj-c> que<pron-indp> sempre<adv> procurei<v-fin> resolver<v-inf> de<prp> maneira<n> humana<adj> ,<punc> o<pron-det> que<pron-indp> nem<adv> sempre<adv> se<pron-pers> consegue<v-fin> porque<conj-s> há<v-fin> gente<n> amargurada<v-pcp> que<conj-s> é<v-fin> muito<adv> difícil<adj> tratar<v-inf> com<prp> elas<pron-pers> .<punc> 
+De<prp> facto<n> procurei<v-fin> sempre<adv> respeitar<v-inf> as<art> pessoas<n> com<prp> quem<pron-indp> tratrei<v-fin> e<conj-c> pôr-me<v-fin> sempre<adv> do<v-pcp> lado<n> delas<adj> ,<punc> porque<conj-s> se<pron-pers> nós<pron-pers> queremos<v-fin> impor<v-inf> a<art> nossa<pron-det> visão<n> ,<punc> o<art> nosso<pron-det> ponto<n> de<prp> vista<n> ,<punc> temos<v-fin> que<conj-s> procurar<v-inf> compreender<v-inf> a<pron-det> perspectiva<n> das<v-pcp> outras<pron-det> pessoas<n> e<conj-c> ver<v-inf> nesse<pron-det> ponto<n> qual<pron-det> é<v-fin> a<art> melhor<adj> solução<n> .<punc> 

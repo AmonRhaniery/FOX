@@ -1,0 +1,21 @@
+01.94<num> -<punc> <EM ID="2267" CATEG="VALOR" TIPO="QUANTIDADE"  > 54<num> </EM> ocorrências<n> policiais<adj> são<v-fin> registradas<v-pcp> com<prp> menores<n> .<punc> 
+25<num> .<punc> 
+13<num> .<punc> 
+17<num> .<punc> 
+18<num> .<punc> 
+ago<adv> .<punc> 
+20<num> .<punc> 
+ago<adv> .<punc> 
+11<num> .<punc> 
+02<num> .<punc> 
+out<n> .<punc> 
+94<num> -<punc> <EM ID="2268" CATEG="VALOR" TIPO="QUANTIDADE"  > Cerca<n> de<prp> 140<num> </EM> santistas<n> são<v-fin> detidos<v-pcp> no<adj> <EM ID="2269" CATEG="LOCAL" TIPO="HUMANO"  > Rio<prop> </EM> com<prp> revólveres<n> ,<punc> morteiros<n> e<conj-c> bombas<n> caseiras<adj> .<punc> 
+12<num> .<punc> 
+out<n> .<punc> 
+94<num> -<punc> Dois<num> torcedores<n> foram<v-fin> internados<v-pcp> em<prp> estado<n> grave<adj> e<conj-c> outros<pron-det> <EM ID="2270" CATEG="VALOR" TIPO="QUANTIDADE"  > 30<num> </EM> ficaram<v-fin> feridos<v-pcp> durante<prp> briga<n> entre<prp> as<art> torcidas<n> do<v-pcp> <EM ID="2271" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Guarani<prop> </EM> e<conj-c> do<v-pcp> <EM ID="2272" CATEG="ORGANIZACAO" TIPO="INSTITUICAO"  > Corinthians<prop> </EM> no<pron-pers> em<prp> <EM ID="2273" CATEG="LOCAL" TIPO="HUMANO"  > Campinas<prop> </EM> .<punc> 15<num> .<punc> 
+out<n> .<punc> 
+16<num> .<punc> 
+out<n> .<punc> 
+22<num> .<punc> 
+out<n> .<punc> 
+94<num> -<punc> Os<art> palmeirenses<n> <EM ID="2274" CATEG="PESSOA" TIPO="INDIVIDUAL"  > M.F.B<prop> .<punc> </EM> ,<punc> <EM ID="2275" CATEG="VALOR" TIPO="QUANTIDADE"  > 16<num> </EM> ,<punc> e<conj-c> <EM ID="2276" CATEG="PESSOA" TIPO="INDIVIDUAL"  > Wagner<prop> Silva<prop> </EM> ,<punc> <EM ID="2277" CATEG="VALOR" TIPO="QUANTIDADE"  > 23<num> </EM> são<v-fin> baleados<v-pcp> no<adj> <EM ID="2278" CATEG="LOCAL" TIPO="HUMANO"  > Rio<prop> </EM> .<punc> 
