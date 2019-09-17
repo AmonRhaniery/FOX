@@ -54,7 +54,6 @@ public class HaremPtTrainerReader extends ANERReader {
      */
 
     private Map<String, String> entityClassesOracel = null; 
-    protected File[]                  inputFiles;				//Arquivos de input
     protected StringBuffer            taggedInput = new StringBuffer();		//Texto lido dos arquivos de input
     protected String                  input       = "";
     protected HashMap<String, String> entities    = new HashMap<>();		//HashMap com entidade e classificacao
