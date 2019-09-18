@@ -8,6 +8,7 @@
             fr="1" 
             it="1" 
             nl="1"
+            pt="1"
             >
         </poolSize>
         <listenerName>FoxNetworkListener</listenerName>
