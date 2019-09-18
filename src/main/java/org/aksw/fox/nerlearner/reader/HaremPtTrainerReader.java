@@ -105,9 +105,9 @@ public class HaremPtTrainerReader extends ANERReader {
 
     //Usada apenas na funcao main de teste da classe, para logar
     public String getInput() {
-        // DEBUG
+/*         // DEBUG
         if (LOG.isDebugEnabled())
-            LOG.debug("Input:\n " + input + "\n");
+            LOG.debug("Input:\n " + input + "\n"); */
 
         // INFO
         LOG.info("Input length: " + input.length());
@@ -119,12 +119,12 @@ public class HaremPtTrainerReader extends ANERReader {
     //AINDA NAO ALTERADO!!
     public HashMap<String, String> getEntities() {
         {
-            // DEBUG
+/*             // DEBUG
             if (LOG.isDebugEnabled()) {
                 LOG.debug("Starting getEntities...");
                 for (Entry<String, String> e : entities.entrySet())
                     LOG.debug(e.getKey() + " -> " + e.getValue());
-            } 
+            }  */
             // INFO 
             
             LOG.info("Oracle raw size: " + entities.size());
@@ -189,8 +189,8 @@ public class HaremPtTrainerReader extends ANERReader {
     //Le o PREAMBLE ou o conteudo da tag TEXT para taggedInput
     //OBS: Para o nosso leitor tudo se encaixa como TEXT mas nao tem tag de abertura ou fechamento
     protected void readInputFromFiles() throws IOException {
-        if (LOG.isDebugEnabled())
-            LOG.debug("Starting readInputFromFiles...");
+/*         if (LOG.isDebugEnabled())
+            LOG.debug("Starting readInputFromFiles..."); */
 
         for (File file : inputFiles) {
             BufferedReader br = new BufferedReader(new FileReader(file));
@@ -246,8 +246,8 @@ public class HaremPtTrainerReader extends ANERReader {
     //Le as entidades a partir do taggedInput
     //Principal funcao a ser alterada para o nosso leitor!
     protected String parse() {
-        if (LOG.isDebugEnabled())
-            LOG.debug("Starting parse ...");
+/*         if (LOG.isDebugEnabled())
+            LOG.debug("Starting parse ..."); */
 
         //input = taggedInput.toString().replaceAll("<p>|</p>", "");
 
@@ -387,8 +387,8 @@ public class HaremPtTrainerReader extends ANERReader {
         if (!word.isEmpty()) {
             if (entities.get(word) != null) {
                 if (!entities.get(word).equals(classs) && !entities.get(word).equals(BILOUEncoding.O)) {
-                    LOG.debug("Oracle with a token with diff. annos. No disamb. for now. Ignore token.");
-                    LOG.debug(word + " : " + classs + " | " + entities.get(word));  
+/*                     LOG.debug("Oracle with a token with diff. annos. No disamb. for now. Ignore token.");
+                    LOG.debug(word + " : " + classs + " | " + entities.get(word));   */
                     entities.put(word, BILOUEncoding.O);
                 }
             } else
