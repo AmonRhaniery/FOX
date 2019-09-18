@@ -12,7 +12,7 @@
             >
         </poolSize>
         <listenerName>FoxNetworkListener</listenerName>
-        <port>3389</port>
+        <port>4444</port>
         <host>0.0.0.0</host>
         <demo>true</demo>
         <api>true</api>
