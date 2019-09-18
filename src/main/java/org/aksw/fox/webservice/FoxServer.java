@@ -318,7 +318,8 @@ public class FoxServer extends AServer {
       }
     }
     if (!ToolsGenerator.usedLang.contains(lang)) {
-      lang = FoxParameter.Langs.EN.toString();
+      //lang = FoxParameter.Langs.EN.toString();
+      lang = "pt";
     }
     return lang;
   }
