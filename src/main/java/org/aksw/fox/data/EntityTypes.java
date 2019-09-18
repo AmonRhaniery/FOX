@@ -14,9 +14,9 @@ import org.aksw.fox.data.encode.BILOUEncoding;
  */
 public class EntityTypes {
 
-  public static final String L = "LOCATION";
-  public static final String O = "ORGANIZATION";
-  public static final String P = "PERSON";
+  public static final String L = "LOCAL";
+  public static final String O = "ORGANIZACAO";
+  public static final String P = "PESSOA";
   public static final String NA = BILOUEncoding.O;
 
   public static final List<String> AllTypesList = new ArrayList<>(//
