@@ -67,7 +67,7 @@ public class TokenManager {
     }
 
     if (LOG.isDebugEnabled()) {
-      //LOG.debug(input);
+      LOG.debug(input);
       LOG.debug(tokenInput);
     }
 
@@ -103,8 +103,8 @@ public class TokenManager {
     if (occurrence.size() != 0) {
 
     } else {
-      //LOG.debug("can't find entity:" + entity.getText() + "(" + entity.getToolName()
-      //    + "), try to fix ...");
+      LOG.debug("can't find entity:" + entity.getText() + "(" + entity.getToolName()
+          + "), try to fix ...");
 
       String fix = entity.getText().replaceAll("([\\p{Punct}&&[^\")\\]}.]])(\\s+)", "$1");
       occurrence = FoxTextUtil.getIndices(fix, tokenInput);
@@ -132,7 +132,7 @@ public class TokenManager {
             entity.setText(fix);
             LOG.debug("fixed.");
           } else {
-            //LOG.debug("can't fix it.");
+            LOG.debug("can't fix it.");
             entity.setText("");
           }
         }
