@@ -1,0 +1,27 @@
+Experimentos FOX versão 2.5.2
+http://foxpt.brazilsouth.cloudapp.azure.com:4444/fox
+
+1º Experimento: ER com as ferramentas individuais no HAREM e SummIT - weak annotation
+http://gerbil.aksw.org/gerbil/experiment?id=201909200004
+
+2º Experimento: ER com as ferramentas individuais no Bengal - weak
+http://gerbil.aksw.org/gerbil/experiment?id=201909210002
+http://gerbil.aksw.org/gerbil/experiment?id=201909210008
+
+3º Experimento: A2KB com o FOXPT, DBpediaSpotlight,BabelFy com os datasets do HAREM, SUMMIT e BENGAL juntos 
+
+http://gerbil.aksw.org/gerbil/experiment?id=201909180003
+http://gerbil.aksw.org/gerbil/experiment?id=201909210010
+
+4º Experimento: ER com as ferramentas individuais no HAREM e SummIT - strong
+
+http://gerbil.aksw.org/gerbil/experiment?id=201909230002
+
+5º Experimento: ER com as ferramentas individuais no Bengal - strong
+
+http://gerbil.aksw.org/gerbil/experiment?id=201909240000
+http://gerbil.aksw.org/gerbil/experiment?id=201909240002
+
+6º Experimento: A2KB com o FOXPT, DBpediaSpotlight,BabelFy com os datasets do HAREM e BENGAL juntos - Strong
+
+http://gerbil.aksw.org/gerbil/experiment?id=201909240001
